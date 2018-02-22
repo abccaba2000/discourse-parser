@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="51-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="中国三十一个省、自治区和直辖市亦赠予香港多件特别的礼物，包括雕塑、挂毯、雕刻、剌绣、陶瓷、漆制品等，|庆贺特区成立。" SentencePosition="1…50|51…57" Center="1" ChildList="3" ParentId="-1" UseTime="19"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="30-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="中国三十一个省、自治区和直辖市亦赠予香港多件特别的礼物，|包括雕塑、挂毯、雕刻、剌绣、陶瓷、漆制品等，" SentencePosition="1…28|29…50" Center="1" ChildList="" ParentId="2" UseTime="19"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="47-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="由於礼物数量多、体积大，部分重达一千至三千公斤，未能在典礼上逐一致送，只能播映贺礼的录映带；|嘉宾则在典礼後前往会展中心五楼观赏。" SentencePosition="1…46|47…64" Center="3" ChildList="2" ParentId="-1" UseTime="24"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="由於" RelationType="因果关系" ConnectivePosition="1…2" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="由於礼物数量多、体积大，部分重达一千至三千公斤，|未能在典礼上逐一致送，只能播映贺礼的录映带；" SentencePosition="1…24|25…46" Center="2" ChildList="3|4" ParentId="1" UseTime="15"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="16-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="由於礼物数量多、体积大，|部分重达一千至三千公斤，" SentencePosition="1…12|13…24" Center="3" ChildList="" ParentId="2" UseTime="282"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="42-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="未能在典礼上逐一致送，|只能播映贺礼的录映带；" SentencePosition="25…35|36…46" Center="3" ChildList="" ParentId="2" UseTime="13"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="27-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="此时，董建华与约一百名主要嘉宾前往会展中心新翼大堂，|观看钱其琛为「永远盛开的紫荆花」雕塑主持象徵式的送赠仪式。" SentencePosition="1…26|27…55" Center="3" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="13…13" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="雕塑放置在新翼前的海傍，|但由於天气恶劣，故未能如期在现场为这个六米高、表面「晋金」喷涂、并贴上金箔的铜铸雕塑举行揭幕仪式。" SentencePosition="1…12|13…61" Center="2" ChildList="2" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="由於…故" RelationType="因果关系" ConnectivePosition="14…15&amp;&amp;21…21" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="但由於天气恶劣，|故未能如期在现场为这个六米高、表面「晋金」喷涂、并贴上金箔的铜铸雕塑举行揭幕仪式。" SentencePosition="13…20|21…61" Center="2" ChildList="" ParentId="1" UseTime="23"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="雕塑端立於暖红色的「四川红」花岗岩基座上，底部文字阴刻贴金。基座由方圆构成，象徵九州方圆，环衬的长城图案，象徵伟大的祖国。|「永远盛开的紫荆花」昭示香港未来繁荣昌盛。" SentencePosition="1…61|62…82" Center="3" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="雕塑端立於暖红色的「四川红」花岗岩基座上，底部文字阴刻贴金。|基座由方圆构成，象徵九州方圆，环衬的长城图案，象徵伟大的祖国。" SentencePosition="1…30|31…61" Center="3" ChildList="3|4" ParentId="1" UseTime="6"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="雕塑端立於暖红色的「四川红」花岗岩基座上，|底部文字阴刻贴金。" SentencePosition="1…21|22…30" Center="3" ChildList="" ParentId="2" UseTime="6"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="基座由方圆构成，象徵九州方圆，|环衬的长城图案，象徵伟大的祖国。" SentencePosition="31…45|46…61" Center="3" ChildList="5" ParentId="2" UseTime="11"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="基座由方圆构成，|象徵九州方圆，" SentencePosition="31…38|39…45" Center="1" ChildList="" ParentId="4" UseTime="8"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="22…23" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="其他贺礼均反映各省、自治区或直辖市的特色。|例如内蒙古自治区重视马术，致送的礼物是一尊骏马奔腾的雕塑，而海南省致送的是一件贝雕。" SentencePosition="1…21|22…63" Center="1" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="51…51" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="例如内蒙古自治区重视马术，致送的礼物是一尊骏马奔腾的雕塑，|而海南省致送的是一件贝雕。" SentencePosition="22…50|51…63" Center="3" ChildList="3" ParentId="1" UseTime="14"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="38-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="例如内蒙古自治区重视马术，|致送的礼物是一尊骏马奔腾的雕塑，" SentencePosition="22…34|35…50" Center="2" ChildList="" ParentId="2" UseTime="15"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="三十一件贺礼於七月三日及四日上午十时至下午五时在香港会展中心五楼展览厅展出，供市民参观。|贺礼日後摆放博物馆。" SentencePosition="1…44|45…54" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="40-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="三十一件贺礼於七月三日及四日上午十时至下午五时在香港会展中心五楼展览厅展出，|供市民参观。" SentencePosition="1…38|39…44" Center="1" ChildList="" ParentId="1" UseTime="19"/>
+  </P> 
+</DOC>

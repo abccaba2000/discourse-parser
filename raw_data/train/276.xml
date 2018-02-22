@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="新华社北京４月２３日电中华人民共和国国务院副总理朱（容加金旁）基２３日电唁美国前总统理查德?尼克松逝世。|电文全文如下：" SentencePosition="1…52|53…59" Center="1" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="尼克松先生是一位具有远见卓识的政治家，生前一直关心中美关系，先后曾七次访华，为两国关系的改善和发展做出了重要贡献，赢得了中国人民的尊敬。|对他的不幸逝世，我谨表示深切哀悼，并向尼克松先生的家属致以诚挚的慰问。" SentencePosition="1…68|69…103" Center="3" ChildList="2|6" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="尼克松先生是一位具有远见卓识的政治家，|生前一直关心中美关系，先后曾七次访华，为两国关系的改善和发展做出了重要贡献，赢得了中国人民的尊敬。" SentencePosition="1…19|20…68" Center="3" ChildList="3" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="生前一直关心中美关系，先后曾七次访华，|为两国关系的改善和发展做出了重要贡献，赢得了中国人民的尊敬。" SentencePosition="20…38|39…68" Center="2" ChildList="4|5" ParentId="2" UseTime="9"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="生前一直关心中美关系，|先后曾七次访华，" SentencePosition="20…30|31…38" Center="3" ChildList="" ParentId="3" UseTime="7"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="68-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="为两国关系的改善和发展做出了重要贡献，|赢得了中国人民的尊敬。" SentencePosition="39…57|58…68" Center="3" ChildList="" ParentId="3" UseTime="17"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="86…86" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="对他的不幸逝世，我谨表示深切哀悼，|并向尼克松先生的家属致以诚挚的慰问。" SentencePosition="69…85|86…103" Center="3" ChildList="" ParentId="1" UseTime="13"/>
+  </P> 
+</DOC>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="82…82" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="条例草案规定那些声称根据《基本法》第二十四条第二段第三项的规定在香港特别行政区有居留权的儿童，必须出示附加在其旅游证件或其他获接纳的身分证明文件上的居留权证明书，|以证明其居留权。" SentencePosition="1…81|82…89" Center="1" ChildList="" ParentId="-1" UseTime="20"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="让" RelationType="目的关系" ConnectivePosition="15…15" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="这个计划旨在提供有效的渠道，|让声称根据《基本法》第二十四条第二段第三项的规定有居留权的儿童有秩序地来港。" SentencePosition="1…14|15…52" Center="2" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="根据这项计划，合资格儿童的居留权资格获得正式核实之後才会获准进入香港。|至於居住在内地的儿童，他们必须出示由入境事务处处长签发而附加在其单程通行证上的居留权证明书，证明其居留权。" SentencePosition="1…35|36…88" Center="3" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="83-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="至於居住在内地的儿童，他们必须出示由入境事务处处长签发而附加在其单程通行证上的居留权证明书，|证明其居留权。" SentencePosition="36…81|82…88" Center="1" ChildList="" ParentId="1" UseTime="23"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="22…22" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人说，入境事务处处长曾与内地当局商讨，|并取得内地当局的同意，在推行居留权证明书计划一事上予以合作。" SentencePosition="1…21|22…51" Center="3" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="并取得内地当局的同意，|在推行居留权证明书计划一事上予以合作。" SentencePosition="22…32|33…51" Center="1" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="29…29" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他说：「公安局同意接受居住在内地儿童的居留权证明书申请，|并在确定儿童的身分、与父母的关系及其中国国籍後，继续将须予核实的申请转介香港特别行政区入境事务处。」" SentencePosition="1…28|29…78" Center="3" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="24…24" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="「入境事务处处长可授权公安局保存居留权证明书，|并在按照次序签发单程通行证时，将居留权证明书贴上。」" SentencePosition="1…23|24…49" Center="3" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="（甲）…（乙）…（丙）…及（丁）" RelationType="并列关系" ConnectivePosition="1…3&amp;&amp;52…54&amp;&amp;84…86&amp;&amp;104…107" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="（甲）其父或母根据《基本法》第二十四条第二款第一项或第二十四条第二款第二项是香港特别行政区永久性居民；|（乙）在儿童出生时，其父或母是香港或香港特别行政区的永久性居民；|（丙）在香港以外出生的儿童是中国籍人士；|及（丁）如果藉以取得居留权的来源是父亲，则该儿童必是《基本法》第二十四条第二款第一项或第二项所列居民所生的婚生子女或获确立婚生地位子女。" SentencePosition="1…51|52…83|84…103|104…171" Center="3" ChildList="2" ParentId="-1" UseTime="36"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="如果…则" RelationType="假设关系" ConnectivePosition="108…109&amp;&amp;124…124" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="及（丁）如果藉以取得居留权的来源是父亲，|则该儿童必是《基本法》第二十四条第二款第一项或第二项所列居民所生的婚生子女或获确立婚生地位子女。" SentencePosition="104…123|124…171" Center="2" ChildList="" ParentId="1" UseTime="24"/> 
+  </P>  
+  <P ID="13"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="45…45" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="入境处人员会根据由内地公安局提供的资料及对儿童出生时其父母在港的居留身分的纪录加以审查，|以评估该名人士是否根据《基本法》第二十四条第二款第三项而享有居留权。" SentencePosition="1…44|45…78" Center="1" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="14"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="假如" RelationType="假设关系" ConnectivePosition="7…8" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人说∶「假如情况可疑或资料不符，|入境处会要求内地当局提交有关证明文件的副本，并向他们查询文件的真确性。」" SentencePosition="1…18|19…54" Center="2" ChildList="2" ParentId="-1" UseTime="19"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="41…41" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="入境处会要求内地当局提交有关证明文件的副本，|并向他们查询文件的真确性。」" SentencePosition="19…40|41…54" Center="3" ChildList="" ParentId="1" UseTime="13"/> 
+  </P>  
+  <P ID="15"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="25-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="一个由政务司司长担任主席的专责小组於五月初成立，|这项计划是小组经过深思熟虑後的成果。" SentencePosition="1…24|25…42" Center="3" ChildList="" ParentId="-1" UseTime="14"/> 
+  </P>  
+  <P ID="17"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="若" RelationType="假设关系" ConnectivePosition="5…5" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="「显然，若特区政府不采取有效措施，打击那些偷运声称根据《基本法》第二十四条第二段第三项的规定有居留权的儿童入境而又罔顾其安全的蛇头，|是不负责任的。」" SentencePosition="1…66|67…74" Center="2" ChildList="2" ParentId="-1" UseTime="22"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="19-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="「显然，若特区政府不采取有效措施，|打击那些偷运声称根据《基本法》第二十四条第二段第三项的规定有居留权的儿童入境而又罔顾其安全的蛇头，" SentencePosition="1…17|18…66" Center="2" ChildList="" ParentId="1" UseTime="30"/> 
+  </P>  
+  <P ID="19"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="否则" RelationType="推断关系" ConnectivePosition="44-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="他说∶「入境事务处处长需要有法定的权力遣走那些居留权资格未获正式核实之前已来港的人士。|任何延误都会让蛇头有机可乘，散播特赦的谣言，导致大量儿童涌入。」" SentencePosition="1…43|44…75" Center="1" ChildList="2" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="67-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="任何延误都会让蛇头有机可乘，散播特赦的谣言，|导致大量儿童涌入。」" SentencePosition="44…65|66…75" Center="2" ChildList="3" ParentId="1" UseTime="16"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="任何延误都会让蛇头有机可乘，|散播特赦的谣言，" SentencePosition="44…57|58…65" Center="3" ChildList="" ParentId="2" UseTime="8"/> 
+  </P>  
+  <P ID="21"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="条例草案将於明日（星期三）提交临时立法会，|鉴於事情重要及紧迫，政府期望把条例草案於一日内三读通过。" SentencePosition="1…21|22…49" Center="3" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="鉴於" RelationType="因果关系" ConnectivePosition="22…23" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="鉴於事情重要及紧迫，|政府期望把条例草案於一日内三读通过。" SentencePosition="22…31|32…49" Center="2" ChildList="" ParentId="1" UseTime="13"/>
+  </P> 
+</DOC>

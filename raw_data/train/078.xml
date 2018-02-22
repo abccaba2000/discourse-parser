@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC>
+  <P ID="3">
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="任命戴光前为人事部副部长，|王君为煤炭工业部副部长，|张海涛为广播电影电视部副部长，|史纪良为中国人民银行副行长，|陈耕为中国石油天然气总公司副总经理，|王永秋为驻旧金山总领事（大使衔），|霍淑珍为驻圣保罗总领事，|陆琪为驻福冈总领事，|安启光为驻卡拉奇总领事，|李志国为驻迪拜总领事，|刘峻岫为驻巴塞罗那总领事，|王格武为驻蒂华纳总领事。" SentencePosition="1…13|14…25|26…40|41…54|55…72|73…89|90…101|102…111|112…123|124…134|135…147|148…159" Center="3" ChildList="" ParentId="-1" UseTime="22"/>
+  </P>
+</DOC>

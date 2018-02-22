@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="1"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="26-" ConnectiveAttribute="可添加" RoleLocation="abnormal" LanguageSense="false" Sentence="坚定不移地执行自力更生、艰苦奋斗、勤俭建国的方针。|我国是发展中的社会主义大国，经济建设的立足点必须放在自己力量的基础上。???摘自中共十三届七中全会公报" SentencePosition="1…25|26…76" Center="1" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="41-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="我国是发展中的社会主义大国，|经济建设的立足点必须放在自己力量的基础上。???摘自中共十三届七中全会公报" SentencePosition="26…39|40…76" Center="2" ChildList="" ParentId="1" UseTime="13"/> 
+  </P> 
+</DOC>

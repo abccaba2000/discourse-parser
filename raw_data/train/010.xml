@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国进出口银行最近在日本取得债券信用等级ＡＡ－，|这是日本金融市场当前对中国银行的最高债券评级。" SentencePosition="1…24|25…47" Center="2" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="日本公社债研究所确定中国进出口银行债券信用等级为ＡＡ－，|与日本评级机构内部对中国主权信用等级的评级一致。" SentencePosition="1…28|29…52" Center="3" ChildList="" ParentId="-1" UseTime="21"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="目的关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="去年十月，中国进出口银行聘请日本野村证券公司作顾问，|向日本著名的评级机构日本公社债研究所提出正式评级申请。" SentencePosition="1…26|27…53" Center="2" ChildList="" ParentId="-1" UseTime="36"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="36…36" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="进出口银行决定先在日本取得信用评级是为进入国际资本市场融资创造作准备，|以便扩大资金来源，支持中国机电产品和成套设备出口。" SentencePosition="1…35|36…60" Center="2" ChildList="5" ParentId="-1" UseTime="26"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="以便扩大资金来源，|支持中国机电产品和成套设备出口。" SentencePosition="36…44|45…60" Center="3" ChildList="" ParentId="4" UseTime="8"/> 
+  </P>  
+  <P ID="6">
+    <R ID="6" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="使之" RelationType="目的关系" ConnectivePosition="85…86" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="进出口银行通过书面介绍、实地考察等形式向日本公社债研究所全面介绍了今年来中国金融体制改革的情况、银行成立的背景、银行管理和运营机制、银行业务发展现状以及以后的发展目标，|使之对中国进出口银行有了较深的了解。" SentencePosition="1…84|85…102" Center="1" ChildList="" ParentId="-1" UseTime="23"/>
+  </P>
+</DOC>

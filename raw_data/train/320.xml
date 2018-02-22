@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="李志仁先生在台湾有“笔墨大王”之称，|近几年先后出资一千万元新台币，在中国大陆老、少、边、穷地区建立了百所小学，受到海内外人士的称赞。" SentencePosition="1…18|19…66" Center="3" ChildList="2" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="57-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="近几年先后出资一千万元新台币，在中国大陆老、少、边、穷地区建立了百所小学，|受到海内外人士的称赞。" SentencePosition="19…55|56…66" Center="1" ChildList="3" ParentId="1" UseTime="17"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="37-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="近几年先后出资一千万元新台币，|在中国大陆老、少、边、穷地区建立了百所小学，" SentencePosition="19…33|34…55" Center="3" ChildList="" ParentId="2" UseTime="25"/>
+  </P> 
+</DOC>

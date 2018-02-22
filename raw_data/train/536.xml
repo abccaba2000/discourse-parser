@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="一九九七年上半年送交该处注册的楼宇买卖合约（包括住宅及非住宅单位）共有十一万五千六百七十三份，|较去年下半年增加百分之四十四点六，与去年同期比较，则增加百分之七十一点五。" SentencePosition="1…47|48…84" Center="1" ChildList="2" ParentId="-1" UseTime="13"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="66-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="较去年下半年增加百分之四十四点六，|与去年同期比较，则增加百分之七十一点五。" SentencePosition="48…64|65…84" Center="3" ChildList="" ParentId="1" UseTime="21"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="上述合约总值为四千八百三十五亿八千万元，|较去年下半年增加百分之七十四点二，与去年同期比较，则增加百分之一百四十五点三。" SentencePosition="1…20|21…59" Center="1" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="较去年下半年增加百分之七十四点二，|与去年同期比较，则增加百分之一百四十五点三。" SentencePosition="21…37|38…59" Center="3" ChildList="" ParentId="1" UseTime="13"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="此外，今年上半年共有十一万零九百八十份楼宇转让契约送交该处注册，|较去年下半年的八万一千二百六十五份增加百分之三十六点六，较去年同期的七万八千二百五十五份，则增加百分之四十一点八。" SentencePosition="1…32|33…89" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="62-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="较去年下半年的八万一千二百六十五份增加百分之三十六点六，|较去年同期的七万八千二百五十五份，则增加百分之四十一点八。" SentencePosition="33…60|61…89" Center="3" ChildList="" ParentId="1" UseTime="20"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="该些楼宇转让契约涉及的款项总值达三千七百八十亿四千万元，|较去年下半年增加百分之六十六点五，与去年同期比较，则增加百分之一百零三点九。" SentencePosition="1…28|29…66" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="47-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="较去年下半年增加百分之六十六点五，|与去年同期比较，则增加百分之一百零三点九。" SentencePosition="29…45|46…66" Center="3" ChildList="" ParentId="1" UseTime="11"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="涉及的楼宇按揭总值（建筑按揭除外）为四百三十七亿一千万元，|较去年下半年增加百分之二十八点四，与去年同期比较，则增加百分之六。" SentencePosition="1…29|30…62" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="48-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="较去年下半年增加百分之二十八点四，|与去年同期比较，则增加百分之六。" SentencePosition="30…46|47…62" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="52…52" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="土地注册处今日发表的图表，载有上述数据、今年上半年其他统计数字、以及去年下半年和上半年的相关统计数字，|以供参考。" SentencePosition="1…51|52…56" Center="1" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="一九九七年上半年市民查册的次数共二百八十五万五千四百六十七次，|较去年下半年增加百分之二十二点八，与去年同期比较，则增加百分之四十三点六。" SentencePosition="1…31|32…68" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="50-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="较去年下半年增加百分之二十二点八，|与去年同期比较，则增加百分之四十三点六。" SentencePosition="32…48|49…68" Center="3" ChildList="" ParentId="1" UseTime="11"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="六月份送交土地注册处注册的楼宇买卖合约（包括住宅及非住宅单位）共一万七千五百一十份，|较五月份减少百分之十一点四，与去年六月比较，则增加百分之五十八点四。" SentencePosition="1…42|43…76" Center="1" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="58-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="较五月份减少百分之十一点四，|与去年六月比较，则增加百分之五十八点四。" SentencePosition="43…56|57…76" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="六月份注册的楼宇买卖合约总值为八百一十四亿元，|较五月份增加百分之十七点四，与去年六月比较，则增加百分之一百三十四点一。" SentencePosition="1…23|24…59" Center="1" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="较五月份增加百分之十七点四，|与去年六月比较，则增加百分之一百三十四点一。" SentencePosition="24…37|38…59" Center="3" ChildList="" ParentId="1" UseTime="11"/> 
+  </P>  
+  <P ID="13"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="28…28" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="该处同时发表五月份及去年同期的土地注册数字，以资比较；|并发表过去十二个月内楼宇买卖合约纪录的统计图，以及楼宇买卖合约的升降趋势图。" SentencePosition="1…27|28…65" Center="3" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="23…23" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="该处同时发表五月份及去年同期的土地注册数字，|以资比较；" SentencePosition="1…22|23…27" Center="1" ChildList="" ParentId="1" UseTime="16"/> 
+  </P>  
+  <P ID="14"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="由於…因此" RelationType="因果关系" ConnectivePosition="1…2&amp;&amp;28…29" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="由於由签署契约至把契约送交该处登记，通常相隔一段时间，|因此，六月份的注册数字，一般显示送交登记前约四个星期内签署契约的物业交易。" SentencePosition="1…27|28…64" Center="2" ChildList="" ParentId="-1" UseTime="27"/> 
+  </P> 
+</DOC>

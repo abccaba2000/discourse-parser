@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据悉，该笔商业贷款由美洲银行亚洲有限公司为牵头银行，|金融条件优惠，|贷款期限为六年，|将用于国内汽车、化工、钢铁、电子等行业的八个技改项目。" SentencePosition="1…26|27…33|34…41|42…68" Center="3" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在日前举行的借款签字仪式上，工商银行副行长李礼辉表示，今后，工行将进一步加大境外融资力度，|加强与国外各家银行的合作，|支持国家经济建设和国内企业的技术改造。" SentencePosition="1…45|46…58|59…77" Center="3" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国工商银行是国内最大的国有商业银行之一，|截至今年六月末，工行外汇总资产已达到二百七十七亿美元，外汇存款一百零四亿美元，外汇贷款八十五亿美元，对外担保余额约二十八亿美元，去年全年国际结算业务量五百六十亿美元，去年实现外汇利润五点四亿美元。" SentencePosition="1…21|22…119" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="截至今年六月末，工行外汇总资产已达到二百七十七亿美元，|外汇存款一百零四亿美元，|外汇贷款八十五亿美元，|对外担保余额约二十八亿美元，|去年全年国际结算业务量五百六十亿美元，|去年实现外汇利润五点四亿美元。" SentencePosition="22…48|49…60|61…71|72…85|86…104|105…119" Center="3" ChildList="" ParentId="1" UseTime="19"/> 
+  </P>  
+  <P ID="6">
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在境外融资业务方面，工行一九八八年以来已与日本、新加坡、英国、意大利、奥地利、瑞士、德国、美国等近二十个国家签订了各类贷款协议一百五十多个，|对外借款余额近八亿美元，|用于国内二百多个项目。" SentencePosition="1…70|71…82|83…93" Center="3" ChildList="" ParentId="-1" UseTime="9"/>
+  </P>
+</DOC>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="虽然…仍" RelationType="让步关系" ConnectivePosition="11…12&amp;&amp;46…46" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="特区政府发言人解释，虽然香港特别行政区政府已获中央人民政府授权签发香港特别行政区护照，|香港仍需要本地法例规定有关签发特区护照的实际事宜。" SentencePosition="1…43|44…68" Center="3" ChildList="" ParentId="-1" UseTime="25"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="30…30" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人说：「由七月一日开始，入境处已有权签发香港特区护照。|而自七月三日起，入境处已为急切需要旅行证件的人士签发香港特区护照。」" SentencePosition="1…29|30…63" Center="3" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="9">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="36…36" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="「条例草案的生效日期应配合入境处获授权签发香港特区护照的日期。|条例草案并无任何罚则的条款。」" SentencePosition="1…31|32…46" Center="3" ChildList="" ParentId="-1" UseTime="9"/>
+  </P>
+</DOC>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="政府今日（星期二）在宪报刊登联合国制裁条例草案。|该草案旨在赋权行政长官，在收到中央人民政府的指令後，制定规例以执行联合国安全理事会所实施的制裁。" SentencePosition="1…24|25…72" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="该草案旨在赋权行政长官，|在收到中央人民政府的指令後，制定规例以执行联合国安全理事会所实施的制裁。" SentencePosition="25…36|37…72" Center="1" ChildList="" ParentId="1" UseTime="6"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="所以" RelationType="因果关系" ConnectivePosition="43…44" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="工商局局长俞宗怡解释，在香港特别行政区（香港特区）施行联合国的制裁是与外交事务有关，|所以是属於中央人民政府的决定。" SentencePosition="1…42|43…57" Center="2" ChildList="" ParentId="-1" UseTime="20"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="44…45" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="最近行政长官接到中央人民政府的指令，要执行联合国安全理事会的决定，向几个地方实施制裁。|因此要制定本地的法律，以使这些指令得以生效。" SentencePosition="1…43|44…65" Center="2" ChildList="2|4" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="最近行政长官接到中央人民政府的指令，|要执行联合国安全理事会的决定，向几个地方实施制裁。" SentencePosition="1…18|19…43" Center="1" ChildList="3" ParentId="1" UseTime="8"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="要执行联合国安全理事会的决定，|向几个地方实施制裁。" SentencePosition="19…33|34…43" Center="1" ChildList="" ParentId="2" UseTime="8"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="以使" RelationType="目的关系" ConnectivePosition="55…56" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="因此要制定本地的法律，|以使这些指令得以生效。" SentencePosition="44…54|55…65" Center="1" ChildList="" ParentId="1" UseTime="18"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="俞宗怡说∶「执行联合国的制裁亦会为特区带来好处。|这会维持香港特区作为一个负责任的贸易夥伴的声誉，而不是一个规避联合国制裁的渠道。」" SentencePosition="1…24|25…65" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="49…49" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="这会维持香港特区作为一个负责任的贸易夥伴的声誉，|而不是一个规避联合国制裁的渠道。」" SentencePosition="25…48|49…65" Center="1" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="「过往，由联合国实施的经济制裁是依靠英国的枢密院颁令在香港执行。|这些颁令已在一九九七年六月三十日後失效。」" SentencePosition="1…32|33…53" Center="1" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="19…19" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="联合国的制裁会因个别情况而有所不同，|但通常会包括下列一项或多项∶" SentencePosition="1…18|19…32" Center="2" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="为了" RelationType="目的关系" ConnectivePosition="1…2" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="为了将旧措施失效和新措施尚未实施的间断时间减至最少，|政府将於明日（星期三）把联合国制裁条例草案提交临时立法会。" SentencePosition="1…26|27…55" Center="2" ChildList="" ParentId="-1" UseTime="14"/> 
+  </P>  
+  <P ID="13">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="鉴於" RelationType="因果关系" ConnectivePosition="2…3" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="「鉴於这草案提供立法工具使中央人民政府权力范围内发出的指引得以有效，|我们相信临立会的成员会谅解并合作确保草案得以迅速通过。」" SentencePosition="1…34|35…62" Center="2" ChildList="" ParentId="-1" UseTime="13"/>
+  </P>
+</DOC>

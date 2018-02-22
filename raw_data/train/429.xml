@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="第三届中国部分地区经贸合作交流会日前在九七秋季广交会上举行，|宣布“中国投资信息网”已正式在国际互联网上开通并运作。" SentencePosition="1…30|31…57" Center="2" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="此后" RelationType="顺承关系" ConnectivePosition="44…45" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="作为全国性对外招商引资信息网络机构，中国经贸合作信息网络中心（ＣＥＣ）于去年十月成立，|此后在每届广交会上举办一次地区性的经贸合作交流活动。" SentencePosition="1…43|44…69" Center="3" ChildList="" ParentId="-1" UseTime="14"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，ＣＥＣ已将所收集的中国经贸合作投资项目信息，通过互联网向用户提供项目信息查询服务，介绍中国各地投资政策、投资环境，开展国际网上招商。|据悉，ＣＥＣ目前在世界一百六十个国家和地区发展了八千多万个用户。" SentencePosition="1…70|71…102" Center="1" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，ＣＥＣ已将所收集的中国经贸合作投资项目信息，通过互联网向用户提供项目信息查询服务，|介绍中国各地投资政策、投资环境，|开展国际网上招商。" SentencePosition="1…45|46…61|62…70" Center="3" ChildList="" ParentId="1" UseTime="15"/>
+  </P> 
+</DOC>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="乍得新总统依迪斯?代比十二日到达巴黎访问。|密特朗总统同他进行了半小时秘密会谈。代比希望法国给予乍得『全面支持』法国在表示愿提供合作的同时，表示将中止同乍得的军事协议。目前法国在乍得有一千二百人的驻军。" SentencePosition="1…21|22…100" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="密特朗总统同他进行了半小时秘密会谈。|代比希望法国给予乍得『全面支持』法国在表示愿提供合作的同时，表示将中止同乍得的军事协议。目前法国在乍得有一千二百人的驻军。" SentencePosition="22…39|40…100" Center="1" ChildList="3" ParentId="1" UseTime="5"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="代比希望法国给予乍得『全面支持』法国在表示愿提供合作的同时，表示将中止同乍得的军事协议。|目前法国在乍得有一千二百人的驻军。" SentencePosition="40…83|84…100" Center="1" ChildList="" ParentId="2" UseTime="5"/>
+  </P> 
+</DOC>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="青海油田新年再传捷报：截至九七年十二月末，油气产量达一百六十万吨。|该油田油气产量已连续七年逾百万吨。" SentencePosition="1…33|34…50" Center="3" ChildList="" ParentId="-1" UseTime="5"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="青海油田位于青藏高原北部的柴达木盆地，总面积二十四平方公里。|自一九五四年勘探开发以来，已累计生产原油一千五百五十多万吨，加工原油近八百万吨。" SentencePosition="1…30|31…70" Center="3" ChildList="2|3" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="青海油田位于青藏高原北部的柴达木盆地，|总面积二十四平方公里。" SentencePosition="1…19|20…30" Center="3" ChildList="" ParentId="1" UseTime="4"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="63-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="自一九五四年勘探开发以来，已累计生产原油一千五百五十多万吨，|加工原油近八百万吨。" SentencePosition="31…60|61…70" Center="3" ChildList="" ParentId="1" UseTime="28"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="5" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，近几年来，油田加大了对油气资源的勘探和开发投资力度，投入勘探资金近十亿元，探明油气储量年均增长四千多万吨。|通过对新的勘探资料的测算，确认柴达木盆地的石油资源量近四十二亿吨。|目前，已探明二十二个油气田石油储量两亿多吨，天然气储量突破一千五百亿立方米。|其规模仅次于四川、陕甘宁、塔里木，居全国气田第四位。" SentencePosition="1…57|58…90|91…128|129…154" Center="3" ChildList="6|8|9" ParentId="-1" UseTime="12"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，近几年来，油田加大了对油气资源的勘探和开发投资力度，投入勘探资金近十亿元，|探明油气储量年均增长四千多万吨。" SentencePosition="1…41|42…57" Center="3" ChildList="7" ParentId="5" UseTime="9"/>  
+    <R ID="7" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，近几年来，油田加大了对油气资源的勘探和开发投资力度，|投入勘探资金近十亿元，" SentencePosition="1…30|31…41" Center="1" ChildList="" ParentId="6" UseTime="6"/>  
+    <R ID="8" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前，已探明二十二个油气田石油储量两亿多吨，|天然气储量突破一千五百亿立方米。" SentencePosition="91…112|113…128" Center="3" ChildList="" ParentId="5" UseTime="6"/>  
+    <R ID="9" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其规模仅次于四川、陕甘宁、塔里木，|居全国气田第四位。" SentencePosition="129…145|146…154" Center="1" ChildList="" ParentId="5" UseTime="9"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据悉，中国已作出规划，|“九五”期间（一九九六至二０００年）利用这一地区丰富的油气资源，通过引进外资、与地方联合筹资等方式，在盆地兴建年产十二万吨聚氯乙烯、十万吨烧碱和二十万吨合成氨、三十万吨尿素的大型天然气化工和盐化工结合项目。" SentencePosition="1…11|12…114" Center="1" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前，与之配套建设的两条总长近三百公里的输气管道和一座装机一万六千瓦的天然气发电站已建成投产。|通往青海石油局生活科研基地──甘肃敦煌长二百八十公里的第三条天然气管道和格尔木炼油厂年产十万吨甲醇项目将于今年动工兴建。" SentencePosition="1…47|48…107" Center="3" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="为" RelationType="目的关系" ConnectivePosition="4…4" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="此外，为提高油品的附加值，|总投资二亿六千万元的青海石油管理局格尔木炼油厂二期工程已建成投产，这项工程主要由年产十五万吨九十号无铅汽油催化重整、年产十五万吨加氢精制柴油装置组成。这一工程的投产，将进一步完善该厂的油品结构，提高产品的市场竞争能力。" SentencePosition="1…13|14…122" Center="2" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="总投资二亿六千万元的青海石油管理局格尔木炼油厂二期工程已建成投产，这项工程主要由年产十五万吨九十号无铅汽油催化重整、年产十五万吨加氢精制柴油装置组成。|这一工程的投产，将进一步完善该厂的油品结构，提高产品的市场竞争能力。" SentencePosition="14…88|89…122" Center="1" ChildList="3|4" ParentId="1" UseTime="10"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="总投资二亿六千万元的青海石油管理局格尔木炼油厂二期工程已建成投产，|这项工程主要由年产十五万吨九十号无铅汽油催化重整、年产十五万吨加氢精制柴油装置组成。" SentencePosition="14…46|47…88" Center="1" ChildList="" ParentId="2" UseTime="11"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="117-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="这一工程的投产，将进一步完善该厂的油品结构，|提高产品的市场竞争能力。" SentencePosition="89…110|111…122" Center="3" ChildList="" ParentId="2" UseTime="12"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国石油天然气总公司已确定把柴达木盆地列为中国油气勘探重点地区，|计划到本世纪末实现油气年产量三百万吨，到二零零五年，年产量达到一千万吨。" SentencePosition="1…32|33…68" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="计划到本世纪末实现油气年产量三百万吨，|到二零零五年，年产量达到一千万吨。" SentencePosition="33…51|52…68" Center="3" ChildList="" ParentId="1" UseTime="9"/>
+  </P> 
+</DOC>

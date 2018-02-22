@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="50-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="当局明日（星期三）向临时立法会提交《一九九七年法律条文（暂时终止实施）条例草案》进行首、二、三读，|暂时终止实施前立法局在一九九六／九七年度最後一次会议通过的七项议员条例草案所带来的立法转变。" SentencePosition="1…49|50…95" Center="1" ChildList="" ParentId="-1" UseTime="27"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以便" RelationType="目的关系" ConnectivePosition="39…40" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="提交这项条例草案旨在让当局得以对各项立法转变带来的影响作出适当和详尽的研究，|以便决定各条款是否合乎公众利益。" SentencePosition="1…38|39…54" Center="1" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这些议员条例草案於六月三十日刊宪并正式生效，|有问题的七项法例是：" SentencePosition="1…22|23…32" Center="3" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="34…35" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="政府发言人今日表示有需要尽快暂时终止实施这些法例所带来的立法转变，|因为这些法例与政策大相迳庭，可能为社会带来长期的负面影响。" SentencePosition="1…33|34…62" Center="1" ChildList="2" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective=" 并" RelationType="并列关系" ConnectivePosition="49-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="因为这些法例与政策大相迳庭，|可能为社会带来长期的负面影响。" SentencePosition="34…47|48…62" Center="3" ChildList="" ParentId="1" UseTime="21"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="发言人说：「我们需要审慎检讨这些法例，评估它们的实际影响，并会在有需要时谘询有关团体，才决定下一步行动。|检讨於九月完成。」" SentencePosition="1…52|53…61" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="才" RelationType="条件关系" ConnectivePosition="44…44" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人说：「我们需要审慎检讨这些法例，评估它们的实际影响，并会在有需要时谘询有关团体，|才决定下一步行动。" SentencePosition="1…43|44…52" Center="1" ChildList="3" ParentId="1" UseTime="27"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="30…30" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人说：「我们需要审慎检讨这些法例，评估它们的实际影响，|并会在有需要时谘询有关团体，" SentencePosition="1…29|30…43" Center="3" ChildList="4" ParentId="2" UseTime="16"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="24-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="发言人说：「我们需要审慎检讨这些法例，|评估它们的实际影响，" SentencePosition="1…19|20…29" Center="3" ChildList="" ParentId="3" UseTime="13"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="26…27" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人指出，这些法例大部分未经条例草案委员会审议，|其中五项与劳工事务有关。" SentencePosition="1…25|26…37" Center="1" ChildList="" ParentId="-1" UseTime="16"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="abnormal" LanguageSense="true" Sentence="届时将谘询劳工事宜三方谘询机构--劳工顾问委员会（劳顾会）。|较早前劳顾会已研究过这五项法例，认为需要更多时间考虑其中的条款，不宜原封不动提交立法局，仓卒通过，其中以雇员代表权、谘询权和集体谈判权等影响深远的事宜为然。" SentencePosition="1…30|31…108" Center="1" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="48-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="较早前劳顾会已研究过这五项法例，|认为需要更多时间考虑其中的条款，不宜原封不动提交立法局，仓卒通过，其中以雇员代表权、谘询权和集体谈判权等影响深远的事宜为然。" SentencePosition="31…46|47…108" Center="3" ChildList="3" ParentId="1" UseTime="23"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="认为需要更多时间考虑其中的条款，不宜原封不动提交立法局，仓卒通过，|其中以雇员代表权、谘询权和集体谈判权等影响深远的事宜为然。" SentencePosition="47…79|80…108" Center="1" ChildList="4" ParentId="2" UseTime="23"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="认为需要更多时间考虑其中的条款，|不宜原封不动提交立法局，仓卒通过，" SentencePosition="47…62|63…79" Center="3" ChildList="5" ParentId="3" UseTime="15"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="5" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="不宜原封不动提交立法局，|仓卒通过，" SentencePosition="63…74|75…79" Center="3" ChildList="" ParentId="4" UseTime="8"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="正如…一样" RelationType="例证关系" ConnectivePosition="40…41&amp;&amp;48…49" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="他补充：「同样，我们不会实施《一九九七年房屋（修订）条例》和《截取通讯条例》。|正如上述七项条例一样，我们会全面分析这两项条例所带来的影响。」" SentencePosition="1…39|40…70" Center="1" ChildList="" ParentId="-1" UseTime="21"/> 
+  </P>  
+  <P ID="13"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="36…36" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="「我们相信上述建议是务实的做法，让各方得以详细研究多项立法转变的影响，|以决定这些条款是否确实合乎公众利益。」" SentencePosition="1…35|36…54" Center="1" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="让" RelationType="目的关系" ConnectivePosition="17…17" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="「我们相信上述建议是务实的做法，|让各方得以详细研究多项立法转变的影响，" SentencePosition="1…16|17…35" Center="1" ChildList="" ParentId="1" UseTime="14"/>
+  </P> 
+</DOC>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="新华社北京一月二十一日电（记者陈芸、丁坚铭）记者从中国民生银行获悉，中国民生银行成立两年来，业务发展迅速。|目前民生银行的资产总规模已超过了二百亿元，比开业时增长了十倍。" SentencePosition="1…53|54…84" Center="2" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前民生银行的资产总规模已超过了二百亿元，|比开业时增长了十倍。" SentencePosition="54…74|75…84" Center="1" ChildList="" ParentId="1" UseTime="10"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国民生银行是一九九六年一月十二日经国务院和中国人民银行批准后成立的，它是中国首家主要由民营企业投资入股的全国性股份制商业银行。|具有产权明晰、机制灵活的特色。|重点为民营企业、有规模的乡镇企业、“三资”企业及高新技术产业提供金融服务和支持，同时也为国有大中型企业提供融资服务。" SentencePosition="1…64|65…79|80…137" Center="3" ChildList="2|3" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国民生银行是一九九六年一月十二日经国务院和中国人民银行批准后成立的，|它是中国首家主要由民营企业投资入股的全国性股份制商业银行。" SentencePosition="1…35|36…64" Center="3" ChildList="" ParentId="1" UseTime="4"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="同时也" RelationType="并列关系" ConnectivePosition="120…122" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="重点为民营企业、有规模的乡镇企业、“三资”企业及高新技术产业提供金融服务和支持，|同时也为国有大中型企业提供融资服务。" SentencePosition="80…119|120…137" Center="3" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据统计，在民生银行的各项贷款中有一半是投向非国有经济部门的。|目前，中国民生银行已与境外一百七十家商业银行建立了代理行关系，并创造了开业两年连续盈利的好成绩，在海内外初步树立了良好的社会形象。" SentencePosition="1…30|31…95" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="从而" RelationType="因果关系" ConnectivePosition="80-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="目前，中国民生银行已与境外一百七十家商业银行建立了代理行关系，并创造了开业两年连续盈利的好成绩，|在海内外初步树立了良好的社会形象。" SentencePosition="31…78|79…95" Center="1" ChildList="3" ParentId="1" UseTime="24"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="62…62" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="目前，中国民生银行已与境外一百七十家商业银行建立了代理行关系，|并创造了开业两年连续盈利的好成绩，" SentencePosition="31…61|62…78" Center="3" ChildList="" ParentId="2" UseTime="10"/>
+  </P> 
+</DOC>

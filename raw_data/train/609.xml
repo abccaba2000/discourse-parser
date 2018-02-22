@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="50…50" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="记者从有关部门了解到，浙江正在巴西圣保罗紧锣密鼓地创办中国在海外的第一个大型商品市场??中华商城，|并将与明年三月当地狂欢节时正式开业。" SentencePosition="1…49|50…67" Center="3" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这项举措的发起、组织者是浙江省政府与温州市政府。|在省、市两级政府的牵头和支持下，由温州市十一家著名企业合股创办的温州市海外投资实业总公司联合浙江省市场开发服务中心等省、市、县四家市场开发服务机构，创立了巴西中华商城有限公司。|中华商城有限公司投资三百万美元，选择地处圣保罗市商业繁华区的二十五街区，购置、租用了三千多平方米商场和写字楼兼容的商业大楼，辟建“中华商城”，建成浙江名优产品专业市场。|公司在全省招商并严格遴选了五十家优秀企业，包括低压电器、精密仪器、汽车配件、工艺美术、打火机、皮鞋、服装、纽扣、眼镜、灯具等各类行业。|通过二十五街区这个南美最主要的物资集散地，把浙江的优秀产品推入国际经济循环体中。" SentencePosition="1…24|25…112|113…196|197…263|264…303" Center="3" ChildList="2|3" ParentId="-1" UseTime="21"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中华商城有限公司投资三百万美元，|选择地处圣保罗市商业繁华区的二十五街区，|购置、租用了三千多平方米商场和写字楼兼容的商业大楼，|辟建“中华商城”，|建成浙江名优产品专业市场。" SentencePosition="113…128|129…148|149…174|175…183|184…196" Center="3" ChildList="" ParentId="1" UseTime="33"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="223-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="公司在全省招商并严格遴选了五十家优秀企业，|包括低压电器、精密仪器、汽车配件、工艺美术、打火机、皮鞋、服装、纽扣、眼镜、灯具等各类行业。" SentencePosition="197…217|218…263" Center="1" ChildList="" ParentId="1" UseTime="16"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="125…125" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，针对在国外办市场受到语言交流、风土人情、人缘客源等方面的制约，巴西中华商城有限公司将实行一系列完善的市场服务，诸如对所有进入“中华商城”企业的经营者给予办理出国工作签证和法人代表的长期签证、帮助企业在巴西申报注册进出口公司、牵头成立商会等，|以扶持企业顺利开展经营。" SentencePosition="1…124|125…136" Center="1" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="诸如" RelationType="例证关系" ConnectivePosition="60…61" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，针对在国外办市场受到语言交流、风土人情、人缘客源等方面的制约，巴西中华商城有限公司将实行一系列完善的市场服务，|诸如对所有进入“中华商城”企业的经营者给予办理出国工作签证和法人代表的长期签证、帮助企业在巴西申报注册进出口公司、牵头成立商会等，" SentencePosition="1…59|60…124" Center="1" ChildList="" ParentId="1" UseTime="16"/>
+  </P> 
+</DOC>

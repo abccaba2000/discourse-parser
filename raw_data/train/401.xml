@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="有关负责人士介绍，跨国公司组建方式包括：以开拓国际市场为宗旨，建立具有国际贸易经营功能和实力的综合商社式的跨国贸易集团；|以利用国际资源为目的，建立工农技贸一体化的跨国公司式的跨国生产集团；|以优质名牌产品为龙头，建立企业形象统一的跨国连锁网络；|以服务贸易为载体，建立跨国服务集团；|以国有商业银行为核心，建立具有国际融资功能的跨国金融机构。" SentencePosition="1…60|61…94|95…121|122…139|140…168" Center="3" ChildList="" ParentId="-1" UseTime="20"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他们提出，在管理模式上要向国际惯例靠拢，实行经营当地化。|直接采用当地或国际通行的会计方法和审计程序，按照现代企业制度建立企业机制，企业形式采用有限责任公司、合伙制或股份制，建立健全董事会等法人管理机构，实行董事会决策负责制和总经理经营负责制。" SentencePosition="1…28|29…121" Center="1" ChildList="2|3" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="他们提出，在管理模式上要向国际惯例靠拢，|实行经营当地化。" SentencePosition="1…20|21…28" Center="1" ChildList="" ParentId="1" UseTime="18"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="直接采用当地或国际通行的会计方法和审计程序，|按照现代企业制度建立企业机制，|企业形式采用有限责任公司、合伙制或股份制，|建立健全董事会等法人管理机构，|实行董事会决策负责制和总经理经营负责制。" SentencePosition="29…50|51…65|66…86|87…101|102…121" Center="3" ChildList="" ParentId="1" UseTime="19"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="同时，在产业结构方面要与广东产业优势相结合。|要开展高新技术产业为导向的跨国经营，鼓励有条件的单位到技术先进国家设立或购买高新技术企业及科研机构。要结合广东的产业转型，向发展中国家转移劳动密集型产业。" SentencePosition="1…22|23…99" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="要开展高新技术产业为导向的跨国经营，鼓励有条件的单位到技术先进国家设立或购买高新技术企业及科研机构。|要结合广东的产业转型，向发展中国家转移劳动密集型产业。" SentencePosition="23…72|73…99" Center="3" ChildList="3|4" ParentId="1" UseTime="13"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="44-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="要开展高新技术产业为导向的跨国经营，|鼓励有条件的单位到技术先进国家设立或购买高新技术企业及科研机构。" SentencePosition="23…40|41…72" Center="3" ChildList="" ParentId="2" UseTime="13"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="条件关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="要结合广东的产业转型，|向发展中国家转移劳动密集型产业。" SentencePosition="73…83|84…99" Center="2" ChildList="" ParentId="2" UseTime="8"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="广东已确定发展的七十家大型企业集团，将成为广东跨国经营的主要力量。|据悉，目前有关部门正在制定相关政策，对这些大型企业在审批、利税、外汇等方面给予政策倾斜，并筹划设立发展基金，以培育具有较强竞争力的跨国公司。" SentencePosition="1…33|34…103" Center="1" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="88…88" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="据悉，目前有关部门正在制定相关政策，对这些大型企业在审批、利税、外汇等方面给予政策倾斜，并筹划设立发展基金，|以培育具有较强竞争力的跨国公司。" SentencePosition="34…87|88…103" Center="2" ChildList="3" ParentId="1" UseTime="33"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="78…78" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据悉，目前有关部门正在制定相关政策，对这些大型企业在审批、利税、外汇等方面给予政策倾斜，|并筹划设立发展基金，" SentencePosition="34…77|78…87" Center="3" ChildList="4" ParentId="2" UseTime="24"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="目的关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据悉，目前有关部门正在制定相关政策，|对这些大型企业在审批、利税、外汇等方面给予政策倾斜，" SentencePosition="34…51|52…77" Center="2" ChildList="" ParentId="3" UseTime="7"/>
+  </P> 
+</DOC>

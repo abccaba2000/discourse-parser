@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="推断关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="美国公司高级副总裁马伯乐九日在此间表示，他对江泽民主席即将对美国访问的成果看好。|他说，到二０００年，杜邦公司在中国的投资将达到十亿美元。" SentencePosition="1…40|41…68" Center="2" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="马伯乐是参加了杜邦在上海举行的亚太地区对外事务会议后与其他五位全球领导小组成员专程来北京的。|据马伯乐介绍，杜邦全球领导小组成员是首次参加在亚洲举行的地区性对外事务会议。他说：“我们选择了中国，足见杜邦对中国市场的重视。”" SentencePosition="1…46|47…110" Center="1" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据马伯乐介绍，杜邦全球领导小组成员是首次参加在亚洲举行的地区性对外事务会议。|他说：“我们选择了中国，足见杜邦对中国市场的重视。”" SentencePosition="47…84|85…110" Center="3" ChildList="3" ParentId="1" UseTime="11"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="足见" RelationType="推断关系" ConnectivePosition="97…98" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="他说：“我们选择了中国，|足见杜邦对中国市场的重视。”" SentencePosition="85…96|97…110" Center="2" ChildList="" ParentId="2" UseTime="27"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="因果关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="首次来华的马伯乐说，中国将是二十一世纪世界经济发展的中心，也是杜邦全球业务发展的重要市场。|“我觉得必须亲自来中国看一看。”他说，“来到中国我感受很深，看到中国充满活力。”" SentencePosition="1…45|46…85" Center="1" ChildList="2|3" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="30…30" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="首次来华的马伯乐说，中国将是二十一世纪世界经济发展的中心，|也是杜邦全球业务发展的重要市场。" SentencePosition="1…29|30…45" Center="3" ChildList="" ParentId="1" UseTime="13"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="“我觉得必须亲自来中国看一看。”|他说，“来到中国我感受很深，看到中国充满活力。”" SentencePosition="46…61|62…85" Center="3" ChildList="4" ParentId="1" UseTime="17"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，“来到中国我感受很深，|看到中国充满活力。”" SentencePosition="62…75|76…85" Center="1" ChildList="" ParentId="3" UseTime="10"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="马伯乐还宣布将在北京大学设立杜邦奖学金。|杜邦公司自一九八七年开始在中国各地多家重点大学设立奖学金。目前，杜邦在中国奖学金总额约近百万元人民币，设奖院校已达十六所，其中包括著名的北京大学、复旦大学。" SentencePosition="1…20|21…98" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="杜邦公司自一九八七年开始在中国各地多家重点大学设立奖学金。|目前，杜邦在中国奖学金总额约近百万元人民币，设奖院校已达十六所，其中包括著名的北京大学、复旦大学。" SentencePosition="21…49|50…98" Center="3" ChildList="3" ParentId="1" UseTime="10"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前，杜邦在中国奖学金总额约近百万元人民币，|设奖院校已达十六所，其中包括著名的北京大学、复旦大学。" SentencePosition="50…71|72…98" Center="3" ChildList="4" ParentId="2" UseTime="8"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="82…83" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="设奖院校已达十六所，|其中包括著名的北京大学、复旦大学。" SentencePosition="72…81|82…98" Center="1" ChildList="" ParentId="3" UseTime="16"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="总部设在美国的杜邦公司是世界著名的化学及能源跨国集团。|截止目前，杜邦在中国已成立了四家办事处、三家独资工厂、八家合资企业，投资总额超过三亿美元。" SentencePosition="1…27|28…72" Center="2" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="63-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="截止目前，杜邦在中国已成立了四家办事处、三家独资工厂、八家合资企业，|投资总额超过三亿美元。" SentencePosition="28…61|62…72" Center="3" ChildList="" ParentId="1" UseTime="21"/>
+  </P> 
+</DOC>

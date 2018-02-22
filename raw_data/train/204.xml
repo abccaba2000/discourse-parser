@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="1"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="辽宁省绥中县地毯厂产品畅销美国、日本、比利时等国家和地区，供不应求。|该厂织出的天然色地毯，去年获辽宁省“天马”优质奖。" SentencePosition="1…34|35…59" Center="3" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="辽宁省绥中县地毯厂产品畅销美国、日本、比利时等国家和地区，|供不应求。" SentencePosition="1…29|30…34" Center="3" ChildList="" ParentId="1" UseTime="6"/>
+  </P> 
+</DOC>

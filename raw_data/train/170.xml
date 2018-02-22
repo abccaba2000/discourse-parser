@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据苏联《科学与生活》杂志报道，莫斯科生物学家发现，植物细胞霉素不仅能够抑制蚊子体内疟原虫的繁殖，而且还可灭杀蚊子。这种方法不会污染环境。生物学家把植物细胞霉素同珍珠粉混合，制成颗粒状药剂。这种药剂在水中会逐渐释放出植物细胞霉素。蚊子进食时就会把植物细胞霉素吸入体内。|实验表明，用这种方法可使蚊子传播疟疾的机会减少到原来的七十分之一至八十分之一。" SentencePosition="1…133|134…172" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据苏联《科学与生活》杂志报道，莫斯科生物学家发现，植物细胞霉素不仅能够抑制蚊子体内疟原虫的繁殖，而且还可灭杀蚊子。这种方法不会污染环境。|生物学家把植物细胞霉素同珍珠粉混合，制成颗粒状药剂。这种药剂在水中会逐渐释放出植物细胞霉素。蚊子进食时就会把植物细胞霉素吸入体内。" SentencePosition="1…68|69…133" Center="1" ChildList="3|5" ParentId="1" UseTime="6"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据苏联《科学与生活》杂志报道，莫斯科生物学家发现，植物细胞霉素不仅能够抑制蚊子体内疟原虫的繁殖，而且还可灭杀蚊子。|这种方法不会污染环境。" SentencePosition="1…57|58…68" Center="3" ChildList="4" ParentId="2" UseTime="10"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="不仅…而且还" RelationType="递进关系" ConnectivePosition="32…33&amp;&amp;49…51" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据苏联《科学与生活》杂志报道，莫斯科生物学家发现，植物细胞霉素不仅能够抑制蚊子体内疟原虫的繁殖，|而且还可灭杀蚊子。" SentencePosition="1…48|49…57" Center="3" ChildList="" ParentId="3" UseTime="16"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="124-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="生物学家把植物细胞霉素同珍珠粉混合，制成颗粒状药剂。这种药剂在水中会逐渐释放出植物细胞霉素。|蚊子进食时就会把植物细胞霉素吸入体内。" SentencePosition="69…114|115…133" Center="2" ChildList="6" ParentId="2" UseTime="16"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="生物学家把植物细胞霉素同珍珠粉混合，制成颗粒状药剂。|这种药剂在水中会逐渐释放出植物细胞霉素。" SentencePosition="69…94|95…114" Center="3" ChildList="" ParentId="5" UseTime="7"/>
+  </P> 
+</DOC>

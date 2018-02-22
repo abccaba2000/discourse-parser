@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="在占福建经济总量“半壁江山”的乡镇企业发展中，闽东南地区继续发挥了龙头作用。|去年，福州、厦门、泉州、漳州、莆田五地市乡镇企业经济总量占全省百分之七十以上。" SentencePosition="1…38|39…77" Center="1" ChildList="" ParentId="-1" UseTime="18"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据福建乡镇企业局统计，一九九五年福建省乡镇企业总产值已达二千三百八十一点五亿元人民币，其中工业产值一千五百五十九亿元人民币，全年创利润一百零九亿元人民币。|乡镇企业创造的国民生产总值约占福建省国民生产总值的三分之一。" SentencePosition="1…77|78…107" Center="3" ChildList="2" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="44…45" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="据福建乡镇企业局统计，一九九五年福建省乡镇企业总产值已达二千三百八十一点五亿元人民币，|其中工业产值一千五百五十九亿元人民币，全年创利润一百零九亿元人民币。" SentencePosition="1…43|44…77" Center="1" ChildList="3" ParentId="1" UseTime="16"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其中工业产值一千五百五十九亿元人民币，|全年创利润一百零九亿元人民币。" SentencePosition="44…62|63…77" Center="3" ChildList="" ParentId="2" UseTime="13"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="“八五”期间（一九九一至一九九五年），福建省乡镇企业累计上缴了一百八十五点六亿元人民币的税金，完成出口交货值一千零五十五亿元人民币。|全省已有十一家乡镇企业跻身中国“最佳经济效益乡镇企业”行列。" SentencePosition="1…66|67…96" Center="3" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="“八五”期间（一九九一至一九九五年），福建省乡镇企业累计上缴了一百八十五点六亿元人民币的税金，|完成出口交货值一千零五十五亿元人民币。" SentencePosition="1…47|48…66" Center="3" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="目前，福建省已涌现出一批科技含量较高、发展后劲较足的乡镇企业或乡镇企业集团。|据统计，在全省一百九十一个已建立的乡镇企业集团中，产值上亿元人民币的已达五十多个，有些已达五至十亿元。福州鼓山镇的福兴投资区、晋江安海的桥头工业区均成为全国乡镇企业示范小区。" SentencePosition="1…38|39…125" Center="1" ChildList="2" ParentId="-1" UseTime="21"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据统计，在全省一百九十一个已建立的乡镇企业集团中，产值上亿元人民币的已达五十多个，有些已达五至十亿元。|福州鼓山镇的福兴投资区、晋江安海的桥头工业区均成为全国乡镇企业示范小区。" SentencePosition="39…89|90…125" Center="3" ChildList="3" ParentId="1" UseTime="9"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据统计，在全省一百九十一个已建立的乡镇企业集团中，产值上亿元人民币的已达五十多个，|有些已达五至十亿元。" SentencePosition="39…79|80…89" Center="3" ChildList="" ParentId="2" UseTime="11"/>
+  </P> 
+</DOC>

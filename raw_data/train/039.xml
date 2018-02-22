@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="47-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="美国商会中国分会近日派出一个２５人组成的代表团，在华盛顿向国会和白宫展开为期一周的游说活动，|要求继续延长给中国的贸易最惠国待遇。" SentencePosition="1…46|47…64" Center="2" ChildList="2" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="美国商会中国分会近日派出一个２５人组成的代表团，|在华盛顿向国会和白宫展开为期一周的游说活动，" SentencePosition="1…24|25…46" Center="3" ChildList="" ParentId="1" UseTime="8"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="参加这次游说活动的美商代表来自美国在华的许多知名大企业，如道?琼斯、ＡＴ＆Ｔ、ＩＢＭ、波音、麦道、通用电气、西屋电气、福特以及仙妮雷德集团等。|他们分为５个小组，共约见了约１５０位议员或议员助手以及政府官员，用他们在中国投资办企业的经验，阐述延长给中国贸易最惠国待遇的必要性。" SentencePosition="1…71|72…137" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他们分为５个小组，|共约见了约１５０位议员或议员助手以及政府官员，|用他们在中国投资办企业的经验，阐述延长给中国贸易最惠国待遇的必要性。" SentencePosition="72…80|81…103|104…137" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="于是" RelationType="因果关系" ConnectivePosition="68…69" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="随着美国政府和国会一年一度对中国贸易最惠国待遇问题的审议又将临近，在华美资企业普遍担心今年大选年的美国党派之争可能使这个问题更加复杂，|于是组团对他们进行有组织、有计划的游说活动。" SentencePosition="1…67|68…89" Center="2" ChildList="" ParentId="-1" UseTime="19"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="73-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="代表美国商会广州分会和仙妮雷德集团参加游说团的华裔商人王震对记者说，作为这次游说的后续行动，他准备发动公司下属的数万名经销商给当地国会议员写信，|支持延长中国的贸易最惠国待遇。" SentencePosition="1…72|73…87" Center="2" ChildList="" ParentId="-1" UseTime="16"/> 
+  </P>  
+  <P ID="6">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="41…42" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="美国商会广东分会会长康永华律师说，克林顿政府已经表示要延长中国的贸易最惠国待遇，|因此，这次游说的重点是那些较保守的议员。" SentencePosition="1…40|41…60" Center="2" ChildList="" ParentId="-1" UseTime="10"/>
+  </P>
+</DOC>

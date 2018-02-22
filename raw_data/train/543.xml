@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="香港金融管理局今日（星期一）宣布，第十六期三年期外汇基金债券的投标日期为下星期一（七月十四日），|交收日期为下星期二（七月十五日）。" SentencePosition="1…48|49…65" Center="3" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="另外" RelationType="并列关系" ConnectivePosition="38…39" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="与上期一样，总值五亿港元的三年期债券可供投标。|除这数额外，香港金融管理局将另外持有一亿港元债券作为储备，透过第二市场交易供应给庄家。是期债券将於二零零零年七月十七日期满，利率为年息六厘零八，每半年派息一次。" SentencePosition="1…23|24…103" Center="3" ChildList="3" ParentId="-1" UseTime="19"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="除这数额外，香港金融管理局将另外持有一亿港元债券作为储备，透过第二市场交易供应给庄家。|是期债券将於二零零零年七月十七日期满，利率为年息六厘零八，每半年派息一次。" SentencePosition="24…66|67…103" Center="1" ChildList="4|5" ParentId="1" UseTime="6"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="56-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="除这数额外，香港金融管理局将另外持有一亿港元债券作为储备，|透过第二市场交易供应给庄家。" SentencePosition="24…52|53…66" Center="3" ChildList="" ParentId="3" UseTime="13"/>  
+    <R ID="5" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="是期债券将於二零零零年七月十七日期满，|利率为年息六厘零八，|每半年派息一次。" SentencePosition="67…85|86…95|96…103" Center="3" ChildList="" ParentId="3" UseTime="19"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="市民如欲竞投债券，可透过公布名单上任何一名市场庄家或认可交易商进行，名单可向香港花园道三号三十楼香港金融管理局索取，或致电二八七八八一五零查询。|每一次投标以五万港元或其整数倍数为单位。" SentencePosition="1…72|73…92" Center="1" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="如" RelationType="假设关系" ConnectivePosition="3…3" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="市民如欲竞投债券，|可透过公布名单上任何一名市场庄家或认可交易商进行，名单可向香港花园道三号三十楼香港金融管理局索取，或致电二八七八八一五零查询。" SentencePosition="1…9|10…72" Center="2" ChildList="3" ParentId="1" UseTime="25"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="可透过公布名单上任何一名市场庄家或认可交易商进行，|名单可向香港花园道三号三十楼香港金融管理局索取，或致电二八七八八一五零查询。" SentencePosition="10…34|35…72" Center="3" ChildList="4" ParentId="2" UseTime="8"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="或" RelationType="选择关系" ConnectivePosition="59…59" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="名单可向香港花园道三号三十楼香港金融管理局索取，|或致电二八七八八一五零查询。" SentencePosition="35…58|59…72" Center="3" ChildList="" ParentId="3" UseTime="11"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="发行编号：|三零零七" SentencePosition="1…5|6…9" Center="3" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="投标日期和时间：|一九九七年七月十四日（星期一）上午九时三十分至十时三十分" SentencePosition="1…8|9…36" Center="3" ChildList="" ParentId="-1" UseTime="4"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="发行和交收日期：|一九九七年七月十五日（星期二）" SentencePosition="1…8|9…23" Center="3" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="发行总额：|五亿港元，另外金融管理局持有一亿港元作为储备" SentencePosition="1…5|6…27" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="另外" RelationType="并列关系" ConnectivePosition="11…12" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="五亿港元，|另外金融管理局持有一亿港元作为储备" SentencePosition="6…10|11…27" Center="3" ChildList="" ParentId="1" UseTime="15"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="年期：|三年" SentencePosition="1…3|4…5" Center="3" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="到期日：|二零零零年七月十七日" SentencePosition="1…4|5…14" Center="3" ChildList="" ParentId="-1" UseTime="6"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="利息：|年息为六厘零八，每半年派息一次。" SentencePosition="1…3|4…19" Center="3" ChildList="2" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="年息为六厘零八，|每半年派息一次。" SentencePosition="4…11|12…19" Center="3" ChildList="" ParentId="1" UseTime="5"/> 
+  </P>  
+  <P ID="13"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="利息支付日期：|一九九八年一月十五日一九九八年七月十五日一九九九年一月十五日一九九九年七月十五日二零零零年一月十七日二零零零年七月十七日" SentencePosition="1…7|8…67" Center="3" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="14"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="投标数额：|每一次投标以五万港元或其整数倍数为单位。市民如欲投标，可透过公布名单上任何一名市场庄家或认可交易商进行。" SentencePosition="1…5|6…57" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="每一次投标以五万港元或其整数倍数为单位。|市民如欲投标，可透过公布名单上任何一名市场庄家或认可交易商进行。" SentencePosition="6…25|26…57" Center="3" ChildList="3" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="如" RelationType="假设关系" ConnectivePosition="28…28" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="市民如欲投标，|可透过公布名单上任何一名市场庄家或认可交易商进行。" SentencePosition="26…32|33…57" Center="2" ChildList="" ParentId="2" UseTime="15"/> 
+  </P>  
+  <P ID="15">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其他详情：|请参阅资料备忘录或向市场庄家和认可交易商查询。" SentencePosition="1…5|6…28" Center="3" ChildList="" ParentId="-1" UseTime="7"/>
+  </P>
+</DOC>

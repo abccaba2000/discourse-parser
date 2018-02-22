@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="“世界贸易组织与中国服务贸易研讨会”将于四月十九日在上海召开，|世界贸易组织总干事鲁杰罗将出席并作专题演讲。" SentencePosition="1…31|32…53" Center="3" ChildList="" ParentId="-1" UseTime="5"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="此外…还" RelationType="并列关系" ConnectivePosition="118…119&amp;&amp;124…124" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据悉，研讨会的主题是中国在加入世贸组织谈判中，对金融、保险、海空运、咨询、零售业、广告、律师、会计师等服务贸易行业所作的对外开放承诺，将会对国内同行产生怎样的影响，各行业的国际竞争力如何，中国政府在谈判中如何掌握对服务贸易的开放度等。|此外，研讨会还将探讨上海今后在外贸经营方面试办一些合资企业。" SentencePosition="1…117|118…147" Center="3" ChildList="3" ParentId="-1" UseTime="11"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据悉，研讨会的主题是中国在加入世贸组织谈判中，对金融、保险、海空运、咨询、零售业、广告、律师、会计师等服务贸易行业所作的对外开放承诺，将会对国内同行产生怎样的影响，|各行业的国际竞争力如何，|中国政府在谈判中如何掌握对服务贸易的开放度等。" SentencePosition="1…82|83…94|95…117" Center="3" ChildList="" ParentId="2" UseTime="15"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="此次为期两天的研讨会，由世界贸易组织上海研究中心与上海市对外服务有限公司联合举办。|出席研讨会的还有陪同鲁杰罗来沪的中国外经贸部副部长龙永图，中国前参加关贸总协定首席谈判代表、原外经贸部副部长沈觉人。此外，中国各省市外经贸委、大企业负责人和专家、学者，共约二百人参加了研讨会。" SentencePosition="1…41|42…137" Center="3" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="此外" RelationType="并列关系" ConnectivePosition="100…101" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="出席研讨会的还有陪同鲁杰罗来沪的中国外经贸部副部长龙永图，中国前参加关贸总协定首席谈判代表、原外经贸部副部长沈觉人。|此外，中国各省市外经贸委、大企业负责人和专家、学者，共约二百人参加了研讨会。" SentencePosition="42…99|100…137" Center="3" ChildList="3" ParentId="1" UseTime="11"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="出席研讨会的还有陪同鲁杰罗来沪的中国外经贸部副部长龙永图，|中国前参加关贸总协定首席谈判代表、原外经贸部副部长沈觉人。" SentencePosition="42…70|71…99" Center="3" ChildList="" ParentId="2" UseTime="7"/>
+  </P> 
+</DOC>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="53…53" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="来自六百二十二间学校的一百一十名学生明日（星期三）在信兴阅读奖励计划颁奖典礼上获颁奖杯、书券及奖状，|同场并会展出获奖学生作品。" SentencePosition="1…50|51…63" Center="3" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="且" RelationType="并列关系" ConnectivePosition="37…37" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="阅读奖励计划的目的，在培养学生的良好阅读习惯，|提高学生的阅读及语文能力，|且鼓励学生运用图书馆资源。" SentencePosition="1…23|24…36|37…49" Center="3" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="信兴阅读奖励计划由教育署图书馆组主办，|信兴教育及慈善基金赞助，|小五至中五学生均可参加。" SentencePosition="1…19|20…31|32…43" Center="3" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="5">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="阅读奖励计划非常受欢迎，|参加学校与学生人数每年递增。" SentencePosition="1…12|13…26" Center="1" ChildList="" ParentId="-1" UseTime="6"/>
+  </P>
+</DOC>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="去年１到１０月芬兰向中国香港、印度尼西亚、泰国、新加坡和马来西亚等主要贸易伙伴的出口额达到１０７亿芬兰马克（１芬兰马克约合０．１９美元），相当于１９９６年全年的出口总量。|芬兰对这一地区的出口占其全部出口的比例也从１０年前的百分之一增至百分之六点二。|芬兰向这一地区出口的主要商品是机械和电子工业产品以及运输设备等。" SentencePosition="1…85|86…124|125…156" Center="3" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="去年１到１０月芬兰向中国香港、印度尼西亚、泰国、新加坡和马来西亚等主要贸易伙伴的出口额达到１０７亿芬兰马克（１芬兰马克约合０．１９美元），|相当于１９９６年全年的出口总量。" SentencePosition="1…69|70…85" Center="1" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="与此同时，芬兰从东南亚地区的进口额增长了百分之五。|近年来，芬兰与这一地区的贸易始终保持着明显的顺差。" SentencePosition="1…25|26…50" Center="3" ChildList="" ParentId="-1" UseTime="6"/> 
+  </P>  
+  <P ID="5">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="33-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="芬兰海关预计，东南亚金融危机可能会使芬兰对这一地区出口受到削弱，|特别是机电产品出口将受到影响。" SentencePosition="1…32|33…47" Center="1" ChildList="" ParentId="-1" UseTime="13"/>
+  </P>
+</DOC>

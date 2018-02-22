@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国工商银行近日与以美洲银行亚洲有限公司为牵头行的外国银团签署了一笔商业借款协议，|总额为三千七百六十九万美元。" SentencePosition="1…41|42…55" Center="1" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据了解，中国工商银行此次获得的这笔商业借款条件十分优惠，利率为伦敦同业拆放利率加三十三个百分点，贷款期限为六年。|贷款将用于国内汽车、化工、钢铁、电子等行业的八个技术改造项目。|这次向工商银行提供贷款的外国银团主要由意大利西亚那银行新加坡分行、意大利国民劳动银行香港分行、罗马银行上海分行等组成。" SentencePosition="1…56|57…87|88…146" Center="3" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据了解，中国工商银行此次获得的这笔商业借款条件十分优惠，|利率为伦敦同业拆放利率加三十三个百分点，|贷款期限为六年。" SentencePosition="1…28|29…48|49…56" Center="3" ChildList="" ParentId="1" UseTime="8"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，到今年六月底止，中国工商银行的外汇总资产已达到二百七十七亿美元，外汇存款一百零四亿美元，外汇贷款八十五亿美元，对外担保余额二十八亿美元，去年全年国际结算业务量达五百六十亿美元，实现外汇利润五点四亿美元。|在境外融资方面，迄今为止，工商银行已与日本、新加坡、英国、意大利、奥地利、瑞士、德国、美国等二十个国家签订了各类贷款协议一百五十多个，对外借款余额近八亿美元，共支持国内二百多个项目的建设。" SentencePosition="1…105|106…199" Center="3" ChildList="2|3" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，到今年六月底止，中国工商银行的外汇总资产已达到二百七十七亿美元，|外汇存款一百零四亿美元，|外汇贷款八十五亿美元，|对外担保余额二十八亿美元，|去年全年国际结算业务量达五百六十亿美元，|实现外汇利润五点四亿美元。" SentencePosition="1…36|37…48|49…59|60…72|73…92|93…105" Center="3" ChildList="" ParentId="1" UseTime="16"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在境外融资方面，迄今为止，工商银行已与日本、新加坡、英国、意大利、奥地利、瑞士、德国、美国等二十个国家签订了各类贷款协议一百五十多个，|对外借款余额近八亿美元，|共支持国内二百多个项目的建设。" SentencePosition="106…172|173…184|185…199" Center="3" ChildList="" ParentId="1" UseTime="12"/>
+  </P> 
+</DOC>

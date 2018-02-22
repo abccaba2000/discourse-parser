@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="海南慈善事业近年来发展迅速。|到目前为止，仅文昌、琼海、琼山等市县就成立起四十七个乡镇级慈善机构，基本形成基层慈善组织网络。各级慈善组织坚持互助互济、扶贫帮困的宗旨，吸收慈善资金四百六十八万多元，实施助困、助医、助学、助残等十五个方面的项目，资助款达二百零五万元，有三万七千多人受助。（小标题）中国国际经济法学会９７年会在杭州举行" SentencePosition="1…14|15…164" Center="1" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="到目前为止，仅文昌、琼海、琼山等市县就成立起四十七个乡镇级慈善机构，基本形成基层慈善组织网络。|各级慈善组织坚持互助互济、扶贫帮困的宗旨，吸收慈善资金四百六十八万多元，实施助困、助医、助学、助残等十五个方面的项目，资助款达二百零五万元，有三万七千多人受助。（小标题）中国国际经济法学会９７年会在杭州举行" SentencePosition="15…61|62…164" Center="1" ChildList="3|4" ParentId="1" UseTime="12"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="到目前为止，仅文昌、琼海、琼山等市县就成立起四十七个乡镇级慈善机构，|基本形成基层慈善组织网络。" SentencePosition="15…48|49…61" Center="3" ChildList="" ParentId="2" UseTime="18"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="138-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="各级慈善组织坚持互助互济、扶贫帮困的宗旨，吸收慈善资金四百六十八万多元，实施助困、助医、助学、助残等十五个方面的项目，资助款达二百零五万元，|有三万七千多人受助。（小标题）中国国际经济法学会９７年会在杭州举行" SentencePosition="62…131|132…164" Center="3" ChildList="" ParentId="2" UseTime="35"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国国际经济法学会９７年会暨学术研讨会，于日前在杭州大学举行。|来自国家对外经贸部门，内地和港台大专院校的专家、学者以及美国等国的专家学者，近二百人参加了这次盛会。" SentencePosition="1…31|32…81" Center="1" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="特别是" RelationType="总分关系" ConnectivePosition="54…56" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="本届年会的主题是：有关世界贸易组织的法律问题；有关新投资方式建设、经营、转让以及跨国兼并收购的法律问题等。|特别是有关香港回归后与内地经贸关系的法律调整问题，引发了与会者的积极讨论。（小标题）广东澄海市侨务侨联工作卓有成效" SentencePosition="1…53|54…110" Center="1" ChildList="" ParentId="-1" UseTime="25"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="近年来，广东澄海市侨务、侨联部门在广泛联系海外侨胞、港澳同胞等方面作了大量工作，充分发挥桥梁和纽带作用，积极为经济建设服务。|据统计，到目前为止，全市共接受华侨、港澳同胞捐赠近五亿元人民币，分别用于兴建学校、医院、民房、修路、造桥、建侨联会址等各项社会事业。共接待了来自泰国、新加坡、印尼、马来西亚、美国、加拿大、法国及港澳台等十三个国家和地区九千九百二十八人次。（小标题）中美成立血液流变联合研究中心" SentencePosition="1…62|63…200" Center="1" ChildList="2|3" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="55-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="近年来，广东澄海市侨务、侨联部门在广泛联系海外侨胞、港澳同胞等方面作了大量工作，|充分发挥桥梁和纽带作用，|积极为经济建设服务。" SentencePosition="1…40|41…52|53…62" Center="3" ChildList="" ParentId="1" UseTime="36"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据统计，到目前为止，全市共接受华侨、港澳同胞捐赠近五亿元人民币，分别用于兴建学校、医院、民房、修路、造桥、建侨联会址等各项社会事业。|共接待了来自泰国、新加坡、印尼、马来西亚、美国、加拿大、法国及港澳台等十三个国家和地区九千九百二十八人次。（小标题）中美成立血液流变联合研究中心" SentencePosition="63…128|129…200" Center="3" ChildList="4" ParentId="1" UseTime="11"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据统计，到目前为止，全市共接受华侨、港澳同胞捐赠近五亿元人民币，|分别用于兴建学校、医院、民房、修路、造桥、建侨联会址等各项社会事业。" SentencePosition="63…94|95…128" Center="1" ChildList="" ParentId="3" UseTime="14"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="北京医科大学基础医学院血液流变研究中心与美国加州圣地亚哥分校生物医学院分子生物工程实验室日前联合成立了研究中心。|联合中心的成立，旨在开展临床上一些疾病的机理及临床应用研究，跟踪国内外血液流变学发展的新动向，促进中国微循环血液流变学研究的更大发展。" SentencePosition="1…56|57…123" Center="1" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="106-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="联合中心的成立，旨在开展临床上一些疾病的机理及临床应用研究，|跟踪国内外血液流变学发展的新动向，|促进中国微循环血液流变学研究的更大发展。" SentencePosition="57…86|87…103|104…123" Center="3" ChildList="" ParentId="1" UseTime="41"/>
+  </P> 
+</DOC>

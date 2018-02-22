@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="长江三峡工程近日引进第一笔外资。|这笔数额为一千二百五十万美元的贷款是加拿大政府向三峡工程提供的出口信贷，主要用于三峡工程的管理系统。" SentencePosition="1…16|17…66" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="54-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="这笔数额为一千二百五十万美元的贷款是加拿大政府向三峡工程提供的出口信贷，|主要用于三峡工程的管理系统。" SentencePosition="17…52|53…66" Center="3" ChildList="" ParentId="1" UseTime="15"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="目的关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="三峡工程管理系统将引进加拿大ＭＡＩ公司科学的管理办法和先进的计算机技术，|以工程数据库管理系统为核心，对三峡工程的各分项工程的设计、计划、合同、财务、物资、设备、施工、安装的全过程进行控制和管理。" SentencePosition="1…36|37…97" Center="2" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="一九九五年十月，中国长江三峡工程开发总公司总经理陆佑楣赴加拿大签定了有关商务合同。这个出口信贷项目委托中国银行为代理银行，商务代理为中国电子进出口总公司。|二月二十八日，中国银行三峡分行与中国长江三峡工程开发总公司签订了项目转贷协议合同。" SentencePosition="1…77|78…118" Center="3" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="一九九五年十月，中国长江三峡工程开发总公司总经理陆佑楣赴加拿大签定了有关商务合同。|这个出口信贷项目委托中国银行为代理银行，商务代理为中国电子进出口总公司。" SentencePosition="1…41|42…77" Center="1" ChildList="3" ParentId="1" UseTime="49"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这个出口信贷项目委托中国银行为代理银行，|商务代理为中国电子进出口总公司。" SentencePosition="42…61|62…77" Center="3" ChildList="" ParentId="2" UseTime="11"/>
+  </P> 
+</DOC>

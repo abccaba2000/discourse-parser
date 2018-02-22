@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="由田纪云副委员长率领的中国全国人大代表团结束了对新西兰为期６天的访问，|今晚离开这里前往西萨摩亚首都阿皮亚。" SentencePosition="1…35|36…53" Center="1" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="田纪云在新西兰期间，分别会见了新西兰议长塔普塞尔、总理博尔格以及其他政府高级官员。他还同新西兰工商界的朋友及华人华侨进行了广泛的接触。|双方表示要进一步在经济领域加强合作。" SentencePosition="1…67|68…85" Center="3" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="还" RelationType="顺承关系" ConnectivePosition="43…43" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="田纪云在新西兰期间，分别会见了新西兰议长塔普塞尔、总理博尔格以及其他政府高级官员。|他还同新西兰工商界的朋友及华人华侨进行了广泛的接触。" SentencePosition="1…41|42…67" Center="3" ChildList="" ParentId="1" UseTime="10"/>
+  </P> 
+</DOC>

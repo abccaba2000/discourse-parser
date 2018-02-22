@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="正在访华的美国商务部长布朗今天在这里说，上海是一个经济正在快速发展的城市。美国商界对与上海建立良好的关系很感兴趣。|布朗表示，双方可以在运输、电讯、发电、金融服务业等方面取得进一步的合作。" SentencePosition="1…57|58…93" Center="3" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="正在访华的美国商务部长布朗今天在这里说，上海是一个经济正在快速发展的城市。|美国商界对与上海建立良好的关系很感兴趣。" SentencePosition="1…37|38…57" Center="2" ChildList="" ParentId="1" UseTime="18"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="63-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="据悉，美国西屋公司与上海电气集团的合资协议包括三十万千瓦火电机组关键部件合作生产、同时扩大六十万千瓦机组在各个领域内的合作；|美国通用电气金融公司和上海电力公司的合作包括投资建设四台十万千瓦级的燃气轮发电机组。" SentencePosition="1…62|63…104" Center="3" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="64…64" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="今天下午，布朗还参观了位于上海漕河泾高科技开发区内的上海电子元件公司和美国ＡＭＰ中国有限公司合资建立的上海安普连接器有限公司，|并为上海航空公司引进美国的第六架波音飞机剪彩。" SentencePosition="1…63|64…86" Center="3" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="30-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="中共中央政治局委员、上海市委书记吴邦国今天下午会见了布朗，|介绍了上海改革开放的进程和发展远景。" SentencePosition="1…29|30…47" Center="3" ChildList="" ParentId="-1" UseTime="20"/> 
+  </P>  
+  <P ID="8">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="布朗一行于今晚离沪赴广州。|上海市长代表、市外经贸委主任王祖康到机场为美国客人送行。" SentencePosition="1…13|14…41" Center="3" ChildList="" ParentId="-1" UseTime="4"/>
+  </P>
+</DOC>

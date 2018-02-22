@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="经过十多年的建设，宁波北仑港已拥有二点五万吨至二十五万吨的码头十六座，成为中国最大的深水泊位群。|港口的发展带动了北仑港畔原是封闭半封闭自给自足的农村经济向华东重化工基地、重要贸易口岸和浙江省最大出口加工区发展。港口优势和宁波开发区的开放政策的双重效应，受到了国际大公司的青睐。一九九三年以后，一千万美元以上的大项目每年以十几个、二十几个的速度发展。" SentencePosition="1…48|49…174" Center="2" ChildList="2|3" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="37-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="经过十多年的建设，宁波北仑港已拥有二点五万吨至二十五万吨的码头十六座，|成为中国最大的深水泊位群。" SentencePosition="1…35|36…48" Center="2" ChildList="" ParentId="1" UseTime="10"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="港口的发展带动了北仑港畔原是封闭半封闭自给自足的农村经济向华东重化工基地、重要贸易口岸和浙江省最大出口加工区发展。|港口优势和宁波开发区的开放政策的双重效应，受到了国际大公司的青睐。一九九三年以后，一千万美元以上的大项目每年以十几个、二十几个的速度发展。" SentencePosition="49…105|106…174" Center="3" ChildList="4" ParentId="1" UseTime="10"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="144-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="港口优势和宁波开发区的开放政策的双重效应，受到了国际大公司的青睐。|一九九三年以后，一千万美元以上的大项目每年以十几个、二十几个的速度发展。" SentencePosition="106…138|139…174" Center="1" ChildList="" ParentId="3" UseTime="23"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="94-" ConnectiveAttribute="可添加" RoleLocation="abnormal" LanguageSense="false" Sentence="总投资三十亿美元的美国协和石化项目，总投资超过二百亿元的北仑钢铁厂，投资规模亚洲同行第一的“兴洋毛毯”、中国国内规模最大的“正大粮油”、生产规模世界第一的“宁波麦芽”等大公司均落户此地，|都是看中了北仑大港口的优势。" SentencePosition="1…93|94…107" Center="1" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="如" RelationType="例证关系" ConnectivePosition="24…24" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="北仑港的兴起，还带动了当地一些地方企业的发展。|如宁波海天机械制造有限公司原来是一个不起眼的作坊，他们借助港口的便利条件，不断开发出口新品进入美国、西班牙、希腊、澳大利亚等二十多个国家，目前已成为中国特大注塑机专业制造公司，列中国机械部大中型企业综合指数百强之首。" SentencePosition="1…23|24…131" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="对比关系" ConnectivePosition="50-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="如宁波海天机械制造有限公司原来是一个不起眼的作坊，|他们借助港口的便利条件，不断开发出口新品进入美国、西班牙、希腊、澳大利亚等二十多个国家，目前已成为中国特大注塑机专业制造公司，列中国机械部大中型企业综合指数百强之首。" SentencePosition="24…48|49…131" Center="2" ChildList="3" ParentId="1" UseTime="24"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="97-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="他们借助港口的便利条件，不断开发出口新品进入美国、西班牙、希腊、澳大利亚等二十多个国家，|目前已成为中国特大注塑机专业制造公司，列中国机械部大中型企业综合指数百强之首。" SentencePosition="49…92|93…131" Center="2" ChildList="4|5" ParentId="2" UseTime="15"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="66-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="他们借助港口的便利条件，|不断开发出口新品进入美国、西班牙、希腊、澳大利亚等二十多个国家，" SentencePosition="49…60|61…92" Center="3" ChildList="" ParentId="3" UseTime="21"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="122-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="目前已成为中国特大注塑机专业制造公司，|列中国机械部大中型企业综合指数百强之首。" SentencePosition="93…111|112…131" Center="3" ChildList="" ParentId="3" UseTime="12"/> 
+  </P>  
+  <P ID="6">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="58-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="目前，宁波北仑区沿海二十公里黄金海岸的一百多平方公里的带状地段，已星罗棋布地矗立起投资一千万美元的大项目近七十个，|形成一个以石化、钢铁为主导，电力、机械、电子、轻纺、建材、塑胶等多种产业辅助发展的新兴大工业经济带。" SentencePosition="1…57|58…107" Center="3" ChildList="" ParentId="-1" UseTime="9"/>
+  </P>
+</DOC>

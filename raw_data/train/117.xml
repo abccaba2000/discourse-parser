@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="27-" ConnectiveAttribute="可添加" RoleLocation="abnormal" LanguageSense="false" Sentence="跨国公司是当今世界经济增长特别是国际投资的主要引擎，|近几年跨国公司从事和控制着世界生产总值的三分之一、世界三分之二的贸易、百分之七十的直接投资和百分之八十的技术转让及民用技术的研究与开发。" SentencePosition="1…26|27…94" Center="1" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="随着中国开放的不断深入和投资环境的改善，不少跨国公司已将中国列为其海外投资重点区域，制定了对华投资战略，|有的跨国公司已经或正在研究将其地区总部移至中国。" SentencePosition="1…52|53…76" Center="3" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="44-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="随着中国开放的不断深入和投资环境的改善，不少跨国公司已将中国列为其海外投资重点区域，|制定了对华投资战略，" SentencePosition="1…42|43…52" Center="1" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="29-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="天津市把吸引跨国公司投资作为本地利用外资的一个基本战略。|到目前，已有一百九十五家跨国公司到这里投资，投资项目二百九十九个。世界排位前三十名的大企业中，到天津投资的有十三家。" SentencePosition="1…28|29…86" Center="2" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="到目前，已有一百九十五家跨国公司到这里投资，投资项目二百九十九个。|世界排位前三十名的大企业中，到天津投资的有十三家。" SentencePosition="29…61|62…86" Center="3" ChildList="3" ParentId="1" UseTime="9"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="到目前，已有一百九十五家跨国公司到这里投资，|投资项目二百九十九个。" SentencePosition="29…50|51…61" Center="3" ChildList="" ParentId="2" UseTime="4"/>
+  </P> 
+</DOC>

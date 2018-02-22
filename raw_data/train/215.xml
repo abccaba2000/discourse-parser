@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据《人民日报》报道，中国中直机关九四年度预算安排工作会议日前在此间召开。|会议要求中直机关精打细算，严格管理，量入为出，带头过紧日子，确保今年预算任务圆满完成" SentencePosition="1…36|37…78" Center="2" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="68-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="会议要求中直机关精打细算，严格管理，量入为出，带头过紧日子，|确保今年预算任务圆满完成" SentencePosition="37…66|67…78" Center="1" ChildList="3" ParentId="1" UseTime="13"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="会议要求中直机关精打细算，|严格管理，|量入为出，|带头过紧日子，" SentencePosition="37…49|50…54|55…59|60…66" Center="3" ChildList="" ParentId="2" UseTime="12"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中共中央办公厅副主任陈福今强调，要正确认识今年国家的财政形势，中直机关应顾全国家大局，承担国家财政困难，调整支出结构，科学合理安排支出，为确保国家预算的顺利完成作贡献。|中央直属机关要带头响应中共中央、国务院的号召，从保证经济建设这一中心任务的大局出发，加强预算管理，做好财务管理工作。" SentencePosition="1…84|85…142" Center="3" ChildList="2|4" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="条件关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中共中央办公厅副主任陈福今强调，要正确认识今年国家的财政形势，|中直机关应顾全国家大局，承担国家财政困难，调整支出结构，科学合理安排支出，为确保国家预算的顺利完成作贡献。" SentencePosition="1…31|32…84" Center="2" ChildList="3" ParentId="1" UseTime="8"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中直机关应顾全国家大局，|承担国家财政困难，|调整支出结构，|科学合理安排支出，|为确保国家预算的顺利完成作贡献。" SentencePosition="32…43|44…52|53…59|60…68|69…84" Center="3" ChildList="" ParentId="2" UseTime="13"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中央直属机关要带头响应中共中央、国务院的号召，|从保证经济建设这一中心任务的大局出发，加强预算管理，做好财务管理工作。" SentencePosition="85…107|108…142" Center="3" ChildList="5" ParentId="1" UseTime="5"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="147-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="从保证经济建设这一中心任务的大局出发，加强预算管理，|做好财务管理工作。" SentencePosition="108…133|134…142" Center="3" ChildList="" ParentId="4" UseTime="12"/>
+  </P> 
+</DOC>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC>
+  <P ID="3">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说：「这反映毛里求斯政府对特区护照投以极具信心的一票，|标志着他们对香港能继续成功作出有力及受港人欢迎的承诺。」" SentencePosition="1…28|29…56" Center="1" ChildList="" ParentId="-1" UseTime="5"/>
+  </P>
+</DOC>

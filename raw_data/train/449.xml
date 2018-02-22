@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="来自国务院有关部委、铁道部、沿线省市的验收委员在对京九铁路沿线为期五天的检查后，今天在此间集体签字通过了《京九铁路工程验收证书》，|认为整个工程设计、施工质量优良，是快速、高效建设铁路的典范。" SentencePosition="1…65|66…95" Center="1" ChildList="2" ParentId="-1" UseTime="13"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="83-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="认为整个工程设计、施工质量优良，|是快速、高效建设铁路的典范。" SentencePosition="66…81|82…95" Center="3" ChildList="" ParentId="1" UseTime="30"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="京九铁路线路走向和总体布局合理，输送能力大，并预留了发展条件；|工程质量合格率达百分之百；|各项技术标准选用适当，工程设计符合国家和铁道部有关新线建设的规定、规范、规程；|采用的设备技术先进，系统完整，体现了九十年代科技水平；|建设速度快；|投资控制好；|注意了节地造地和环保工作。" SentencePosition="1…31|32…44|45…83|84…110|111…116|117…122|123…135" Center="3" ChildList="2|3|4" ParentId="-1" UseTime="25"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="23…23" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="京九铁路线路走向和总体布局合理，|输送能力大，|并预留了发展条件；" SentencePosition="1…16|17…22|23…31" Center="3" ChildList="" ParentId="1" UseTime="22"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="59-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="各项技术标准选用适当，|工程设计符合国家和铁道部有关新线建设的规定、规范、规程；" SentencePosition="45…55|56…83" Center="3" ChildList="" ParentId="1" UseTime="24"/>  
+    <R ID="4" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="104-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="采用的设备技术先进，|系统完整，|体现了九十年代科技水平；" SentencePosition="84…93|94…98|99…110" Center="3" ChildList="" ParentId="1" UseTime="27"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="京九铁路北起北京西站，南至深圳，连接香港九龙，行经九省市，干线全长约两千四百公里，是中国铁路建设史上规模最大、投资最多、建成线路里程最长的大干线。|工程于一九九三年全面展开施工，一九九五年十一月完成接轨，总投资约四百亿元人民币。" SentencePosition="1…73|74…113" Center="1" ChildList="2|4" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="京九铁路北起北京西站，南至深圳，连接香港九龙，行经九省市，干线全长约两千四百公里，|是中国铁路建设史上规模最大、投资最多、建成线路里程最长的大干线。" SentencePosition="1…41|42…73" Center="1" ChildList="3" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="京九铁路北起北京西站，|南至深圳，|连接香港九龙，|行经九省市，|干线全长约两千四百公里，" SentencePosition="1…11|12…16|17…23|24…29|30…41" Center="3" ChildList="" ParentId="2" UseTime="25"/>  
+    <R ID="4" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="工程于一九九三年全面展开施工，|一九九五年十一月完成接轨，|总投资约四百亿元人民币。" SentencePosition="74…88|89…101|102…113" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="47-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="国家计委副主任、京九铁路国家验收委员会主任叶青说，建设这条铁路是中共中央、国务院的重大决策，|对完善路网布局，缓解铁路运输紧张状况，促进沿线经济发展和社会进步，加快革命老区脱贫致富，加强内地与港澳地区的经济交往，扩大对外开放，都具有十分重要的意义。" SentencePosition="1…46|47…123" Center="3" ChildList="" ParentId="-1" UseTime="19"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="52-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="据铁道部总工程师华茂昆介绍，京九铁路开通运营一年来，经受了严冬盛夏和洪水的考验，|保证了运输的安全畅通，|发挥了社会经济效益。" SentencePosition="1…40|41…51|52…61" Center="3" ChildList="" ParentId="-1" UseTime="29"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="今后" RelationType="顺承关系" ConnectivePosition="37…38" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据了解，中国大型铁路工程的建设一般分为三步，即铁轨铺通、通车、国家验收。|今后，京九铁路将完全交由铁路运输部门管理。" SentencePosition="1…36|37…57" Center="3" ChildList="2" ParentId="-1" UseTime="24"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="即" RelationType="解说关系" ConnectivePosition="23…23" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据了解，中国大型铁路工程的建设一般分为三步，|即铁轨铺通、通车、国家验收。" SentencePosition="1…22|23…36" Center="1" ChildList="" ParentId="1" UseTime="17"/>
+  </P> 
+</DOC>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="至此" RelationType="解说关系" ConnectivePosition="44…45" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="俄罗斯驻扎在波罗的海三国的西北军队集群的最后一批应撤离人员已于３１日全部撤出拉脱维亚。|至此，俄罗斯完成了从波罗的海三国的撤军工作。" SentencePosition="1…43|44…65" Center="1" ChildList="" ParentId="-1" UseTime="19"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="随后" RelationType="顺承关系" ConnectivePosition="72…73" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="据此间新闻媒介报道，俄罗斯西北军队集群司令部机构人员３１日将军用设施移交给了当地地方政府，并向拉脱维亚总统乌尔马尼斯递交了有关完成撤军的报告，|随后乘飞机从里加撤回莫斯科。" SentencePosition="1…71|72…85" Center="3" ChildList="2" ParentId="-1" UseTime="22"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="46…46" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据此间新闻媒介报道，俄罗斯西北军队集群司令部机构人员３１日将军用设施移交给了当地地方政府，|并向拉脱维亚总统乌尔马尼斯递交了有关完成撤军的报告，" SentencePosition="1…45|46…71" Center="3" ChildList="" ParentId="1" UseTime="10"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="俄罗斯驻立陶宛军队已于１９９３年８月３１日之前撤回国，驻爱沙尼亚的军队于本月２９日完成了撤军工作。|根据俄与拉脱维亚和爱沙尼亚政府达成的协议，目前尚有几百名俄军队专家留在拉脱维亚的预警雷达站和爱沙尼亚的俄海军教学中心。" SentencePosition="1…49|50…108" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="俄罗斯驻立陶宛军队已于１９９３年８月３１日之前撤回国，|驻爱沙尼亚的军队于本月２９日完成了撤军工作。" SentencePosition="1…27|28…49" Center="3" ChildList="" ParentId="1" UseTime="5"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="俄罗斯西北军队集群原为苏联驻上述三国的军队，司令部设在拉脱维亚共和国。|原总兵力为１１?６万余人，其中在拉脱维亚驻军最多，为５万余人，立陶宛为３?５万余人，爱沙尼亚为３万余人。原苏联解体后，该军队集群转归俄罗斯所有。" SentencePosition="1…35|36…107" Center="1" ChildList="2|3" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="俄罗斯西北军队集群原为苏联驻上述三国的军队，|司令部设在拉脱维亚共和国。" SentencePosition="1…22|23…35" Center="1" ChildList="" ParentId="1" UseTime="5"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="原总兵力为１１?６万余人，其中在拉脱维亚驻军最多，为５万余人，立陶宛为３?５万余人，爱沙尼亚为３万余人。|原苏联解体后，该军队集群转归俄罗斯所有。" SentencePosition="36…87|88…107" Center="3" ChildList="4|7" ParentId="1" UseTime="10"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="49…50" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="原总兵力为１１?６万余人，|其中在拉脱维亚驻军最多，为５万余人，立陶宛为３?５万余人，爱沙尼亚为３万余人。" SentencePosition="36…48|49…87" Center="1" ChildList="5" ParentId="3" UseTime="18"/>  
+    <R ID="5" StructureType="并列切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其中在拉脱维亚驻军最多，为５万余人，|立陶宛为３?５万余人，|爱沙尼亚为３万余人。" SentencePosition="49…66|67…77|78…87" Center="3" ChildList="6" ParentId="4" UseTime="14"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="5" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其中在拉脱维亚驻军最多，|为５万余人，" SentencePosition="49…60|61…66" Center="2" ChildList="" ParentId="5" UseTime="14"/>  
+    <R ID="7" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="后" RelationType="顺承关系" ConnectivePosition="93…93" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="原苏联解体后，|该军队集群转归俄罗斯所有。" SentencePosition="88…94|95…107" Center="2" ChildList="" ParentId="3" UseTime="19"/>
+  </P> 
+</DOC>

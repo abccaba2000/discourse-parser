@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="如今" RelationType="对比关系" ConnectivePosition="55…56" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="“五年前，中国的数字电话程控交换机市场为多种品牌的外国产品垄断，我们还担心中国能不能研制成功数字程控交换机。|如今国产的高性能电话程控交换机已占国内市场份额的百分之三十六”。" SentencePosition="1…54|55…86" Center="2" ChildList="2" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="“五年前，中国的数字电话程控交换机市场为多种品牌的外国产品垄断，|我们还担心中国能不能研制成功数字程控交换机。" SentencePosition="1…32|33…54" Center="2" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="如今" RelationType="对比关系" ConnectivePosition="39…40" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="“中国国家气象局购买美国克雷公司的大型计算机，克雷公司只卖给我们两台处理器。|如今，我们自己开发的‘曙光１０００’计算机每秒最大计算速度已达二十五亿次，超过克雷公司卖给我们的计算机速度。”" SentencePosition="1…38|39…93" Center="2" ChildList="2|3" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="然而" RelationType="转折关系" ConnectivePosition="25-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="“中国国家气象局购买美国克雷公司的大型计算机，|克雷公司只卖给我们两台处理器。" SentencePosition="1…23|24…38" Center="2" ChildList="" ParentId="1" UseTime="20"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="78-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="如今，我们自己开发的‘曙光１０００’计算机每秒最大计算速度已达二十五亿次，|超过克雷公司卖给我们的计算机速度。”" SentencePosition="39…75|76…93" Center="3" ChildList="" ParentId="1" UseTime="13"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这是国务委员兼国家科委主任宋健今天在“八六三计划”工作会议上讲的一段话。|“八六三计划”是中国高技术研究计划，启动于一九八六年。" SentencePosition="1…36|37…63" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="56-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="“八六三计划”是中国高技术研究计划，|启动于一九八六年。" SentencePosition="37…54|55…63" Center="3" ChildList="" ParentId="1" UseTime="13"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="如" RelationType="例证关系" ConnectivePosition="25…25" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="西方发达国家一直禁止向中国出口重要的高技术产品，|如高性能的大型数字电话程控交换机和巨型电子计算机。" SentencePosition="1…24|25…49" Center="1" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="而且" RelationType="并列关系" ConnectivePosition="28…29" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="宋健说：“如今，中国已能生产上万门数字电话程控交换机，|而且这种交换机的总设计师只有二十八岁，武汉大学毕业的。”" SentencePosition="1…27|28…55" Center="3" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="而且这种交换机的总设计师只有二十八岁，|武汉大学毕业的。”" SentencePosition="28…46|47…55" Center="3" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="73-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="宋健今天向出席会议的数百名高技术专家代表和科技官员说：“我们在高技术发展及其产业化所取得的一系列成就，进一步克服了认为高技术高不可攀的怯懦思想，|极大地增强了我们全民族实现社会主义现代化的勇气和信心”。" SentencePosition="1…72|73…100" Center="3" ChildList="" ParentId="-1" UseTime="14"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="94-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="总投资一百亿元人民币，为期十五年的“八六三计划”自一九八六年实施以来，在一大批重大关键技术领域获得突破性进展，大大缩小了中国高技术与国际先进水平的差距，促进了民用工业和国防工业的现代化。|仅在民用的生物技术、信息技术、自动化技术、能源技术和新材料技术领域，已取得一千二百多项研究成果，其中达到国际先进水平的有五百六十项。" SentencePosition="1…93|94…159" Center="1" ChildList="2|4" ParentId="-1" UseTime="13"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="57-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="总投资一百亿元人民币，为期十五年的“八六三计划”自一九八六年实施以来，在一大批重大关键技术领域获得突破性进展，|大大缩小了中国高技术与国际先进水平的差距，促进了民用工业和国防工业的现代化。" SentencePosition="1…55|56…93" Center="1" ChildList="3" ParentId="1" UseTime="17"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="81-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="大大缩小了中国高技术与国际先进水平的差距，|促进了民用工业和国防工业的现代化。" SentencePosition="56…76|77…93" Center="3" ChildList="" ParentId="2" UseTime="17"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="142…143" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="仅在民用的生物技术、信息技术、自动化技术、能源技术和新材料技术领域，已取得一千二百多项研究成果，|其中达到国际先进水平的有五百六十项。" SentencePosition="94…141|142…159" Center="1" ChildList="" ParentId="1" UseTime="20"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="此外，中国在航天技术和激光技术领域安排了四百多个课题的研究，涉及空间科学及应用、大型运载火箭、空间站、天地往返运输系统，|在一些关键技术领域取得阶段性成果。" SentencePosition="1…60|61…77" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="此外，中国在航天技术和激光技术领域安排了四百多个课题的研究，|涉及空间科学及应用、大型运载火箭、空间站、天地往返运输系统，" SentencePosition="1…30|31…60" Center="1" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="abnormal" LanguageSense="true" Sentence="宋健还列举了中国在农业生物技术、生物医药、基因工程、激光、机器人等领域取得的具有国际先进水平的重大成就，如中国研制的基因工程乙肝疫苗和用于阻断乙肝进程的ａ干扰素已经上市，为中国一点二亿乙肝病毒携带者带来福音。|晚期乙肝疾病往往会转化为肝癌。" SentencePosition="1…104|105…119" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="如" RelationType="例证关系" ConnectivePosition="53…53" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="宋健还列举了中国在农业生物技术、生物医药、基因工程、激光、机器人等领域取得的具有国际先进水平的重大成就，|如中国研制的基因工程乙肝疫苗和用于阻断乙肝进程的ａ干扰素已经上市，为中国一点二亿乙肝病毒携带者带来福音。" SentencePosition="1…52|53…104" Center="1" ChildList="3" ParentId="1" UseTime="14"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="90-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="如中国研制的基因工程乙肝疫苗和用于阻断乙肝进程的ａ干扰素已经上市，|为中国一点二亿乙肝病毒携带者带来福音。" SentencePosition="53…85|86…104" Center="1" ChildList="" ParentId="2" UseTime="13"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="19…19" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="中国已确定了未来五年高技术研究重点，|并着手制订下世纪的高科技研究计划。" SentencePosition="1…18|19…35" Center="3" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="13"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="54-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="宋健最后说，“能否把我们自己的高技术及其产业搞上去，关系到中国现代化建设事业的成败，关系到中华民族的兴衰。|大力发展高技术，尽快形成我国强大的民族高技术产业，是当前中国科技界和经济界面临的迫切任务。”" SentencePosition="1…53|54…99" Center="2" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="44-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="宋健最后说，“能否把我们自己的高技术及其产业搞上去，关系到中国现代化建设事业的成败，|关系到中华民族的兴衰。" SentencePosition="1…42|43…53" Center="3" ChildList="" ParentId="1" UseTime="16"/>
+  </P> 
+</DOC>

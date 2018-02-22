@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="为期六天的第五届北京国际图书博览会今天在北京举行。|来自三十八个国家和地区的一千五百多家出版社参展。" SentencePosition="1…25|26…49" Center="1" ChildList="" ParentId="-1" UseTime="5"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据博览会组织委员会介绍，这次博览会展出规模为历届之最，|共展出图书九万种，其中海外原版图书三点五万种，内容涉及科技、经济、文化、教育和社会发展等众多领域。" SentencePosition="1…27|28…76" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="共展出图书九万种，其中海外原版图书三点五万种，|内容涉及科技、经济、文化、教育和社会发展等众多领域。" SentencePosition="28…50|51…76" Center="3" ChildList="3" ParentId="1" UseTime="6"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="37…38" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="共展出图书九万种，|其中海外原版图书三点五万种，" SentencePosition="28…36|37…50" Center="1" ChildList="" ParentId="2" UseTime="17"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="为" RelationType="目的关系" ConnectivePosition="1…1" ConnectiveAttribute="可删除" RoleLocation="abnormal" LanguageSense="true" Sentence="为加强与世界各国出版界的交流、促进国际版权贸易，|这次博览会还设立了版权贸易项目，指定专门人员为版权贸易提供各种便利条件。" SentencePosition="1…24|25…60" Center="2" ChildList="2|3" ParentId="-1" UseTime="19"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="为加强与世界各国出版界的交流、|促进国际版权贸易，" SentencePosition="1…15|16…24" Center="3" ChildList="" ParentId="1" UseTime="8"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这次博览会还设立了版权贸易项目，|指定专门人员为版权贸易提供各种便利条件。" SentencePosition="25…40|41…60" Center="3" ChildList="" ParentId="1" UseTime="6"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="如" RelationType="例证关系" ConnectivePosition="59…59" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="来自美国、德国、日本、法国、英国、俄罗斯、加拿大等国家和台湾、香港、澳门地区的许多世界闻名的出版社参加了这次博览会，|如英国企鹅图书公司、蓝登书屋出版公司、朗文出版公司等。" SentencePosition="1…58|59…85" Center="1" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="有关人士说，世界各国和地区的主要出版公司、书商和出版界协会参加这次博览会，|反映了海外图书出版和发行人士对中国图书市场的重视。" SentencePosition="1…37|38…62" Center="1" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="65-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="国家科学技术委员会副主任朱丽兰今天在博览会开幕式上说，随着中国经济的繁荣和科技的迅速进步，人民生活水平不断提高，购买力不断增强，|中国的图书进口市场潜力巨大。" SentencePosition="1…64|65…78" Center="2" ChildList="2" ParentId="-1" UseTime="19"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="58-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="国家科学技术委员会副主任朱丽兰今天在博览会开幕式上说，随着中国经济的繁荣和科技的迅速进步，人民生活水平不断提高，|购买力不断增强，" SentencePosition="1…56|57…64" Center="3" ChildList="" ParentId="1" UseTime="15"/> 
+  </P>  
+  <P ID="9">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="北京国际图书博览会是一九八六年经国务院批准由中国图书进出口总公司举办的，|每两年举办一届。" SentencePosition="1…36|37…44" Center="3" ChildList="" ParentId="-1" UseTime="6"/>
+  </P>
+</DOC>

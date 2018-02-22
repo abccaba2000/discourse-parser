@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="??有利香港经济长期繁荣稳定。|内地经济长期稳定地增长，香港经济将从充满活力的内地经济中获益。" SentencePosition="1…15|16…46" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="29-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="内地经济长期稳定地增长，|香港经济将从充满活力的内地经济中获益。" SentencePosition="16…27|28…46" Center="2" ChildList="" ParentId="1" UseTime="15"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="??可以为香港提供更多的商业机会。|随着内地贸易、金融、零售等服务业有步骤地对外开放，香港服务业将获得更广泛的发展空间。" SentencePosition="1…17|18…59" Center="1" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="??有利巩固香港的贸易和航运中心。|到二０一０年，内地的对外贸易总额可望达到八千亿美元，无疑会增加对香港转口和转运的需求，有利巩固香港的贸易和航运中心地位。" SentencePosition="1…17|18…77" Center="1" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="因果关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="到二０一０年，内地的对外贸易总额可望达到八千亿美元，|无疑会增加对香港转口和转运的需求，有利巩固香港的贸易和航运中心地位。" SentencePosition="18…43|44…77" Center="2" ChildList="3" ParentId="1" UseTime="9"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="65-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="无疑会增加对香港转口和转运的需求，|有利巩固香港的贸易和航运中心地位。" SentencePosition="44…60|61…77" Center="3" ChildList="" ParentId="2" UseTime="19"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="??进一步推动香港金融市场的发展。|随着国企改革的深入，将有更多的股份制企业到境外上市，香港将是国企境外上市的首选地点。这将扩大港股的规模、改善股市结构，推动香港债券市场的发展，香港也会出现更多的中国基金，这一切都将巩固和增强香港的国际金融中心地位。" SentencePosition="1…17|18…124" Center="1" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="因果关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="随着国企改革的深入，将有更多的股份制企业到境外上市，香港将是国企境外上市的首选地点。|这将扩大港股的规模、改善股市结构，推动香港债券市场的发展，香港也会出现更多的中国基金，这一切都将巩固和增强香港的国际金融中心地位。" SentencePosition="18…59|60…124" Center="2" ChildList="3|4" ParentId="1" UseTime="11"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="47-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="随着国企改革的深入，将有更多的股份制企业到境外上市，|香港将是国企境外上市的首选地点。" SentencePosition="18…43|44…59" Center="3" ChildList="" ParentId="2" UseTime="9"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="109-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="这将扩大港股的规模、改善股市结构，推动香港债券市场的发展，香港也会出现更多的中国基金，|这一切都将巩固和增强香港的国际金融中心地位。" SentencePosition="60…102|103…124" Center="2" ChildList="5" ParentId="2" UseTime="20"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="91…91" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="这将扩大港股的规模、改善股市结构，推动香港债券市场的发展，|香港也会出现更多的中国基金，" SentencePosition="60…88|89…102" Center="3" ChildList="" ParentId="4" UseTime="11"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="??有利增强香港产品的国际竞争力。|通过内地和香港的经济互补关系，将两地优势结合起来，可增强港产品的国际竞争力。" SentencePosition="1…17|18…55" Center="1" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="44-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="通过内地和香港的经济互补关系，将两地优势结合起来，|可增强港产品的国际竞争力。" SentencePosition="18…42|43…55" Center="2" ChildList="" ParentId="1" UseTime="16"/>
+  </P> 
+</DOC>

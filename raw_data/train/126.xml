@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="39…39" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="武汉市市长王守海日前对记者说，外商投资旧城改造和居民住宅建设将获得优惠政策，|并鼓励外商托管国有大中型企业。" SentencePosition="1…38|39…53" Center="3" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，武汉市将进一步改善投资环境。|其中，武汉天河机场已获准对外国籍飞机开放，并被定为国家重要的航空枢纽之一。长江三桥也已动工。全市电话容量现已达一百八十万门。" SentencePosition="1…18|19…80" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="60…60" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="其中，武汉天河机场已获准对外国籍飞机开放，并被定为国家重要的航空枢纽之一。|长江三桥也已动工。|全市电话容量现已达一百八十万门。" SentencePosition="19…55|56…64|65…80" Center="3" ChildList="" ParentId="1" UseTime="14"/>
+  </P> 
+</DOC>

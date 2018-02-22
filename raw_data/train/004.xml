@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国建筑市场近年来对外开放步伐进一步加快。|据初步统计，目前在中国境内承包工程的国外承包商已有一百三十七家，承包的工程达一百四十一项，其中最大规模的项目达二十七点七亿元；中外合资合作的建筑企业近二千家。" SentencePosition="1…21|22…100" Center="1" ChildList="2" ParentId="-1" UseTime="26"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据初步统计，目前在中国境内承包工程的国外承包商已有一百三十七家，承包的工程达一百四十一项，其中最大规模的项目达二十七点七亿元；|中外合资合作的建筑企业近二千家。" SentencePosition="22…84|85…100" Center="3" ChildList="3" ParentId="1" UseTime="11"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据初步统计，目前在中国境内承包工程的国外承包商已有一百三十七家，|承包的工程达一百四十一项，其中最大规模的项目达二十七点七亿元；" SentencePosition="22…53|54…84" Center="3" ChildList="4" ParentId="2" UseTime="20"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="67…68" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="承包的工程达一百四十一项，|其中最大规模的项目达二十七点七亿元；" SentencePosition="54…66|67…84" Center="2" ChildList="" ParentId="3" UseTime="24"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国建筑业对外开放始于八十年代。|十几年来，已有美国、日本、法国、英国、德国、芬兰、意大利、新加坡、香港、台湾等十几个国家和地区的境外企业进入中国进行工程总承包或工程分包。世界上最大的二百二十五家国际承包商中，有十几家已进入中国，其中不少公司与中国公司合资合作进行建设。" SentencePosition="1…16|17…134" Center="2" ChildList="6" ParentId="-1" UseTime="10"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="十几年来，已有美国、日本、法国、英国、德国、芬兰、意大利、新加坡、香港、台湾等十几个国家和地区的境外企业进入中国进行工程总承包或工程分包。|世界上最大的二百二十五家国际承包商中，有十几家已进入中国，其中不少公司与中国公司合资合作进行建设。" SentencePosition="17…85|86…134" Center="3" ChildList="7" ParentId="5" UseTime="80"/>  
+    <R ID="7" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="115…116" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="世界上最大的二百二十五家国际承包商中，有十几家已进入中国，|其中不少公司与中国公司合资合作进行建设。" SentencePosition="86…114|115…134" Center="2" ChildList="" ParentId="6" UseTime="19"/> 
+  </P>  
+  <P ID="4">
+    <R ID="8" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="根据建设部的规定，凡属于国际金融组织贷款并由国际公开招标的工程全部由外国投资或赠款建设的工程，以及国内企业在技术上难以单独承包的中外合资建设工程，境外建筑企业在取得中国审批的外国企业承包工程资质证后，皆可进入中国境内承包建设项目。|一九九五年九月建设部和外经贸部联合发布的《关于设立外商投资建筑业企业的若干规定》，使中国的建筑市场从允许境外企业到中国承包工程进入到允许境外企业到中国办合资建筑企业。" SentencePosition="1…115|116…198" Center="3" ChildList="" ParentId="-1" UseTime="42"/>
+  </P>
+</DOC>

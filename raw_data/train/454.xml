@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="委内瑞拉将和中国在共同开发和生产乳化油方面进行互利合作。|这是委内瑞拉奥历若克沥青石公司董事长和执行总裁卡洛斯?博雷加莱斯今天在北京宣布的。" SentencePosition="1…28|29…69" Center="1" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，委内瑞拉沥青石储量丰富，达到四百亿吨，而中国已经制定了一个规模宏大的能源发展计划；|奥历若克乳化油作为一种新型燃料，已经受到越来越多的电力企业的青睐。" SentencePosition="1…44|45…77" Center="3" ChildList="2" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="23…23" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他说，委内瑞拉沥青石储量丰富，达到四百亿吨，|而中国已经制定了一个规模宏大的能源发展计划；" SentencePosition="1…22|23…44" Center="3" ChildList="3" ParentId="1" UseTime="18"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，委内瑞拉沥青石储量丰富，|达到四百亿吨，" SentencePosition="1…15|16…22" Center="1" ChildList="" ParentId="2" UseTime="7"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="奥历若克乳化油是委内瑞拉发明的一个词，|它指沥青石与水及某些化学品的混合物，|这种乳化油已经成为发电厂和其它工业行业的理想燃料。" SentencePosition="1…19|20…37|38…62" Center="3" ChildList="" ParentId="-1" UseTime="14"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="一九九六年中国和委内瑞拉在合作生产乳化油项目上签署了一份总投资额达三点二亿美元的协议。|奥历若克乳化油在上海和山东的发电厂中得到广泛的使用。" SentencePosition="1…43|44…69" Center="3" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="29-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="博雷加莱斯相信，中委两国在这个项目上的合作“富有成效”，|前景令人兴奋。" SentencePosition="1…28|29…35" Center="3" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在开发和使用沥青石方面，委内瑞拉居世界第一位，它今年制定的生产规划，计划将乳化油的年产量提高到两千万吨。|一九九六年委内瑞拉的乳化油出口量达四百一十七万吨，今年有望达四百七十万吨。" SentencePosition="1…52|53…89" Center="3" ChildList="2|3" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在开发和使用沥青石方面，委内瑞拉居世界第一位，|它今年制定的生产规划，计划将乳化油的年产量提高到两千万吨。" SentencePosition="1…23|24…52" Center="3" ChildList="" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="一九九六年委内瑞拉的乳化油出口量达四百一十七万吨，|今年有望达四百七十万吨。" SentencePosition="53…77|78…89" Center="3" ChildList="" ParentId="1" UseTime="5"/>
+  </P> 
+</DOC>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="截至今日（星期四）上午九时，本港各水塘之总存水量共为五亿四千五百八十万立方米，|占总容量百分之九十三点一。" SentencePosition="1…39|40…52" Center="1" ChildList="" ParentId="-1" UseTime="4"/> 
+  </P>  
+  <P ID="3">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="即" RelationType="解说关系" ConnectivePosition="28…28" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="去年同期各水塘之总存水为五亿四千八百零四万二千立方米，|即总容量百分之九十二点七。" SentencePosition="1…27|28…40" Center="1" ChildList="" ParentId="-1" UseTime="21"/>
+  </P>
+</DOC>

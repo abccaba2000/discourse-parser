@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="香港特别行政区行政长官董建华已於七月一日向终审法院首席法官李国能申报了利益，|记录在案。" SentencePosition="1…38|39…43" Center="1" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="董建华的申报是要履行《基本法》第四十七条的规定。|《基本法》第四十七条规定，行政长官就任时应向终审法院首席法官申报财产。" SentencePosition="1…24|25…59" Center="1" ChildList="" ParentId="-1" UseTime="6"/> 
+  </P>  
+  <P ID="4">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="29…29" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="董建华曾在今年四月与香港特别行政区行政会议成员申报利益，|并公开了有关资料。" SentencePosition="1…28|29…37" Center="3" ChildList="" ParentId="-1" UseTime="11"/>
+  </P>
+</DOC>

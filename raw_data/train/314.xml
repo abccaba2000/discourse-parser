@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="后" RelationType="顺承关系" ConnectivePosition="32…32" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="据外电报道，１９９４年美国网球公开赛在经历了冷门迭爆的首日比赛后，|第二天无大新闻，种子选手均顺利通过第一轮。" SentencePosition="1…33|34…54" Center="2" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="第二天无大新闻，|种子选手均顺利通过第一轮。" SentencePosition="34…41|42…54" Center="1" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="114…114" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="３０日在纽约国家网球中心进行的比赛基本顺利，瑞典老将埃德贝里在首轮赛事中以７：５、６：１、６：１战胜了他的同胞拉?容森，进入第二轮。|目前世界女子排名第一的德国选手格拉夫状态不错，以６：２和６：１淘汰了１９岁的美国小将安?马尔，也闯入第二轮。" SentencePosition="1…66|67…120" Center="3" ChildList="2|4" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="３０日在纽约国家网球中心进行的比赛基本顺利，|瑞典老将埃德贝里在首轮赛事中以７：５、６：１、６：１战胜了他的同胞拉?容森，进入第二轮。" SentencePosition="1…22|23…66" Center="2" ChildList="3" ParentId="1" UseTime="10"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="65-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="瑞典老将埃德贝里在首轮赛事中以７：５、６：１、６：１战胜了他的同胞拉?容森，|进入第二轮。" SentencePosition="23…60|61…66" Center="2" ChildList="" ParentId="2" UseTime="17"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前世界女子排名第一的德国选手格拉夫状态不错，|以６：２和６：１淘汰了１９岁的美国小将安?马尔，也闯入第二轮。" SentencePosition="67…89|90…120" Center="2" ChildList="5" ParentId="1" UseTime="10"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="121-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="以６：２和６：１淘汰了１９岁的美国小将安?马尔，|也闯入第二轮。" SentencePosition="90…113|114…120" Center="2" ChildList="" ParentId="4" UseTime="18"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="94…94" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="４号种子、德国选手米?施蒂希，上届亚军、法国选手塞?皮奥利内也顺利进入男单下一轮。|在女子单打比赛中，５号种子、日本选手伊达公子，６号种子、美国的琳?达尔波特，８号种子、阿根廷的萨瓦蒂尼等也顺利通过第一轮。" SentencePosition="1…41|42…102" Center="3" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="25…26" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="在２９日进行的首天比赛中，若干名种子选手遭淘汰。|其中２号种子、克罗地亚名将伊万尼舍维奇、来自德国的前美国公开赛男单冠军贝克尔均未能进入第二轮，十分出人意料。另外，女单１２号种子、德国选手哈克也在第一轮比赛中被淘汰，男单１６号种子、捷克选手科达赛前因伤退出了比赛。" SentencePosition="1…24|25…131" Center="1" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="另外" RelationType="并列关系" ConnectivePosition="79…80" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="其中２号种子、克罗地亚名将伊万尼舍维奇、来自德国的前美国公开赛男单冠军贝克尔均未能进入第二轮，十分出人意料。|另外，女单１２号种子、德国选手哈克也在第一轮比赛中被淘汰，男单１６号种子、捷克选手科达赛前因伤退出了比赛。" SentencePosition="25…78|79…131" Center="3" ChildList="3|4" ParentId="1" UseTime="18"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其中２号种子、克罗地亚名将伊万尼舍维奇、来自德国的前美国公开赛男单冠军贝克尔均未能进入第二轮，|十分出人意料。" SentencePosition="25…71|72…78" Center="1" ChildList="" ParentId="2" UseTime="9"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="另外，女单１２号种子、德国选手哈克也在第一轮比赛中被淘汰，|男单１６号种子、捷克选手科达赛前因伤退出了比赛。" SentencePosition="79…107|108…131" Center="3" ChildList="" ParentId="2" UseTime="11"/> 
+  </P>  
+  <P ID="6">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="美国网球公开赛是网球大满贯四大赛事中，最后项进行的公开赛，|今年的奖金总额为９３６万美元。" SentencePosition="1…29|30…44" Center="3" ChildList="" ParentId="-1" UseTime="5"/>
+  </P>
+</DOC>

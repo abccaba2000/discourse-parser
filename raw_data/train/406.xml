@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="意大利商业银行上海分行日前在浦东开业，|这意味着已经和即将迁入浦东的外资银行分行已达到二十二家，占上海外资金融机构总数的百分之四十三。" SentencePosition="1…19|20…66" Center="1" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这意味着已经和即将迁入浦东的外资银行分行已达到二十二家，|占上海外资金融机构总数的百分之四十三。" SentencePosition="20…47|48…66" Center="1" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据了解，到去年底浦东仅有日本富士银行上海分行和泰华国际银行两家外资银行。|今年以来，由于中国人民银行决定在浦东开始进行外资银行人民币业务试点，外资银行进入浦东的步伐明显加快。" SentencePosition="1…36|37…86" Center="2" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="由于" RelationType="因果关系" ConnectivePosition="42…43" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="今年以来，由于中国人民银行决定在浦东开始进行外资银行人民币业务试点，|外资银行进入浦东的步伐明显加快。" SentencePosition="37…70|71…86" Center="2" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="另一些外资金融机构也竞相迁址浦东，其中包括东亚银行、法国里昂信贷银行、华侨银行及瑞士丰泰保险。|据统计，在今年开业或获准由代表处升格为分行的近十家外资金融机构中，直接选址浦东的占了九成。" SentencePosition="1…47|48…92" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="18…19" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="另一些外资金融机构也竞相迁址浦东，|其中包括东亚银行、法国里昂信贷银行、华侨银行及瑞士丰泰保险。" SentencePosition="1…17|18…47" Center="1" ChildList="" ParentId="1" UseTime="13"/> 
+  </P>  
+  <P ID="7">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据分析，经过七年的开发建设，浦东陆家嘴已经具备金融机构入驻和运作的基本条件。|国家赋予的一系列功能性政策，一批国家级和地区要素市场以及大企业集团总部的陆续汇集，浦东城市基础设施的不断改善，以及陆家嘴办公楼宇的相对低廉，都是吸引外资机构进入浦东的主要原因。" SentencePosition="1…38|39…126" Center="1" ChildList="" ParentId="-1" UseTime="7"/>
+  </P>
+</DOC>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="全国包装科技工作会议提供的情况表明，中国包装工业的发展有长足进步，|包装工业总产值占社会总产值的百分之一点五，在国民经济四十个主要行业中，包装行业已上升到第十六位。" SentencePosition="1…33|34…81" Center="1" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="包装工业总产值占社会总产值的百分之一点五，|在国民经济四十个主要行业中，包装行业已上升到第十六位。" SentencePosition="34…54|55…81" Center="3" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="同时" RelationType="并列关系" ConnectivePosition="96…97" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据统计，近五年间包装工业完成一千多亿美元出口商品的包装任务，用于技术改造的投资约三百亿元，引进设备用汇十亿美元，获包装科技成果九十八项，创社会效益二百六十二亿元，仅包装材料就增产五百余万吨。|同时，包装行业获世界之星“包装设计”奖八十余项。中国生产的木浆和纸包装材料、购物袋、塑料编织袋、复合软包装、金属大桶等制品已出口到欧洲、东南亚、香港等国家和地区，并大力发展防伪包装，绿色包装。" SentencePosition="1…95|96…191" Center="3" ChildList="2|3" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="据统计，近五年间包装工业完成一千多亿美元出口商品的包装任务，|用于技术改造的投资约三百亿元，|引进设备用汇十亿美元，|获包装科技成果九十八项，|创社会效益二百六十二亿元，|仅包装材料就增产五百余万吨。" SentencePosition="1…30|31…45|46…56|57…68|69…81|82…95" Center="3" ChildList="" ParentId="1" UseTime="15"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="同时，包装行业获世界之星“包装设计”奖八十余项。|中国生产的木浆和纸包装材料、购物袋、塑料编织袋、复合软包装、金属大桶等制品已出口到欧洲、东南亚、香港等国家和地区，并大力发展防伪包装，绿色包装。" SentencePosition="96…119|120…191" Center="1" ChildList="4" ParentId="1" UseTime="10"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="177…177" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="中国生产的木浆和纸包装材料、购物袋、塑料编织袋、复合软包装、金属大桶等制品已出口到欧洲、东南亚、香港等国家和地区，|并大力发展防伪包装，绿色包装。" SentencePosition="120…176|177…191" Center="3" ChildList="" ParentId="3" UseTime="15"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前中国县以上的包装企业已发展到一万五千家，每年完成三万亿元的工农产品包装任务，包装工业体系正在逐步完善，并且与世界五十多个国家和地区在包装技术方面开展合作交流。|今年上半年，包装工业总产值达一千三百亿元，比一九九二年同期增长百分之十二。" SentencePosition="1…81|82…118" Center="3" ChildList="2|3" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="54…55" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="目前中国县以上的包装企业已发展到一万五千家，|每年完成三万亿元的工农产品包装任务，|包装工业体系正在逐步完善，|并且与世界五十多个国家和地区在包装技术方面开展合作交流。" SentencePosition="1…22|23…40|41…53|54…81" Center="3" ChildList="" ParentId="1" UseTime="23"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="今年上半年，包装工业总产值达一千三百亿元，|比一九九二年同期增长百分之十二。" SentencePosition="82…102|103…118" Center="1" ChildList="" ParentId="1" UseTime="5"/>
+  </P> 
+</DOC>

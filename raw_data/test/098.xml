@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="51-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="福建省日前提出，今年将大力推进闽台经贸合作，进一步加大对台招商力度，加强与台湾大企业、大财团的联系，|争取一批台资大项目来闽投资，并大力拓展对台贸易和发展对台渔工劳务合作。" SentencePosition="1…50|51…85" Center="1" ChildList="2|3" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="福建省日前提出，今年将大力推进闽台经贸合作，|进一步加大对台招商力度，|加强与台湾大企业、大财团的联系，" SentencePosition="1…22|23…34|35…50" Center="3" ChildList="" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="65…65" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="争取一批台资大项目来闽投资，|并大力拓展对台贸易和发展对台渔工劳务合作。" SentencePosition="51…64|65…85" Center="3" ChildList="" ParentId="1" UseTime="8"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="28-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="福建省有关部门日前制定了进一步加快发展对外经贸新措施，|把深化外经贸企业改革、保持出口稳定增长、继续扩大利用外资等作为一九九八年该省外经贸工作的重要内容。" SentencePosition="1…27|28…76" Center="3" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="福建是中国沿海地区对外经贸发展最为迅速的地区之一。|去年该省外贸进出口总额近二百亿美元，实际利用外资超过四十亿美元，对外承包工程和劳务合作金额达三点五五亿美元。" SentencePosition="1…25|26…79" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="去年该省外贸进出口总额近二百亿美元，|实际利用外资超过四十亿美元，|对外承包工程和劳务合作金额达三点五五亿美元。" SentencePosition="26…43|44…57|58…79" Center="3" ChildList="" ParentId="1" UseTime="10"/> 
+  </P>  
+  <P ID="5">
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据悉，这些新措施的主要内容有以发展规模经营、组建企业集团为重点，推进省属外贸公司的战略性重组；|加大支柱产业产品出口的力度；|办好在香港举办的外商投资招商会和九八中国投资贸易洽谈会等。" SentencePosition="1…47|48…61|62…90" Center="3" ChildList="" ParentId="-1" UseTime="9"/>
+  </P>
+</DOC>

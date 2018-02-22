@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="21…21" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="中国经贸合作信息网络今天在广州正式开通，|以向海内外集中推介中国各地区的经贸招商项目。" SentencePosition="1…20|21…42" Center="1" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="73-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="这个由中国经贸合作信息网络中心组织开发的信息网，整理汇集了中国各省市经过审核的经济贸易信息和对外合作项目，现已储存国内各地的对外合作项目近万条，|中外客商可以通过国际互联网进行查询，寻求项目合作意向，并接受国内外客商委托提供投资咨询服务、双向传递项目信息，促进合作项目实施。" SentencePosition="1…72|73…136" Center="1" ChildList="2|3" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="55-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="这个由中国经贸合作信息网络中心组织开发的信息网，整理汇集了中国各省市经过审核的经济贸易信息和对外合作项目，|现已储存国内各地的对外合作项目近万条，" SentencePosition="1…53|54…72" Center="3" ChildList="" ParentId="1" UseTime="13"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="100…100" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="中外客商可以通过国际互联网进行查询，寻求项目合作意向，|并接受国内外客商委托提供投资咨询服务、双向传递项目信息，促进合作项目实施。" SentencePosition="73…99|100…136" Center="3" ChildList="4|5" ParentId="1" UseTime="9"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="95-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="中外客商可以通过国际互联网进行查询，|寻求项目合作意向，" SentencePosition="73…90|91…99" Center="1" ChildList="" ParentId="3" UseTime="13"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="135-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="并接受国内外客商委托提供投资咨询服务、双向传递项目信息，|促进合作项目实施。" SentencePosition="100…127|128…136" Center="1" ChildList="" ParentId="3" UseTime="10"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国经贸合作信息网络中心受国家计委和中国信息协会领导，由中国部分省、市政府经济协作部门共同组建。|在每年春秋两届中国出口商品交易会期间，网络中心还定期举办招商会，利用世界各国客商云集广交会的机会，组织开展经贸合作项目洽谈。目前，这样的经贸合作信息发布会已举办了两届。" SentencePosition="1…48|49…132" Center="3" ChildList="2|3" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="29-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="中国经贸合作信息网络中心受国家计委和中国信息协会领导，|由中国部分省、市政府经济协作部门共同组建。" SentencePosition="1…27|28…48" Center="3" ChildList="" ParentId="1" UseTime="18"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在每年春秋两届中国出口商品交易会期间，网络中心还定期举办招商会，利用世界各国客商云集广交会的机会，组织开展经贸合作项目洽谈。|目前，这样的经贸合作信息发布会已举办了两届。" SentencePosition="49…110|111…132" Center="1" ChildList="4" ParentId="1" UseTime="7"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="85-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="在每年春秋两届中国出口商品交易会期间，网络中心还定期举办招商会，|利用世界各国客商云集广交会的机会，组织开展经贸合作项目洽谈。" SentencePosition="49…80|81…110" Center="3" ChildList="5" ParentId="3" UseTime="17"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="105-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="利用世界各国客商云集广交会的机会，|组织开展经贸合作项目洽谈。" SentencePosition="81…97|98…110" Center="2" ChildList="" ParentId="4" UseTime="14"/>
+  </P> 
+</DOC>

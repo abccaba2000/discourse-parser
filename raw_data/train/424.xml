@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="63-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="中国国家技术监督局、邮电部、对外贸易经济合作部、国内贸易部、中华全国供销合作总社、中国人民银行、海关总署今天联合举办报告会，|纪念以“世界贸易需要国际标准”为主题的第二十八届世界标准日。" SentencePosition="1…62|63…92" Center="2" ChildList="" ParentId="-1" UseTime="22"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="此后" RelationType="顺承关系" ConnectivePosition="66…67" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，一九七０年国际标准化组织决定，将联合国标准协调委员会在一九四六年讨论成立国际标准化组织的首日，即十月十四日作为世界标准日。|此后，每年的十月十四日，从事国际标准化活动的三大主要机构国际标准化组织（ＩＳＯ）、国际电工委员会（ＩＥＣ）和国际电信联盟（ＩＴＵ）的成员国，都在各自国家里举办各种活动纪念这个日子。" SentencePosition="1…65|66…155" Center="2" ChildList="" ParentId="-1" UseTime="17"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="国家技术监督局标准化司负责人说，中国政府历来十分重视采用国际标准工作。|自一九五八年加入ＩＥＣ、一九七八年加入ＩＳＯ、一九七二年加入ＩＴＵ以来，ＩＥＣ、ＩＳＯ现行一万四千二百多项国际标准，中国国家标准中已采用六千四百六十三项，占国际标准总数的百分之四十五点五；ＩＴＵ制定的国际标准建议，凡适合中国国情的已基本转化为中国标准；中国现有一万七千七百二十项国家标准，其中百分之四十点五采用了国际标准和国外先进标准，有些重点行业如电工、电子、汽车、化工、冶金、邮电、船舶等领域，国家标准采用国际标准的比例已达到百分之七十以上；大约百分之五十的重点工农业产品已按国际标准和国外先进标准组织生产。" SentencePosition="1…35|36…291" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="自一九五八年加入ＩＥＣ、一九七八年加入ＩＳＯ、一九七二年加入ＩＴＵ以来，ＩＥＣ、ＩＳＯ现行一万四千二百多项国际标准，中国国家标准中已采用六千四百六十三项，占国际标准总数的百分之四十五点五；ＩＴＵ制定的国际标准建议，凡适合中国国情的已基本转化为中国标准；|中国现有一万七千七百二十项国家标准，其中百分之四十点五采用了国际标准和国外先进标准，有些重点行业如电工、电子、汽车、化工、冶金、邮电、船舶等领域，国家标准采用国际标准的比例已达到百分之七十以上；|大约百分之五十的重点工农业产品已按国际标准和国外先进标准组织生产。" SentencePosition="36…161|162…258|259…291" Center="3" ChildList="3|5" ParentId="1" UseTime="17"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="97-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="自一九五八年加入ＩＥＣ、一九七八年加入ＩＳＯ、一九七二年加入ＩＴＵ以来，ＩＥＣ、ＩＳＯ现行一万四千二百多项国际标准，|中国国家标准中已采用六千四百六十三项，占国际标准总数的百分之四十五点五；ＩＴＵ制定的国际标准建议，凡适合中国国情的已基本转化为中国标准；" SentencePosition="36…93|94…161" Center="2" ChildList="4" ParentId="2" UseTime="20"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国国家标准中已采用六千四百六十三项，|占国际标准总数的百分之四十五点五；ＩＴＵ制定的国际标准建议，凡适合中国国情的已基本转化为中国标准；" SentencePosition="94…112|113…161" Center="3" ChildList="" ParentId="3" UseTime="6"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="180…181" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="中国现有一万七千七百二十项国家标准，|其中百分之四十点五采用了国际标准和国外先进标准，有些重点行业如电工、电子、汽车、化工、冶金、邮电、船舶等领域，国家标准采用国际标准的比例已达到百分之七十以上；" SentencePosition="162…179|180…258" Center="1" ChildList="6" ParentId="2" UseTime="14"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其中百分之四十点五采用了国际标准和国外先进标准，|有些重点行业如电工、电子、汽车、化工、冶金、邮电、船舶等领域，国家标准采用国际标准的比例已达到百分之七十以上；" SentencePosition="180…203|204…258" Center="3" ChildList="" ParentId="5" UseTime="8"/> 
+  </P>  
+  <P ID="5">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="为" RelationType="目的关系" ConnectivePosition="1…1" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="为纪念第二十八届世界标准日，|由国家技术监督局组织编辑的《中国标准化》大型宣传画册，近日由中国标准出版社出版。" SentencePosition="1…14|15…54" Center="2" ChildList="" ParentId="-1" UseTime="12"/>
+  </P>
+</DOC>

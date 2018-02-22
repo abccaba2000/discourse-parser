@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="46-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="本报东京２月１３日电记者于青报道：旅日华侨和台湾同胞２００多人今晚在中国驻日使馆欢聚一堂，|喜迎羊年新春佳节。" SentencePosition="1…45|46…54" Center="1" ChildList="" ParentId="-1" UseTime="14"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="首先" RelationType="顺承关系" ConnectivePosition="6…7" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="杨振亚大使首先向侨胞和台胞祝贺春节。|赞扬侨胞台胞为支援祖国的社会主义建设做出了重要贡献。他相信，进入９０年代，为实现我国现代化建设的第二个战略目标，侨胞和台胞一定会继续发扬爱国传统，为祖国繁荣富强做出更大贡献。" SentencePosition="1…18|19…105" Center="3" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="赞扬侨胞台胞为支援祖国的社会主义建设做出了重要贡献。|他相信，进入９０年代，为实现我国现代化建设的第二个战略目标，侨胞和台胞一定会继续发扬爱国传统，为祖国繁荣富强做出更大贡献。" SentencePosition="19…44|45…105" Center="3" ChildList="3" ParentId="1" UseTime="5"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="为" RelationType="目的关系" ConnectivePosition="56…56" ConnectiveAttribute="不可删除" RoleLocation="abnormal" LanguageSense="true" Sentence="他相信，进入９０年代，为实现我国现代化建设的第二个战略目标，|侨胞和台胞一定会继续发扬爱国传统，为祖国繁荣富强做出更大贡献。" SentencePosition="45…74|75…105" Center="2" ChildList="4" ParentId="2" UseTime="31"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="99-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="侨胞和台胞一定会继续发扬爱国传统，|为祖国繁荣富强做出更大贡献。" SentencePosition="75…91|92…105" Center="3" ChildList="" ParentId="3" UseTime="11"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="杨大使还说，在新春佳节之际，我们更加怀念台湾同胞，|祖国统一是顺应历史潮流的伟大事业，是海峡两岸人民的共同愿望，这一愿望一定能实现。" SentencePosition="1…25|26…65" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="57-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="祖国统一是顺应历史潮流的伟大事业，是海峡两岸人民的共同愿望，|这一愿望一定能实现。" SentencePosition="26…55|56…65" Center="2" ChildList="3" ParentId="1" UseTime="15"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="46-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="祖国统一是顺应历史潮流的伟大事业，|是海峡两岸人民的共同愿望，" SentencePosition="26…42|43…55" Center="3" ChildList="" ParentId="2" UseTime="15"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="东京华侨总会会长陈旺讲话表示，希望台湾当局能够兑现今年５月解除“动员戡乱时期”的许诺，让许多久未还乡的台湾同胞如愿以偿。|陈会长说，他本人已５０年未能重返台湾故乡了。" SentencePosition="1…60|61…82" Center="1" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="东京华侨总会会长陈旺讲话表示，希望台湾当局能够兑现今年５月解除“动员戡乱时期”的许诺，|让许多久未还乡的台湾同胞如愿以偿。" SentencePosition="1…43|44…60" Center="2" ChildList="" ParentId="1" UseTime="7"/>
+  </P> 
+</DOC>

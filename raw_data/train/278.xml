@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC>
+  <P ID="3">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="旨在" RelationType="目的关系" ConnectivePosition="22…23" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="代表团应外交学会邀请于八月三十日来华访问，|旨在了解中国经济改革情况，经济立法在建立市场经济体制过程中的保障作用，特别是在经济特区建设方面的成功经验。" SentencePosition="1…21|22…74" Center="1" ChildList="" ParentId="-1" UseTime="17"/>
+  </P>
+</DOC>

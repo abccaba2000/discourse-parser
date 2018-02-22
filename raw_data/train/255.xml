@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="记者日前从云南省民政厅获悉，根据中国、老挝和联合国难民署三方达成的遣返在华老挝难民协议，云南顺利完成了十二批、二千九百一十七人的遣返任务，|遣返人数占原在华老挝难民的百分之七十三以上。" SentencePosition="1…69|70…91" Center="1" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="根据国务院的统一部署，自一九七八年以来，云南先后接收安置难民六万四千一百余人，其中老挝难民到一九九一年已达三千九百九十四人。|依照中国政府缔结的有关国际公约，云南省对难民实行大量的国际主义和人道主义援助。十五年来，在全省尚有四十多个贫困县接受政府财政补助的情况下，已累计支付二点六亿元专为难民解决生产生活困难。" SentencePosition="1…62|63…154" Center="3" ChildList="2|3" ParentId="-1" UseTime="21"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="40…41" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="根据国务院的统一部署，自一九七八年以来，云南先后接收安置难民六万四千一百余人，|其中老挝难民到一九九一年已达三千九百九十四人。" SentencePosition="1…39|40…62" Center="1" ChildList="" ParentId="1" UseTime="54"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="依照中国政府缔结的有关国际公约，云南省对难民实行大量的国际主义和人道主义援助。|十五年来，在全省尚有四十多个贫困县接受政府财政补助的情况下，已累计支付二点六亿元专为难民解决生产生活困难。" SentencePosition="63…101|102…154" Center="1" ChildList="" ParentId="1" UseTime="14"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="国际社会公认，难民自愿遣返到原籍国是永久解决难民问题的最佳方案。|随着中、老两国关系的不断改善，老挝政府主动表示愿意接收在华老挝难民回国，遣返难民的条件日趋成熟。一九九一年四月和七月，中老两国政府正式签订了《关于遣返在华老挝难民的议定书》和《备忘录》，分别委托中国云南省政府和老挝南塔省政府具体负责组织实施。" SentencePosition="1…32|33…153" Center="2" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="82-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="随着中、老两国关系的不断改善，老挝政府主动表示愿意接收在华老挝难民回国，遣返难民的条件日趋成熟。|一九九一年四月和七月，中老两国政府正式签订了《关于遣返在华老挝难民的议定书》和《备忘录》，分别委托中国云南省政府和老挝南塔省政府具体负责组织实施。" SentencePosition="33…80|81…153" Center="3" ChildList="3|4" ParentId="1" UseTime="20"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="72-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="随着中、老两国关系的不断改善，老挝政府主动表示愿意接收在华老挝难民回国，|遣返难民的条件日趋成熟。" SentencePosition="33…68|69…80" Center="1" ChildList="" ParentId="2" UseTime="20"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="132-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="一九九一年四月和七月，中老两国政府正式签订了《关于遣返在华老挝难民的议定书》和《备忘录》，|分别委托中国云南省政府和老挝南塔省政府具体负责组织实施。" SentencePosition="81…125|126…153" Center="3" ChildList="" ParentId="2" UseTime="24"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="使" RelationType="因果关系" ConnectivePosition="42…42" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="在遣返过程中，云南省政府对难民的生活极为重视，并同老挝政府和联合国难民署密切配合，|使遣返工作得以顺利进行。" SentencePosition="1…41|42…53" Center="1" ChildList="2" ParentId="-1" UseTime="19"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="24…24" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="在遣返过程中，云南省政府对难民的生活极为重视，|并同老挝政府和联合国难民署密切配合，" SentencePosition="1…23|24…41" Center="3" ChildList="" ParentId="1" UseTime="20"/> 
+  </P>  
+  <P ID="6">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="20-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="据悉，云南尚余一千零七十五名老挝难民，|在难民完全自愿前提下，云南省政府将继续积极稳妥进行遣返。" SentencePosition="1…19|20…47" Center="2" ChildList="" ParentId="-1" UseTime="20"/>
+  </P>
+</DOC>

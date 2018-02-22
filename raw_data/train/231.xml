@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="34-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="爱尔兰共和军今天宣布，从今天午夜起，该组织将彻底停止一切军事活动，|实行“无条件的和不限期的”的停火。" SentencePosition="1…33|34…50" Center="3" ChildList="" ParentId="-1" UseTime="17"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="51-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="爱尔兰共和军在一份向英国和爱尔兰新闻传媒发表的声明中说，考虑到当前的形势和为了推进北爱尔兰和平进程，|该组织作出了上述决定，并把这一决定通知了它下属的所有部队。" SentencePosition="1…50|51…79" Center="2" ChildList="2" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="62…62" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="该组织作出了上述决定，|并把这一决定通知了它下属的所有部队。" SentencePosition="51…61|62…79" Center="3" ChildList="" ParentId="1" UseTime="11"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="最终" RelationType="顺承关系" ConnectivePosition="78…79" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="声明要求英国政府正视自己承担的责任，敦促有关各方以坚定和耐心面对将由这次停火所带来的新形势，举行由英国和爱尔兰政府以及北爱尔兰各主要政党参加的广泛的谈判，|最终解决北爱尔兰的冲突。" SentencePosition="1…77|78…89" Center="3" ChildList="2" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="声明要求英国政府正视自己承担的责任，|敦促有关各方以坚定和耐心面对将由这次停火所带来的新形势，|举行由英国和爱尔兰政府以及北爱尔兰各主要政党参加的广泛的谈判，" SentencePosition="1…18|19…46|47…77" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="但是" RelationType="转折关系" ConnectivePosition="41…42" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="声明说，爱尔兰共和军宣布的停火，为北爱尔兰问题的“公正和永久的解决”提供了机会。|但是爱尔兰共和军也重申，它将仍然信守其“共和目标”，即爱尔兰全岛的统一。" SentencePosition="1…40|41…76" Center="2" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="但是爱尔兰共和军也重申，它将仍然信守其“共和目标”，|即爱尔兰全岛的统一。" SentencePosition="41…66|67…76" Center="1" ChildList="" ParentId="1" UseTime="10"/> 
+  </P>  
+  <P ID="6">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="为" RelationType="目的关系" ConnectivePosition="1…1" ConnectiveAttribute="不可删除" RoleLocation="abnormal" LanguageSense="true" Sentence="为实现北爱尔兰和爱尔兰共和国的统一，|爱尔兰共和军已在北爱尔兰进行了长达２５年的暴力活动。" SentencePosition="1…18|19…44" Center="2" ChildList="" ParentId="-1" UseTime="14"/>
+  </P>
+</DOC>

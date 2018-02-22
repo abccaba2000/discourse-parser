@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这届外企交易会有三千多客商洽谈贸易，出口成交八千多万美元。|成交的主要商品是草柳藤竹制品，还有电子产品、陶瓷、玩具、服装、鞋帽、箱包、家具等。" SentencePosition="1…29|30…70" Center="3" ChildList="2|3" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这届外企交易会有三千多客商洽谈贸易，|出口成交八千多万美元。" SentencePosition="1…18|19…29" Center="3" ChildList="" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="还" RelationType="并列关系" ConnectivePosition="45…45" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="成交的主要商品是草柳藤竹制品，|还有电子产品、陶瓷、玩具、服装、鞋帽、箱包、家具等。" SentencePosition="30…44|45…70" Center="3" ChildList="" ParentId="1" UseTime="17"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这届外企交易会有六百多家企业参展，|来自福建、江苏、上海、浙江等省市的外资企业成交最多。" SentencePosition="1…17|18…43" Center="3" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="5">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据主办者介绍，下届外企交易会仍在广州举行，|仍与中国出口商品交易会同期举行。" SentencePosition="1…21|22…37" Center="1" ChildList="" ParentId="-1" UseTime="5"/>
+  </P>
+</DOC>

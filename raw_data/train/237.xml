@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国最高立法机关全国人大常委会今天通过决定，|中国将在一九九七年恢复对香港行使主权时，重组香港立法机关和区域组织。" SentencePosition="1…22|23…56" Center="2" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="80…80" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="决定规定，香港特别行政区筹委会将根据全国人大关于香港特别行政区第一届政府和立法会产生办法的决定，负责筹备特别行政区有关事宜，|规定其第一届立法会的具体产生办法，|并组建香港特别行政区第一届立法会。" SentencePosition="1…62|63…79|80…96" Center="3" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="43-" ConnectiveAttribute="可添加" RoleLocation="abnormal" LanguageSense="false" Sentence="会议认为，港英最后一届立法局、市政局和区域市政局、区议会于一九九七年六月三十日终止。|英国政府单方面决定的有关港英最后一届立法局、市政局和区域市政局、区议会的选举安排，违反中英联合声明，不符合《中华人民共和国香港特别行政区基本法》和《全国人民代表大会关于香港特别行政区第一届政府和立法会产生办法的决定》。" SentencePosition="1…42|43…151" Center="1" ChildList="2" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="94-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="英国政府单方面决定的有关港英最后一届立法局、市政局和区域市政局、区议会的选举安排，违反中英联合声明，|不符合《中华人民共和国香港特别行政区基本法》和《全国人民代表大会关于香港特别行政区第一届政府和立法会产生办法的决定》。" SentencePosition="43…92|93…151" Center="3" ChildList="" ParentId="1" UseTime="14"/>
+  </P> 
+</DOC>

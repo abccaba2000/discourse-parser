@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国钢年产量预计到本世纪末可达一点零五亿至一点一五亿吨，|钢铁工业在满足经济发展、最大限度地占领国内市场的同时，将进一步增强竞争力，开拓国际市场。" SentencePosition="1…28|29…72" Center="3" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="钢铁工业在满足经济发展、最大限度地占领国内市场的同时，将进一步增强竞争力，|开拓国际市场。" SentencePosition="29…65|66…72" Center="3" ChildList="" ParentId="1" UseTime="6"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="国家计委钢铁处处长牛栋春在今天举行的产业投资信息新闻发布会上说，中国钢铁工业“九五”（一九九六至二０００年）期间，预计总投资在三千亿元左右，但原则上不再布新点，主要立足现有企业挖潜扩大再生产。|重点增加汽车、石油、电力等专用钢材和不锈钢材的生产能力，提高钢铁产品质量和附加值。" SentencePosition="1…96|97…137" Center="1" ChildList="2|4" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="71…71" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="国家计委钢铁处处长牛栋春在今天举行的产业投资信息新闻发布会上说，中国钢铁工业“九五”（一九九六至二０００年）期间，预计总投资在三千亿元左右，|但原则上不再布新点，主要立足现有企业挖潜扩大再生产。" SentencePosition="1…70|71…96" Center="2" ChildList="3" ParentId="1" UseTime="17"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="但原则上不再布新点，|主要立足现有企业挖潜扩大再生产。" SentencePosition="71…80|81…96" Center="2" ChildList="" ParentId="2" UseTime="8"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="129-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="重点增加汽车、石油、电力等专用钢材和不锈钢材的生产能力，|提高钢铁产品质量和附加值。" SentencePosition="97…124|125…137" Center="3" ChildList="" ParentId="1" UseTime="15"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="或" RelationType="选择关系" ConnectivePosition="45…45" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="国家还将鼓励有条件的钢铁企业到境外开发、生产铁矿石、金属化球团、铬矿石和铬铁等紧缺资源，|或以签订长期贸易合同的方式利用国外的原料资源。" SentencePosition="1…44|45…67" Center="3" ChildList="" ParentId="-1" UseTime="24"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="33…33" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="中国的钢产量去年达到一亿零一百二十三万吨，成为世界第一产钢大国。|但钢铁工业工艺、装备比较落后，部分钢材质量与国外相比有相当大的差距。" SentencePosition="1…32|33…66" Center="3" ChildList="2|3" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="中国的钢产量去年达到一亿零一百二十三万吨，|成为世界第一产钢大国。" SentencePosition="1…21|22…32" Center="2" ChildList="" ParentId="1" UseTime="15"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="50-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="但钢铁工业工艺、装备比较落后，|部分钢材质量与国外相比有相当大的差距。" SentencePosition="33…47|48…66" Center="3" ChildList="" ParentId="1" UseTime="22"/>
+  </P> 
+</DOC>

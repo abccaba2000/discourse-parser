@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="台湾非商品部分的劳务贸易每况愈下，|逆差居高不下。" SentencePosition="1…17|18…24" Center="3" ChildList="" ParentId="-1" UseTime="5"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据悉，台湾近五年的劳务贸易一直呈现逆差，每年逆差金额在七十五亿美元至八十七亿美元之间。|据国际货币基金的统计，台湾去年劳务输出金额一百六十四亿美元，劳务输入金额达二百三十九亿美元，逆差达七十五亿美元。有关人士认为，这七十五亿美元的高额劳务贸易逆差，足以让台湾经济增长率向下修正两个百分点。" SentencePosition="1…43|44…143" Center="1" ChildList="2|3" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="据悉，台湾近五年的劳务贸易一直呈现逆差，|每年逆差金额在七十五亿美元至八十七亿美元之间。" SentencePosition="1…20|21…43" Center="3" ChildList="" ParentId="1" UseTime="14"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据国际货币基金的统计，台湾去年劳务输出金额一百六十四亿美元，劳务输入金额达二百三十九亿美元，逆差达七十五亿美元。|有关人士认为，这七十五亿美元的高额劳务贸易逆差，足以让台湾经济增长率向下修正两个百分点。" SentencePosition="44…99|100…143" Center="1" ChildList="4" ParentId="1" UseTime="6"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="94-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="据国际货币基金的统计，台湾去年劳务输出金额一百六十四亿美元，劳务输入金额达二百三十九亿美元，|逆差达七十五亿美元。" SentencePosition="44…89|90…99" Center="2" ChildList="5" ParentId="3" UseTime="20"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据国际货币基金的统计，台湾去年劳务输出金额一百六十四亿美元，|劳务输入金额达二百三十九亿美元，" SentencePosition="44…73|74…89" Center="3" ChildList="" ParentId="4" UseTime="14"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="劳务贸易，通指相互之间在通信服务、金融服务、教育服务和旅游服务等方面的劳务输入与输出。|台湾“经济部”透露，台湾的劳务输出在世界排名第十七位，在亚洲“四小龙”中位居末座。" SentencePosition="1…43|44…84" Center="2" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="台湾“经济部”透露，台湾的劳务输出在世界排名第十七位，|在亚洲“四小龙”中位居末座。" SentencePosition="44…70|71…84" Center="3" ChildList="" ParentId="1" UseTime="18"/>
+  </P> 
+</DOC>

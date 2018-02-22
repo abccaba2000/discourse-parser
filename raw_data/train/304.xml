@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="46-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="根据约旦国王侯赛因和以色列总理拉宾７月２５日签署的《华盛顿宣言》，双方将开放两个边界口岸。|位于约旦亚喀巴和以色列埃拉特之间的阿拉巴边界口岸已于８月８日开通，但是这个边界口岸目前只允许第三国旅游者通过。" SentencePosition="1…45|46…100" Center="1" ChildList="2" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="但是" RelationType="转折关系" ConnectivePosition="79…80" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="位于约旦亚喀巴和以色列埃拉特之间的阿拉巴边界口岸已于８月８日开通，|但是这个边界口岸目前只允许第三国旅游者通过。" SentencePosition="46…78|79…100" Center="1" ChildList="" ParentId="1" UseTime="15"/>
+  </P> 
+</DOC>

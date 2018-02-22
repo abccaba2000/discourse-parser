@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="30-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="英萨纳利强调，帮助越南恢复生产和建设是当前国际社会的责任。|他呼吁参加今年１１月在巴黎举行的“援助越南巴黎国际会议”的国家扩大对越南的经济援助。在去年１１月举行的援助越南巴黎国际会议上，越南共获得日本、法国、韩国和瑞典等国的１８?６亿美元的援助。" SentencePosition="1…29|30…122" Center="1" ChildList="3" ParentId="-1" UseTime="25"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他呼吁参加今年１１月在巴黎举行的“援助越南巴黎国际会议”的国家扩大对越南的经济援助。|在去年１１月举行的援助越南巴黎国际会议上，越南共获得日本、法国、韩国和瑞典等国的１８?６亿美元的援助。" SentencePosition="30…71|72…122" Center="1" ChildList="" ParentId="1" UseTime="6"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="英萨纳利还表示联合国将加强对越援助计划。|目前仅联合国开发计划署就在越南实施了近３００个大小发展项目，价值４亿多美元。" SentencePosition="1…20|21…58" Center="1" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="目前仅联合国开发计划署就在越南实施了近３００个大小发展项目，|价值４亿多美元。" SentencePosition="21…50|51…58" Center="1" ChildList="" ParentId="1" UseTime="6"/>
+  </P> 
+</DOC>

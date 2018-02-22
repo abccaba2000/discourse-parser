@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="又" RelationType="并列关系" ConnectivePosition="33…33" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="中国内陆大省四川实行一系列鼓励对外开放的新政策，|今年全省对外开放又迈出新步伐。" SentencePosition="1…24|25…39" Center="3" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="52…53" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="据四川省有关部门介绍，今年一至十月，全省外贸进出口总值达十九点二七亿美元，比去年同期增长百分之九点三，|其中外贸出口十三亿五千七百多万美元，同比增长百分之十五点八。" SentencePosition="1…51|52…81" Center="1" ChildList="2|3" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据四川省有关部门介绍，今年一至十月，全省外贸进出口总值达十九点二七亿美元，|比去年同期增长百分之九点三，" SentencePosition="1…37|38…51" Center="1" ChildList="" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其中外贸出口十三亿五千七百多万美元，|同比增长百分之十五点八。" SentencePosition="52…69|70…81" Center="1" ChildList="" ParentId="1" UseTime="5"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="同时" RelationType="并列关系" ConnectivePosition="68…69" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="在此期间，全省新批外商投资项目近二百个，比去年同期增长近一倍，合同利用外资五点七八亿美元；|签订对外工程承包劳务输出合同三点四七亿美元；|同时，新加坡华侨银行、澳大利亚国卫人寿保险公司等九家外资金融机构相继入川落户。" SentencePosition="1…45|46…67|68…106" Center="3" ChildList="2" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在此期间，全省新批外商投资项目近二百个，比去年同期增长近一倍，|合同利用外资五点七八亿美元；" SentencePosition="1…31|32…45" Center="3" ChildList="3" ParentId="1" UseTime="8"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在此期间，全省新批外商投资项目近二百个，|比去年同期增长近一倍，" SentencePosition="1…20|21…31" Center="1" ChildList="" ParentId="2" UseTime="5"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="之所以" RelationType="因果关系" ConnectivePosition="9…11" ConnectiveAttribute="不可删除" RoleLocation="abnormal" LanguageSense="true" Sentence="四川今年对外开放之所以能迈出新步伐，|主要经验在于省政府鼓励扩大外贸出口，并对引进外资采取了一系列优惠的扶持政策，如省里出台并实施的《四川省鼓励外商投资优惠政策》等，为外商提供了优惠、宽松的政策环境。" SentencePosition="1…18|19…99" Center="2" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="37…37" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="主要经验在于省政府鼓励扩大外贸出口，|并对引进外资采取了一系列优惠的扶持政策，如省里出台并实施的《四川省鼓励外商投资优惠政策》等，为外商提供了优惠、宽松的政策环境。" SentencePosition="19…36|37…99" Center="3" ChildList="3" ParentId="1" UseTime="12"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="如" RelationType="例证关系" ConnectivePosition="57…57" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="并对引进外资采取了一系列优惠的扶持政策，|如省里出台并实施的《四川省鼓励外商投资优惠政策》等，为外商提供了优惠、宽松的政策环境。" SentencePosition="37…56|57…99" Center="1" ChildList="" ParentId="2" UseTime="19"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="此外，四川省实施的改善外商投资的软硬环境、减轻外商投资企业的不合理负担、简化审批手续等措施也为招商引资发挥了积极的作用。|目前，四川省对外商外资开放的领域不断扩大，现已由过去的一般加工业，扩大到基础工业、基础设施和一些贸易行业、外商直接投资、国际证券融资等等。" SentencePosition="1…60|61…129" Center="1" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前，四川省对外商外资开放的领域不断扩大，|现已由过去的一般加工业，扩大到基础工业、基础设施和一些贸易行业、外商直接投资、国际证券融资等等。" SentencePosition="61…81|82…129" Center="1" ChildList="" ParentId="1" UseTime="5"/>
+  </P> 
+</DOC>

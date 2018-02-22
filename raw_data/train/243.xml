@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="41-" ConnectiveAttribute="可添加" RoleLocation="abnormal" LanguageSense="false" Sentence="俄罗斯总统叶利钦在接受德国《明镜》周刊记者采访时，警告西方不要空袭波黑塞族阵地。|他认为，这只会使局势更加恶化。" SentencePosition="1…40|41…55" Center="1" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="5">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="45…45" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="叶利钦在谈话中，主张德国军队更多地参加联合国的维和使命，|德军参加驻巴尔干地区的联合国部队也是值得欢迎的。" SentencePosition="1…28|29…52" Center="3" ChildList="" ParentId="-1" UseTime="12"/>
+  </P>
+</DOC>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="宋浩京转达了朝鲜领导人对中国领导人的亲切问候，代表朝方对中国党政领导人和人民哀悼金日成主席逝世表示深切谢意。|钱其琛感谢宋浩京转达朝鲜领导人的问候，表示相信朝鲜人民将紧密团结在以金正日为首的朝鲜劳动党中央周围，继续完成金日成主席的遗愿。" SentencePosition="1…54|55…117" Center="3" ChildList="2|3" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="25-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="宋浩京转达了朝鲜领导人对中国领导人的亲切问候，|代表朝方对中国党政领导人和人民哀悼金日成主席逝世表示深切谢意。" SentencePosition="1…23|24…54" Center="3" ChildList="" ParentId="1" UseTime="13"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="76-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="钱其琛感谢宋浩京转达朝鲜领导人的问候，|表示相信朝鲜人民将紧密团结在以金正日为首的朝鲜劳动党中央周围，继续完成金日成主席的遗愿。" SentencePosition="55…73|74…117" Center="3" ChildList="" ParentId="1" UseTime="14"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="钱其琛说，不久前朝美会谈取得了成果。|中方希望这一会谈能够继续进行下去并不断取得进展。" SentencePosition="1…18|19…42" Center="3" ChildList="" ParentId="-1" UseTime="6"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="在…时" RelationType="顺承关系" ConnectivePosition="1…1&amp;&amp;19…19" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="在谈到在朝鲜半岛建立和平保障机制问题时，|钱其琛表示，中国真诚希望朝鲜半岛保持稳定与和平，在新的和平机制建立之前，朝鲜停战协定仍然是有效的，有关各方都应遵守。" SentencePosition="1…20|21…78" Center="2" ChildList="2" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="钱其琛表示，中国真诚希望朝鲜半岛保持稳定与和平，|在新的和平机制建立之前，朝鲜停战协定仍然是有效的，有关各方都应遵守。" SentencePosition="21…44|45…78" Center="3" ChildList="3" ParentId="1" UseTime="5"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="在…之前" RelationType="条件关系" ConnectivePosition="45…45&amp;&amp;54…55" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="在新的和平机制建立之前，|朝鲜停战协定仍然是有效的，有关各方都应遵守。" SentencePosition="45…56|57…78" Center="2" ChildList="4" ParentId="2" UseTime="25"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="77-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="朝鲜停战协定仍然是有效的，|有关各方都应遵守。" SentencePosition="57…69|70…78" Center="1" ChildList="" ParentId="3" UseTime="26"/>
+  </P> 
+</DOC>

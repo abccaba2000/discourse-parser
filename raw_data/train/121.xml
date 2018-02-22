@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="国家医药管理局一位官员说，从今年起要逐步增加对创新药物研究的资助，|国有资本要以高技术领域和创新医药产品为投资重点。" SentencePosition="1…33|34…57" Center="3" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="与此同时" RelationType="并列关系" ConnectivePosition="62…65" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="今年国家医药管理局将依据新的标准评价和评出医药工业“五十强”企业，其年销售收入总和预计占全国医药销售收入的百分之六十以上。|与此同时，各企业年销售收入的百分之三到百分之五将被用于新药研究和开发。" SentencePosition="1…61|62…96" Center="3" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="今年国家医药管理局将依据新的标准评价和评出医药工业“五十强”企业，|其年销售收入总和预计占全国医药销售收入的百分之六十以上。" SentencePosition="1…33|34…61" Center="1" ChildList="" ParentId="1" UseTime="8"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以此" RelationType="目的关系" ConnectivePosition="39…40" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="这位官员说，国家同时也要引导外资投向新技术、新产品以及中西部地区的医药项目，|以此带动民族医药企业提高产品的技术含量，增强国际市场竞争力。" SentencePosition="1…38|39…68" Center="1" ChildList="2" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="60-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="以此带动民族医药企业提高产品的技术含量，|增强国际市场竞争力。" SentencePosition="39…58|59…68" Center="3" ChildList="" ParentId="1" UseTime="13"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="58…58" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="中国现有医药企业约三千五百家，每年生产一千三百五十种原料药和四千种中草药，是仅次于美国的第二大原料药生产和出口国。|但由于科技含量低，产品在国际市场上的售价低于正常价格的百分之二十至三十，每年仅能换回十多亿美元的外汇。而一九九六年，中国仅进口药物制剂就耗资超过十一亿美元。" SentencePosition="1…57|58…135" Center="2" ChildList="2|4" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="中国现有医药企业约三千五百家，每年生产一千三百五十种原料药和四千种中草药，|是仅次于美国的第二大原料药生产和出口国。" SentencePosition="1…37|38…57" Center="3" ChildList="3" ParentId="1" UseTime="15"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国现有医药企业约三千五百家，|每年生产一千三百五十种原料药和四千种中草药，" SentencePosition="1…15|16…37" Center="3" ChildList="" ParentId="2" UseTime="7"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="但由于科技含量低，产品在国际市场上的售价低于正常价格的百分之二十至三十，每年仅能换回十多亿美元的外汇。|而一九九六年，中国仅进口药物制剂就耗资超过十一亿美元。" SentencePosition="58…108|109…135" Center="1" ChildList="5" ParentId="1" UseTime="11"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="100-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="但由于科技含量低，产品在国际市场上的售价低于正常价格的百分之二十至三十，|每年仅能换回十多亿美元的外汇。" SentencePosition="58…93|94…108" Center="2" ChildList="6" ParentId="4" UseTime="27"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="由于" RelationType="因果关系" ConnectivePosition="59…60" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="但由于科技含量低，|产品在国际市场上的售价低于正常价格的百分之二十至三十，" SentencePosition="58…66|67…93" Center="2" ChildList="" ParentId="5" UseTime="11"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前中国专职从事创新药物研究的人员不足三千人，|仅相当于美国默克药厂研究部的在编人员。" SentencePosition="1…23|24…42" Center="1" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="29-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="专家呼吁中国医药业应改变重原料药生产、轻制剂开发的做法，|尽快赶上世界制药业的发展潮流。" SentencePosition="1…28|29…43" Center="1" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="9">
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据悉，由国家科委、卫生部、国家医药管理局等部门联合推行的国家新药与产业化开发项目正在实施中，|计划到本世纪末，开发出十个专利保护新药，|建立五个新药筛选中心、五个药物安全性评价中心和五个药物临床实验中心。" SentencePosition="1…46|47…66|67…100" Center="3" ChildList="" ParentId="-1" UseTime="13"/>
+  </P>
+</DOC>

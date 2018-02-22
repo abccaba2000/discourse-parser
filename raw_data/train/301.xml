@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="莱奥塔尔是在巴黎向一家电台记者发表谈话时说这番话的。|他指出，美国建议解除对波黑的武器禁运，意味着“国际援助可能结束”以及“重大的公开冲突再次爆发”，而这将产生“造成重大损失的严重后果”。" SentencePosition="1…26|27…93" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="转折关系" ConnectivePosition="75…75" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他指出，美国建议解除对波黑的武器禁运，意味着“国际援助可能结束”以及“重大的公开冲突再次爆发”，|而这将产生“造成重大损失的严重后果”。" SentencePosition="27…74|75…93" Center="1" ChildList="3" ParentId="1" UseTime="26"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="意味着" RelationType="评价关系" ConnectivePosition="46…48" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="他指出，美国建议解除对波黑的武器禁运，|意味着“国际援助可能结束”以及“重大的公开冲突再次爆发”，" SentencePosition="27…45|46…74" Center="1" ChildList="" ParentId="2" UseTime="13"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="在…的情况下" RelationType="条件关系" ConnectivePosition="8…8&amp;&amp;24…27" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="莱奥塔尔说，“在联合国维和部队的安全得不到保证的情况下，|我们不能接受解除对波黑的武器禁运”。" SentencePosition="1…28|29…46" Center="2" ChildList="" ParentId="-1" UseTime="33"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="１９９２年２月波黑冲突爆发以来，法国在波黑一直派驻有约４０００名官兵。|它是向该地区派驻蓝盔部队最多的西方国家。" SentencePosition="1…35|36…55" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="以来" RelationType="条件关系" ConnectivePosition="14…15" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="１９９２年２月波黑冲突爆发以来，|法国在波黑一直派驻有约４０００名官兵。" SentencePosition="1…16|17…35" Center="2" ChildList="" ParentId="1" UseTime="19"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="美国总统克林顿８月１０日宣称，如果波黑塞族到１０月１５日仍不接受５国和平方案，他将请求安理会通过决议，取消对波黑的武器禁运；|如果安理会不能通过这样的决议，他将谋求美国单方面解除对波黑的武器禁运。" SentencePosition="1…62|63…97" Center="3" ChildList="2|4" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="如果" RelationType="假设关系" ConnectivePosition="16…17" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="美国总统克林顿８月１０日宣称，如果波黑塞族到１０月１５日仍不接受５国和平方案，|他将请求安理会通过决议，取消对波黑的武器禁运；" SentencePosition="1…39|40…62" Center="3" ChildList="3" ParentId="1" UseTime="19"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他将请求安理会通过决议，|取消对波黑的武器禁运；" SentencePosition="40…51|52…62" Center="2" ChildList="" ParentId="2" UseTime="14"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="如果" RelationType="假设关系" ConnectivePosition="63…64" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="如果安理会不能通过这样的决议，|他将谋求美国单方面解除对波黑的武器禁运。" SentencePosition="63…77|78…97" Center="3" ChildList="" ParentId="1" UseTime="18"/>
+  </P> 
+</DOC>

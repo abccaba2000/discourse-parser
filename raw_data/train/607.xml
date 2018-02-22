@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国援建多哥的３万人体育场工程第一期──主体柱、梁基础工程于２２日在第１０轴合龙，|比预定工期提前一个月完成任务。" SentencePosition="1…41|42…56" Center="1" ChildList="" ParentId="-1" UseTime="4"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这个工程浩大的援建项目合同是中国和多哥政府于１９９７年４月２５日在洛美签订的，项目总投资近２亿元人民币，由中国成套设备（集团）公司与安徽外经建设（集团）公司联合承建。|经过周密的准备，体育场工程于１０月１１日举行了奠基典礼，多哥总统埃亚德马和中国外经贸部副部长杨文生出席了奠基仪式，并为工程奠基。" SentencePosition="1…83|84…147" Center="3" ChildList="2|3" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这个工程浩大的援建项目合同是中国和多哥政府于１９９７年４月２５日在洛美签订的，|项目总投资近２亿元人民币，|由中国成套设备（集团）公司与安徽外经建设（集团）公司联合承建。" SentencePosition="1…39|40…52|53…83" Center="3" ChildList="" ParentId="1" UseTime="9"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="经过周密的准备，体育场工程于１０月１１日举行了奠基典礼，|多哥总统埃亚德马和中国外经贸部副部长杨文生出席了奠基仪式，并为工程奠基。" SentencePosition="84…111|112…147" Center="3" ChildList="4" ParentId="1" UseTime="7"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="141…141" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="多哥总统埃亚德马和中国外经贸部副部长杨文生出席了奠基仪式，|并为工程奠基。" SentencePosition="112…140|141…147" Center="3" ChildList="" ParentId="3" UseTime="14"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="体育场总体工程分三期，第一期为基础部分，第二期为结构部分，第三期为装修部分。|全部工程预计于１９９９年１０月完工后移交多哥。" SentencePosition="1…38|39…61" Center="3" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="总分关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="体育场总体工程分三期，|第一期为基础部分，第二期为结构部分，第三期为装修部分。" SentencePosition="1…11|12…38" Center="1" ChildList="3" ParentId="1" UseTime="8"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="第一期为基础部分，|第二期为结构部分，|第三期为装修部分。" SentencePosition="12…20|21…29|30…38" Center="3" ChildList="" ParentId="2" UseTime="10"/>
+  </P> 
+</DOC>

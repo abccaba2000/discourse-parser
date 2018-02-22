@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="42-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="十七号台风使浙江灾区的教育系统蒙受了惨重的损失，校舍、设施受损毁学校达一千五百所。|在灾区政府和人民积极抗灾、全力自救后，目前灾区大部分中小学已正常开学。" SentencePosition="1…41|42…76" Center="2" ChildList="2" ParentId="-1" UseTime="26"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="十七号台风使浙江灾区的教育系统蒙受了惨重的损失，|校舍、设施受损毁学校达一千五百所。" SentencePosition="1…24|25…41" Center="1" ChildList="" ParentId="1" UseTime="8"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="浙江省教育部门最近派出工作组分赴温州、台州等地指导灾区教育恢复工作。|温州市教委组织机关干部二十多人分七组赴乐清、瓯海、洞头、平阳等地，帮助做好修复校园和开学准备工作，并从教育经费中挤出二十万元经费专用于教育救灾。|灾区各地市县的教育行政部门，对因受灾造成家庭经济困难而无法缴纳学费的学生，予以减免学费或给予一定救助，保证学生们能按时上学。" SentencePosition="1…34|35…106|107…168" Center="3" ChildList="2|4" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="69-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="温州市教委组织机关干部二十多人分七组赴乐清、瓯海、洞头、平阳等地，|帮助做好修复校园和开学准备工作，并从教育经费中挤出二十万元经费专用于教育救灾。" SentencePosition="35…67|68…106" Center="2" ChildList="3" ParentId="1" UseTime="22"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="84…84" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="帮助做好修复校园和开学准备工作，|并从教育经费中挤出二十万元经费专用于教育救灾。" SentencePosition="68…83|84…106" Center="3" ChildList="" ParentId="2" UseTime="9"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="162-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="灾区各地市县的教育行政部门，对因受灾造成家庭经济困难而无法缴纳学费的学生，予以减免学费或给予一定救助，|保证学生们能按时上学。" SentencePosition="107…157|158…168" Center="1" ChildList="" ParentId="1" UseTime="15"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="并列关系" ConnectivePosition="61…61" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="受灾地区的学校领导和教职工自动提前上班，认真清理校园环境，进行卫生消毒，并对损毁校舍进行修复。|温州市教委和共青团温州市委还联合灾区学校师生，发起“为受灾学校献爱心”募捐活动，到目前为止，该市已经得到各方面捐款一百多万元。" SentencePosition="1…47|48…110" Center="3" ChildList="2|4" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="目的关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="受灾地区的学校领导和教职工自动提前上班，|认真清理校园环境，进行卫生消毒，并对损毁校舍进行修复。" SentencePosition="1…20|21…47" Center="2" ChildList="3" ParentId="1" UseTime="6"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="37…37" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="认真清理校园环境，|进行卫生消毒，|并对损毁校舍进行修复。" SentencePosition="21…29|30…36|37…47" Center="3" ChildList="" ParentId="2" UseTime="16"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="温州市教委和共青团温州市委还联合灾区学校师生，发起“为受灾学校献爱心”募捐活动，|到目前为止，该市已经得到各方面捐款一百多万元。" SentencePosition="48…87|88…110" Center="3" ChildList="" ParentId="1" UseTime="7"/> 
+  </P> 
+</DOC>

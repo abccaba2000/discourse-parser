@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="15…15" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="中国拟出台多项新的优惠政策，|以保证积极合理有效地利用外资，完善对外开放格局。" SentencePosition="1…14|15…38" Center="1" ChildList="2" ParentId="-1" UseTime="13"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="31-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="以保证积极合理有效地利用外资，|完善对外开放格局。" SentencePosition="15…29|30…38" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="国家计委有关部门介绍，为拓宽利用外资的渠道，中国将对于ＢＯＴ、项目融资、在海外发行股票等多种方式积极试点逐步开展。|扩大与发达国家及广大发展中国家的合作，扩大对外开放领域，继续保险业、零售商业的利用外资试点，并在矿业资源开发、分销等行业推出新的利用外资政策。" SentencePosition="1…57|58…128" Center="3" ChildList="2|3" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="为" RelationType="目的关系" ConnectivePosition="12…12" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="国家计委有关部门介绍，为拓宽利用外资的渠道，|中国将对于ＢＯＴ、项目融资、在海外发行股票等多种方式积极试点逐步开展。" SentencePosition="1…22|23…57" Center="2" ChildList="" ParentId="1" UseTime="16"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="104…104" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="扩大与发达国家及广大发展中国家的合作，|扩大对外开放领域，|继续保险业、零售商业的利用外资试点，|并在矿业资源开发、分销等行业推出新的利用外资政策。" SentencePosition="58…76|77…85|86…103|104…128" Center="3" ChildList="" ParentId="1" UseTime="17"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="国家税务总局提供的信息表明，从明年开始，外商投资ＢＯＴ项目继续享受税收优惠，|其优惠政策范围包括从事ＢＯＴ项目的投资企业和投资者个人。" SentencePosition="1…38|39…66" Center="3" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="为" RelationType="目的关系" ConnectivePosition="15…15" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="国务院特区办有关负责人表示，为鼓励外商到中西部地区进行投资，|对中国产业政策中限制外商投资，但能发挥人力资源的项目，允许外商在中西部兴办。" SentencePosition="1…30|31…68" Center="2" ChildList="3" ParentId="-1" UseTime="16"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="46…46" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="对中国产业政策中限制外商投资，|但能发挥人力资源的项目，允许外商在中西部兴办。" SentencePosition="31…45|46…68" Center="2" ChildList="4" ParentId="1" UseTime="13"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="62-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="但能发挥人力资源的项目，|允许外商在中西部兴办。" SentencePosition="46…57|58…68" Center="3" ChildList="" ParentId="3" UseTime="14"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="此外，中国将鼓励中外合资建设并经营公用码头泊位，允许外商独资建设货主码头及其专用航道。|经批准，外国公司可在中国设立中外合资海运公司，外国海运公司可依据两国政府间海运协定，设立独资船务公司。" SentencePosition="1…43|44…94" Center="3" ChildList="2|3" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="26-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="此外，中国将鼓励中外合资建设并经营公用码头泊位，|允许外商独资建设货主码头及其专用航道。" SentencePosition="1…24|25…43" Center="3" ChildList="" ParentId="1" UseTime="15"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="经批准，外国公司可在中国设立中外合资海运公司，|外国海运公司可依据两国政府间海运协定，设立独资船务公司。" SentencePosition="44…66|67…94" Center="3" ChildList="" ParentId="1" UseTime="8"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据统计，到目前为止中国已累计批准外商投资企业逾三十万家，实际使用外资约二千亿美元。|利用外资已占全社会固定资产投资的二成以上。" SentencePosition="1…41|42…62" Center="3" ChildList="2" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据统计，到目前为止中国已累计批准外商投资企业逾三十万家，|实际使用外资约二千亿美元。" SentencePosition="1…28|29…41" Center="3" ChildList="" ParentId="1" UseTime="4"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据分析，由于企业改革的推进，中国对于外资的需求将随之增加，外商投资的行业也将日益扩大。|新政策陆续出台，表明中国将积极引导外资的投向，达到合理利用外资的目的。" SentencePosition="1…43|44…78" Center="3" ChildList="2|3" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="37…37" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据分析，由于企业改革的推进，中国对于外资的需求将随之增加，|外商投资的行业也将日益扩大。" SentencePosition="1…29|30…43" Center="3" ChildList="" ParentId="1" UseTime="17"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="新政策陆续出台，|表明中国将积极引导外资的投向，达到合理利用外资的目的。" SentencePosition="44…51|52…78" Center="1" ChildList="4" ParentId="1" UseTime="4"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="72-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="表明中国将积极引导外资的投向，|达到合理利用外资的目的。" SentencePosition="52…66|67…78" Center="3" ChildList="" ParentId="3" UseTime="13"/> 
+  </P>  
+  <P ID="9">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="66-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="今后一段时期，中国将鼓励外商投资农业新技术和土地资源综合开发以及水利、能源、交通、重要原材料、机械电子、矿业等基础产业和支柱产业，|鼓励外商采用高新技术参予中国企业的技术改造。" SentencePosition="1…65|66…87" Center="3" ChildList="" ParentId="-1" UseTime="10"/>
+  </P>
+</DOC>

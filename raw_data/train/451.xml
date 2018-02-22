@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据大连市政府官员介绍，近几年来，外商对大连市农渔业的投资逐年增加，到一九九六年，全市农村有外商投资的合资、合作、独资企业达一千六百多家，累计吸引外资额十五点一亿美元，年实现出口供货额一百二十多亿元人民币。|在全市农业年出口创汇额中，百分之六十是由农业外向型企业提供的。" SentencePosition="1…102|103…133" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据大连市政府官员介绍，近几年来，外商对大连市农渔业的投资逐年增加，|到一九九六年，全市农村有外商投资的合资、合作、独资企业达一千六百多家，累计吸引外资额十五点一亿美元，年实现出口供货额一百二十多亿元人民币。" SentencePosition="1…33|34…102" Center="1" ChildList="3" ParentId="1" UseTime="9"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="到一九九六年，全市农村有外商投资的合资、合作、独资企业达一千六百多家，|累计吸引外资额十五点一亿美元，|年实现出口供货额一百二十多亿元人民币。" SentencePosition="34…68|69…83|84…102" Center="3" ChildList="" ParentId="2" UseTime="21"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="大连市现有外商投资企业六千多家，|外商直接投资额一百零六亿美元。" SentencePosition="1…16|17…31" Center="3" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="33…34" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="目前，大连“三资”企业正由初期的二、三产业向种植业、养殖业延伸，|其中瓦房店市肉鸡生产基地、俄罗斯鲟鱼养殖基地，旅顺口区的工厂化养鲍基地，都具有相当的规模和水平。" SentencePosition="1…32|33…80" Center="1" ChildList="" ParentId="-1" UseTime="29"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="46-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="大连地处中国辽东半岛的南端，交通、通讯便捷，工业门类齐全，科教事业发达，农业资源较好开发。|目前，全市初步形成了四大农业经济区，即北部的林果牧经济区、中部的粮牧经济区、黄渤海沿岸的渔区、南部郊区的副食品经济区。" SentencePosition="1…45|46…104" Center="2" ChildList="2|3" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="大连地处中国辽东半岛的南端，|交通、通讯便捷，|工业门类齐全，|科教事业发达，|农业资源较好开发。" SentencePosition="1…14|15…22|23…29|30…36|37…45" Center="3" ChildList="" ParentId="1" UseTime="19"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="即" RelationType="解说关系" ConnectivePosition="64…64" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="目前，全市初步形成了四大农业经济区，|即北部的林果牧经济区、中部的粮牧经济区、黄渤海沿岸的渔区、南部郊区的副食品经济区。" SentencePosition="46…63|64…104" Center="1" ChildList="" ParentId="1" UseTime="13"/>
+  </P> 
+</DOC>

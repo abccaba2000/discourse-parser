@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="45-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="朝鲜《劳动新闻》今天发表评论说，选择何种政治制度和经济管理方式是各国人民自行决定的问题，|美国在此问题上对朝鲜施加压力只会破坏和平与稳定。" SentencePosition="1…44|45…68" Center="2" ChildList="" ParentId="-1" UseTime="19"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="34-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="评论指出，美国今年８月以来多次提出要检查朝鲜的所谓“地下核设施”，|指责朝鲜的所谓“导弹威胁”，都是严重侵犯朝鲜主权和干涉朝鲜内政的行为，目的是为了寻找点燃战火的导火索。" SentencePosition="1…33|34…84" Center="3" ChildList="2" ParentId="-1" UseTime="29"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="70-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="指责朝鲜的所谓“导弹威胁”，都是严重侵犯朝鲜主权和干涉朝鲜内政的行为，|目的是为了寻找点燃战火的导火索。" SentencePosition="34…68|69…84" Center="3" ChildList="" ParentId="1" UseTime="11"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="评论要求美国不要对朝鲜的政治制度指手画脚。|评论指出，只有尊重朝鲜的社会主义制度，取消对朝鲜的不当制裁，朝鲜半岛的和平与稳定才能得到保障；美国在韩国驻军是对朝鲜主权的最残暴的蹂躏，美军不从韩国撤出，朝鲜半岛的军事对峙和战争气氛就无法消除。" SentencePosition="1…21|22…118" Center="1" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="评论指出，只有尊重朝鲜的社会主义制度，取消对朝鲜的不当制裁，朝鲜半岛的和平与稳定才能得到保障；|美国在韩国驻军是对朝鲜主权的最残暴的蹂躏，美军不从韩国撤出，朝鲜半岛的军事对峙和战争气氛就无法消除。" SentencePosition="22…68|69…118" Center="3" ChildList="3|5" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="只有…才" RelationType="条件关系" ConnectivePosition="27…28&amp;&amp;62…62" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="评论指出，只有尊重朝鲜的社会主义制度，取消对朝鲜的不当制裁，|朝鲜半岛的和平与稳定才能得到保障；" SentencePosition="22…51|52…68" Center="3" ChildList="4" ParentId="2" UseTime="35"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="45-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="评论指出，只有尊重朝鲜的社会主义制度，|取消对朝鲜的不当制裁，" SentencePosition="22…40|41…51" Center="3" ChildList="" ParentId="3" UseTime="14"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="99-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="美国在韩国驻军是对朝鲜主权的最残暴的蹂躏，|美军不从韩国撤出，朝鲜半岛的军事对峙和战争气氛就无法消除。" SentencePosition="69…89|90…118" Center="2" ChildList="6" ParentId="2" UseTime="12"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="如果" RelationType="假设关系" ConnectivePosition="99-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="美军不从韩国撤出，|朝鲜半岛的军事对峙和战争气氛就无法消除。" SentencePosition="90…98|99…118" Center="3" ChildList="" ParentId="5" UseTime="15"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="否则" RelationType="假设关系" ConnectivePosition="44…45" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="评论说，如果美国尊重朝鲜主权，不干涉朝鲜内政，不对朝鲜施加压力，朝鲜会作出相应的行动，|否则将采取相应的应对措施。" SentencePosition="1…43|44…56" Center="1" ChildList="2" ParentId="-1" UseTime="23"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="如果" RelationType="假设关系" ConnectivePosition="5…6" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="评论说，如果美国尊重朝鲜主权，不干涉朝鲜内政，不对朝鲜施加压力，|朝鲜会作出相应的行动，" SentencePosition="1…32|33…43" Center="2" ChildList="3" ParentId="1" UseTime="14"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="评论说，如果美国尊重朝鲜主权，|不干涉朝鲜内政，|不对朝鲜施加压力，" SentencePosition="1…15|16…23|24…32" Center="3" ChildList="" ParentId="2" UseTime="11"/>
+  </P> 
+</DOC>

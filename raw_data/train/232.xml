@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="最近，有关专家学者在河南省西峡县阳城乡发现大量恐龙骨骼化石。|这是继去年初在该地发现丰富的珍贵恐龙蛋化石之后的又一重大发现。" SentencePosition="1…30|31…61" Center="1" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="记者从河南省文物考古研究所获悉，今年四月初，有关专家在西峡县阳城乡虎头山等地的两个河砾层之间，发现了数百块恐龙骨骼化石，其中有肋骨、趾骨等。由于长期暴露于地表，有些已经破碎。|从地层学上看，它们都属于白垩纪。" SentencePosition="1…87|88…103" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="但是" RelationType="转折关系" ConnectivePosition="72-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="记者从河南省文物考古研究所获悉，今年四月初，有关专家在西峡县阳城乡虎头山等地的两个河砾层之间，发现了数百块恐龙骨骼化石，其中有肋骨、趾骨等。|由于长期暴露于地表，有些已经破碎。" SentencePosition="1…70|71…87" Center="2" ChildList="3|4" ParentId="1" UseTime="16"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="61…62" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="记者从河南省文物考古研究所获悉，今年四月初，有关专家在西峡县阳城乡虎头山等地的两个河砾层之间，发现了数百块恐龙骨骼化石，|其中有肋骨、趾骨等。" SentencePosition="1…60|61…70" Center="1" ChildList="" ParentId="2" UseTime="31"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="由于" RelationType="因果关系" ConnectivePosition="71…72" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="由于长期暴露于地表，|有些已经破碎。" SentencePosition="71…80|81…87" Center="2" ChildList="" ParentId="2" UseTime="10"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据专家判断，在恐龙化石群分布区还埋藏有大量恐龙骨骼化石和其它物种化石。他们认为，西峡盆地中大量珍贵恐龙蛋化石的发现，已属世界罕见，而蛋化石与骨骼化石共存一处就更为罕见。|这对于研究西峡地区恐龙分类，探讨恐龙生态习性和繁殖行为，复原恐龙时代生态环境，揭示地壳变迁与地球环境演化规律具有十分重要的意义。而恐龙骨骼化石的发现，也为进一步寻找恐龙化石在地域上、埋藏规律上提供了重要线索。" SentencePosition="1…84|85…188" Center="1" ChildList="2|5" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据专家判断，在恐龙化石群分布区还埋藏有大量恐龙骨骼化石和其它物种化石。|他们认为，西峡盆地中大量珍贵恐龙蛋化石的发现，已属世界罕见，而蛋化石与骨骼化石共存一处就更为罕见。" SentencePosition="1…35|36…84" Center="3" ChildList="4" ParentId="1" UseTime="6"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="而" RelationType="递进关系" ConnectivePosition="66…66" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他们认为，西峡盆地中大量珍贵恐龙蛋化石的发现，已属世界罕见，|而蛋化石与骨骼化石共存一处就更为罕见。" SentencePosition="36…65|66…84" Center="3" ChildList="" ParentId="2" UseTime="17"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="而…也" RelationType="并列关系" ConnectivePosition="149…149&amp;&amp;160…160" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="这对于研究西峡地区恐龙分类，探讨恐龙生态习性和繁殖行为，复原恐龙时代生态环境，揭示地壳变迁与地球环境演化规律具有十分重要的意义。|而恐龙骨骼化石的发现，也为进一步寻找恐龙化石在地域上、埋藏规律上提供了重要线索。" SentencePosition="85…148|149…188" Center="3" ChildList="" ParentId="1" UseTime="11"/>
+  </P> 
+</DOC>

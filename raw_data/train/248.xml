@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="今天上午，柬埔寨王国政府第一首相诺罗敦?拉那烈和第二首相洪森在首相府会见了刚刚到任的联合国秘书长派驻柬埔寨的代表本尼?威迪奥诺。|会见后，威迪奥诺和总理府发言人都对记者说，柬埔寨人民党主席、国民议会议长谢辛，奉辛比克党主席、王国政府第一首相拉那烈，第二首相洪森和民主柬埔寨方面主席乔森潘都一致表示，同意参加定于５月２日至７日在金边举行的圆桌会议。西哈努克是在昨天发表的声明中提出这一建议的。" SentencePosition="1…64|65…194" Center="3" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="会见后，威迪奥诺和总理府发言人都对记者说，柬埔寨人民党主席、国民议会议长谢辛，奉辛比克党主席、王国政府第一首相拉那烈，第二首相洪森和民主柬埔寨方面主席乔森潘都一致表示，同意参加定于５月２日至７日在金边举行的圆桌会议。|西哈努克是在昨天发表的声明中提出这一建议的。" SentencePosition="65…172|173…194" Center="1" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，会见时双方讨论了柬埔寨政治、经济和安全等问题。|柬埔寨两位首相要求联合国秘书长将其派驻柬埔寨的代表的留驻时间延长为６个月或更长一些。威迪奥诺表示将把此意见转达给联合国秘书长。" SentencePosition="1…27|28…90" Center="3" ChildList="2" ParentId="-1" UseTime="29"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="柬埔寨两位首相要求联合国秘书长将其派驻柬埔寨的代表的留驻时间延长为６个月或更长一些。|威迪奥诺表示将把此意见转达给联合国秘书长。" SentencePosition="28…69|70…90" Center="3" ChildList="" ParentId="1" UseTime="5"/>
+  </P> 
+</DOC>

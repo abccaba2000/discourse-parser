@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC>
+  <P ID="2">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="今播（ＣＢ００３０１１）号“中国人民银行副行长高德柱谈金融改革的成就与前景”稿，|标题及一段中“中国人民银行副行长”改为“中国银行副行长”（共两处）。新华社对外部十二月十一日" SentencePosition="1…40|41…86" Center="3" ChildList="" ParentId="-1" UseTime="10"/>
+  </P>
+</DOC>

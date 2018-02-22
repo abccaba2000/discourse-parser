@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="97-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="国务院总理李鹏今天在中南海紫光阁会见中国推行公务员制度经验交流会全体代表时指出，推行公务员制度是中国政治体制改革的一项重要内容，是干部人事制度的重大改革，是建立社会主义市场经济体制的客观需要，|要有领导、有步骤地加快推行步伐。" SentencePosition="1…96|97…112" Center="2" ChildList="2" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="国务院总理李鹏今天在中南海紫光阁会见中国推行公务员制度经验交流会全体代表时指出，推行公务员制度是中国政治体制改革的一项重要内容，|是干部人事制度的重大改革，|是建立社会主义市场经济体制的客观需要，" SentencePosition="1…64|65…77|78…96" Center="3" ChildList="" ParentId="1" UseTime="19"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这次推行公务员制度经验交流会是昨天开始召开的，|各省、自治区、直辖市人事厅局长、国务院各部委、直属机构人事部门的负责人共一百二十多人出席了会议。" SentencePosition="1…23|24…71" Center="1" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="顺承关系" ConnectivePosition="26-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="李鹏肯定了一年来国家公务员制度推行工作取得的成效。|他说，我们要认真总结和推广这些好的经验，建立起激励竞争和勤政廉政机制，建立一支以为人民服务为宗旨、密切联系群众、精干高效、廉洁奉公、忠于职守的国家公务员队伍，增强政府机关的生机和活力。" SentencePosition="1…25|26…117" Center="3" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，我们要认真总结和推广这些好的经验，|建立起激励竞争和勤政廉政机制，|建立一支以为人民服务为宗旨、密切联系群众、精干高效、廉洁奉公、忠于职守的国家公务员队伍，|增强政府机关的生机和活力。" SentencePosition="26…45|46…60|61…104|105…117" Center="3" ChildList="" ParentId="1" UseTime="21"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="李鹏提出，推行公务员制度，要按照《国家公务员暂行条例》依法办事，不能有随意性。|要把这项工作作为政治体制改革的一件大事来抓，结合改革、精简机构来推行公务员制度；要形成公务员的新陈代谢机制，使青年人才不断地进入到公务员队伍当中。" SentencePosition="1…39|40…112" Center="3" ChildList="2|3" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="李鹏提出，推行公务员制度，要按照《国家公务员暂行条例》依法办事，|不能有随意性。" SentencePosition="1…32|33…39" Center="3" ChildList="" ParentId="1" UseTime="6"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="64-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="要把这项工作作为政治体制改革的一件大事来抓，|结合改革、精简机构来推行公务员制度；要形成公务员的新陈代谢机制，使青年人才不断地进入到公务员队伍当中。" SentencePosition="40…61|62…112" Center="3" ChildList="4" ParentId="1" UseTime="19"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="使" RelationType="目的关系" ConnectivePosition="94…94" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="结合改革、精简机构来推行公务员制度；要形成公务员的新陈代谢机制，|使青年人才不断地进入到公务员队伍当中。" SentencePosition="62…93|94…112" Center="1" ChildList="" ParentId="3" UseTime="19"/>
+  </P> 
+</DOC>

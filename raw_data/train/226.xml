@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="59…59" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="中国国务委员兼国防部长迟浩田和坦桑尼亚国防和国民服务部国务部长基纳纳今天在这里就加强两国和两军之间的合作举行了会谈，|并就上述问题达成了一致。" SentencePosition="1…58|59…70" Center="3" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="双方对两军３０多年来的友好合作表示满意。|迟浩田说，中国和坦桑建交３０多年来，关系一直很好，两国在政治、经济、军事和文化各个领域里都进行了卓有成效的合作。基纳纳说，令人高兴的是，由两国老一代领导人尼雷尔和毛泽东、周恩来缔造的这种友好合作关系不仅得到了继承，而且有了新的发展。基纳纳对中国过去向坦桑提供的大量援助表示感谢。" SentencePosition="1…20|21…159" Center="1" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="迟浩田说，中国和坦桑建交３０多年来，关系一直很好，两国在政治、经济、军事和文化各个领域里都进行了卓有成效的合作。|基纳纳说，令人高兴的是，由两国老一代领导人尼雷尔和毛泽东、周恩来缔造的这种友好合作关系不仅得到了继承，而且有了新的发展。基纳纳对中国过去向坦桑提供的大量援助表示感谢。" SentencePosition="21…76|77…159" Center="3" ChildList="3|4" ParentId="1" UseTime="9"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="迟浩田说，中国和坦桑建交３０多年来，关系一直很好，|两国在政治、经济、军事和文化各个领域里都进行了卓有成效的合作。" SentencePosition="21…45|46…76" Center="1" ChildList="" ParentId="2" UseTime="6"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="基纳纳说，令人高兴的是，由两国老一代领导人尼雷尔和毛泽东、周恩来缔造的这种友好合作关系不仅得到了继承，而且有了新的发展。|基纳纳对中国过去向坦桑提供的大量援助表示感谢。" SentencePosition="77…136|137…159" Center="3" ChildList="5" ParentId="2" UseTime="8"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="不仅…而且" RelationType="递进关系" ConnectivePosition="120…121&amp;&amp;128…129" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="基纳纳说，令人高兴的是，由两国老一代领导人尼雷尔和毛泽东、周恩来缔造的这种友好合作关系不仅得到了继承，|而且有了新的发展。" SentencePosition="77…127|128…136" Center="3" ChildList="" ParentId="4" UseTime="14"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="41-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="双方一致同意，两国将在平等互利的基础上，进一步发展两国、两军在各个领域里的合作，|把两国间的友好合作关系提高到一个新水平。" SentencePosition="1…40|41…60" Center="1" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="5">
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="会谈前，基纳纳主持了盛大阅兵仪式，|欢迎迟浩田及其一行。" SentencePosition="1…17|18…27" Center="2" ChildList="" ParentId="-1" UseTime="8"/>
+  </P> 
+</DOC>

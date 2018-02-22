@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="新华社沈阳一月十九日电（记者董践真）中国老工业基地辽宁，固定资产总投资的每一百元中，已有二十一元八角是利用外资。利用外资进行的固定资产投资已占了这个省固定资产总投资的五分之一强。|这是辽宁省副省长高国珠在日前召开的全省利用外资工作会议上谈到的。" SentencePosition="1…89|90…121" Center="1" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="新华社沈阳一月十九日电（记者董践真）中国老工业基地辽宁，固定资产总投资的每一百元中，已有二十一元八角是利用外资。|利用外资进行的固定资产投资已占了这个省固定资产总投资的五分之一强。" SentencePosition="1…56|57…89" Center="3" ChildList="" ParentId="1" UseTime="14"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="从一九九二年到一九九七年的六年中，辽宁实际调入的外资已近一百三十亿美元，|占了全省同期固定资产投资总额的百分之二十一点八。" SentencePosition="1…36|37…60" Center="1" ChildList="" ParentId="-1" UseTime="4"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="六年间，辽宁已有近六千家外资企业开业投产，累计实现产值近二千七百亿元。|一九九七年外资投资企业的年产值突破六百亿元，外资企业年产值占全省工业产值的比重，已由一九九二年的百分之五上升到百分之十七。" SentencePosition="1…35|36…96" Center="3" ChildList="2|3" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="六年间，辽宁已有近六千家外资企业开业投产，|累计实现产值近二千七百亿元。" SentencePosition="1…21|22…35" Center="3" ChildList="" ParentId="1" UseTime="4"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="一九九七年外资投资企业的年产值突破六百亿元，|外资企业年产值占全省工业产值的比重，已由一九九二年的百分之五上升到百分之十七。" SentencePosition="36…57|58…96" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="利用外资有力地推动了辽宁的经济发展，促进了社会的稳定。|高国珠谈到，一九九七年辽宁外资企业的税收达到三十亿元，占全省工商税收的比重，已由一九九二年的百分之三上升到百分之十以上。在全省现已开业的外资企业中，直接安置的从业人员已达六十万人以上，成为辽宁解决就业问题的重要渠道之一。" SentencePosition="1…27|28…137" Center="1" ChildList="2|3" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="20-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="利用外资有力地推动了辽宁的经济发展，|促进了社会的稳定。" SentencePosition="1…18|19…27" Center="3" ChildList="" ParentId="1" UseTime="14"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="高国珠谈到，一九九七年辽宁外资企业的税收达到三十亿元，占全省工商税收的比重，已由一九九二年的百分之三上升到百分之十以上。|在全省现已开业的外资企业中，直接安置的从业人员已达六十万人以上，成为辽宁解决就业问题的重要渠道之一。" SentencePosition="28…87|88…137" Center="3" ChildList="4|5" ParentId="1" UseTime="9"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="高国珠谈到，一九九七年辽宁外资企业的税收达到三十亿元，|占全省工商税收的比重，已由一九九二年的百分之三上升到百分之十以上。" SentencePosition="28…54|55…87" Center="3" ChildList="" ParentId="3" UseTime="7"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="127-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="在全省现已开业的外资企业中，直接安置的从业人员已达六十万人以上，|成为辽宁解决就业问题的重要渠道之一。" SentencePosition="88…119|120…137" Center="3" ChildList="" ParentId="3" UseTime="13"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="并列关系" ConnectivePosition="90…90" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="辽宁利用外资的领域已从过去的中小型加工项目，扩大到石化、冶金、机械、电子等老工业基地改造的四大支柱行业和农业、房地产、基础设施、能源、金融等行业。|高国珠说：“外商与辽宁合作的领域还在不断拓宽。”" SentencePosition="1…73|74…97" Center="3" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="利用外资的方式辽宁已呈现出多元化发展趋势。|高国珠谈到，将于外资合作经营总投资四十九亿元人民币的沈大高速公路有限公司已获国家外经贸部批准。中国最大的钢铁公司??鞍钢Ｈ股，已在香港挂牌。大连瓦轴集团Ｂ股上市发行股票已融资达三点九亿美元。辽宁正在积极采取发展新股上市、产权出让、资产出租等利用外资的新举措。" SentencePosition="1…21|22…150" Center="1" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="高国珠谈到，将于外资合作经营总投资四十九亿元人民币的沈大高速公路有限公司已获国家外经贸部批准。|中国最大的钢铁公司??鞍钢Ｈ股，已在香港挂牌。|大连瓦轴集团Ｂ股上市发行股票已融资达三点九亿美元。|辽宁正在积极采取发展新股上市、产权出让、资产出租等利用外资的新举措。" SentencePosition="22…68|69…91|92…116|117…150" Center="3" ChildList="" ParentId="1" UseTime="15"/> 
+  </P> 
+</DOC>

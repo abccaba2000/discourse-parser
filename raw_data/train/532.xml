@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="38…38" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="邝其志说，香港除储备庞大外，政府并无负债，累积储备约为四百八十亿美元。|政府并维持一简单税制，将个人税率及公司利得税税率维持在世界上最低水平之一。" SentencePosition="1…35|36…72" Center="3" ChildList="2|4" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="除…外…并" RelationType="并列关系" ConnectivePosition="8…8&amp;&amp;13…13&amp;&amp;17…17" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="邝其志说，香港除储备庞大外，|政府并无负债，累积储备约为四百八十亿美元。" SentencePosition="1…14|15…35" Center="3" ChildList="3" ParentId="1" UseTime="19"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="26-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="政府并无负债，|累积储备约为四百八十亿美元。" SentencePosition="15…21|22…35" Center="3" ChildList="" ParentId="2" UseTime="26"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="51-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="政府并维持一简单税制，|将个人税率及公司利得税税率维持在世界上最低水平之一。" SentencePosition="36…46|47…72" Center="3" ChildList="" ParentId="1" UseTime="21"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="「在支出方面，我们严格控制政府开支。|在一段期间内，政府开支的增长率不会高於经济趋势增长率。特别值得强调是，我们并不单指一年的开支增长，而是以多年期作规划。」" SentencePosition="1…18|19…78" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="56…56" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="在一段期间内，政府开支的增长率不会高於经济趋势增长率。|特别值得强调是，我们并不单指一年的开支增长，而是以多年期作规划。」" SentencePosition="19…45|46…78" Center="3" ChildList="3" ParentId="1" UseTime="18"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="68…68" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="特别值得强调是，我们并不单指一年的开支增长，|而是以多年期作规划。」" SentencePosition="46…67|68…78" Center="2" ChildList="" ParentId="2" UseTime="22"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="15…16" ConnectiveAttribute="不可删除" RoleLocation="abnormal" LanguageSense="true" Sentence="「运用这个双向手段是成功的。|因为我们不单止带来足够收入去应付开支，并且建立了十分健康的财政储备。」" SentencePosition="1…14|15…49" Center="1" ChildList="2" ParentId="-1" UseTime="21"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="34…35" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="因为我们不单止带来足够收入去应付开支，|并且建立了十分健康的财政储备。」" SentencePosition="15…33|34…49" Center="3" ChildList="" ParentId="1" UseTime="17"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="目的关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="邝其志说∶「实行这些原则带来所需的资源，|为社会建造先进基建设施，更佳房屋、更佳医疗服务、学校及社会福利。」" SentencePosition="1…20|21…53" Center="2" ChildList="" ParentId="-1" UseTime="32"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="1…2" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="因为香港的财政政策经已列在香港特别行政区的小宪法－－基本法内，|邝其志说，这些措施将於未来继续实施。" SentencePosition="1…31|32…49" Center="2" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="29-" ConnectiveAttribute="可添加" RoleLocation="abnormal" LanguageSense="false" Sentence="他说∶「我们将来的财政管理政策并没有『假如』或『但是』。|一套持之以恒并且被证实有效的政策经已写在基本法内。」" SentencePosition="1…28|29…54" Center="1" ChildList="" ParentId="-1" UseTime="20"/> 
+  </P>  
+  <P ID="13"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="40-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="邝其志说∶「我们会继续严格控制政府开支，量入为出，并维持简单，明确及低的税率，|确保经济持续增长。」" SentencePosition="1…39|40…49" Center="1" ChildList="2" ParentId="-1" UseTime="21"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="26…26" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="邝其志说∶「我们会继续严格控制政府开支，|量入为出，|并维持简单，明确及低的税率，" SentencePosition="1…20|21…25|26…39" Center="3" ChildList="" ParentId="1" UseTime="20"/>
+  </P> 
+</DOC>

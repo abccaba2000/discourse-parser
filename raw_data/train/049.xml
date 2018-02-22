@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="同时还" RelationType="并列关系" ConnectivePosition="55…57" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="今年以来，联合国开发计划署在中国吉林，举行了图们江地区国际旅游会议，对中国长白山冬季冰雪旅游等项目积极支持；|同时还出资在这里培训国际经贸人才。" SentencePosition="1…54|55…71" Center="3" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="并列关系" ConnectivePosition="50…50" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="联合国工发组织近期对图们江地区工业项目现状进行了充分调查，并对该地区未来工业发展项目提出建议。|他们还对有关国家提出的工业项目邀请专家进行评估，评估之后再把这些项目输入工发组织的网络进行国际招商。" SentencePosition="1…47|48…97" Center="3" ChildList="2|3" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="30…30" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="联合国工发组织近期对图们江地区工业项目现状进行了充分调查，|并对该地区未来工业发展项目提出建议。" SentencePosition="1…29|30…47" Center="3" ChildList="" ParentId="1" UseTime="8"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他们还对有关国家提出的工业项目邀请专家进行评估，|评估之后再把这些项目输入工发组织的网络进行国际招商。" SentencePosition="48…71|72…97" Center="3" ChildList="" ParentId="1" UseTime="6"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="73…73" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="自一九九五年底该计划由论证阶段转入实施阶段以来，中、俄、朝三国都进行了基础设施建设和招商引资活动，并初步启动了双边和多边合作。|相关国家和国际社会也对该计划予以支持。" SentencePosition="1…63|64…82" Center="3" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="50…50" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="自一九九五年底该计划由论证阶段转入实施阶段以来，中、俄、朝三国都进行了基础设施建设和招商引资活动，|并初步启动了双边和多边合作。" SentencePosition="1…49|50…63" Center="3" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="22…22" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="开发计划署几年来一如既往地支持图们江开发，|并积极帮助中俄朝三国在世界上招商，|帮助搞开发项目的可行性研究。" SentencePosition="1…21|22…38|39…52" Center="3" ChildList="" ParentId="-1" UseTime="14"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="顺承关系" ConnectivePosition="65…65" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="一九九五和一九九六年，在开发计划署和工发组织的帮助下，在中国、朝鲜先后进行了“图们江地区投资贸易洽谈会”，都取得了较好成效。|近期还将在海参崴举行俄罗斯图们江地区招商会。" SentencePosition="1…62|63…84" Center="3" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="55-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="一九九五和一九九六年，在开发计划署和工发组织的帮助下，在中国、朝鲜先后进行了“图们江地区投资贸易洽谈会”，|都取得了较好成效。" SentencePosition="1…53|54…62" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="如" RelationType="例证关系" ConnectivePosition="27…27" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="图们江开发计划也得到了很多国家政府和企业的大力支持。|如芬兰政府拨款一百万美元对图们江开发前期工作予以资助；瑞典出资帮助搞中蒙铁路接轨、建设新的东北亚大陆桥的可行性研究。另外，日本进出口银行已与俄罗斯签订合同，参与俄扎鲁比诺港扩建工程建设。日本还应中国有关部门之邀，对中国长春至珲春的铁路沿线地区综合开发进行调查。" SentencePosition="1…26|27…156" Center="1" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="另外…还" RelationType="并列关系" ConnectivePosition="85…86&amp;&amp;122…122" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="如芬兰政府拨款一百万美元对图们江开发前期工作予以资助；瑞典出资帮助搞中蒙铁路接轨、建设新的东北亚大陆桥的可行性研究。|另外，日本进出口银行已与俄罗斯签订合同，参与俄扎鲁比诺港扩建工程建设。|日本还应中国有关部门之邀，对中国长春至珲春的铁路沿线地区综合开发进行调查。" SentencePosition="27…84|85…119|120…156" Center="3" ChildList="3|4" ParentId="1" UseTime="20"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="如芬兰政府拨款一百万美元对图们江开发前期工作予以资助；|瑞典出资帮助搞中蒙铁路接轨、建设新的东北亚大陆桥的可行性研究。" SentencePosition="27…53|54…84" Center="3" ChildList="" ParentId="2" UseTime="5"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="140-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="日本还应中国有关部门之邀，|对中国长春至珲春的铁路沿线地区综合开发进行调查。" SentencePosition="120…132|133…156" Center="3" ChildList="" ParentId="2" UseTime="25"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="吉林省珲春市市长金硕仁说：“国际社会的支持和参与，对于珲春的开发开放起了积极而关键的作用。|近几年是珲春综合实力增强最显著、城乡面貌变化最明显、人民得到实惠最多的时期。”" SentencePosition="1…45|46…84" Center="3" ChildList="" ParentId="-1" UseTime="5"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="41-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="据了解，韩国企业界已在珲春市投资近一亿美元，外资企业已成为当地经济中的重要支柱。|为推动图们江地区开发，韩国捐款一百万美元设立了图们江发展基金，目前从该基金中拿出十万美元正在进行中国珲春边境合作区环境评估项目，以期对外资大规模进入这个地区提供环境方面的咨询。" SentencePosition="1…40|41…128" Center="1" ChildList="2|3" ParentId="-1" UseTime="22"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据了解，韩国企业界已在珲春市投资近一亿美元，|外资企业已成为当地经济中的重要支柱。" SentencePosition="1…22|23…40" Center="3" ChildList="" ParentId="1" UseTime="12"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="为推动图们江地区开发，韩国捐款一百万美元设立了图们江发展基金，|目前从该基金中拿出十万美元正在进行中国珲春边境合作区环境评估项目，以期对外资大规模进入这个地区提供环境方面的咨询。" SentencePosition="41…71|72…128" Center="3" ChildList="4|5" ParentId="1" UseTime="8"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="为" RelationType="目的关系" ConnectivePosition="41…41" ConnectiveAttribute="不可删除" RoleLocation="abnormal" LanguageSense="true" Sentence="为推动图们江地区开发，|韩国捐款一百万美元设立了图们江发展基金，" SentencePosition="41…51|52…71" Center="2" ChildList="" ParentId="3" UseTime="13"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="以期" RelationType="目的关系" ConnectivePosition="105…106" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="目前从该基金中拿出十万美元正在进行中国珲春边境合作区环境评估项目，|以期对外资大规模进入这个地区提供环境方面的咨询。" SentencePosition="72…104|105…128" Center="1" ChildList="" ParentId="3" UseTime="10"/> 
+  </P>  
+  <P ID="13">
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="吉林省主管经贸工作的副省长全哲洙说：“欢迎国际社会同我们一道，共同推进图们江开发事业，|促进区域经济发展，|造福东北亚人民。”" SentencePosition="1…43|44…52|53…61" Center="3" ChildList="" ParentId="-1" UseTime="10"/>
+  </P>
+</DOC>

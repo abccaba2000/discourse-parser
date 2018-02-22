@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="1"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="北京军区某部“钢八连”积极组织新战士开展丰富多采的文化娱乐活动，使战士们感受到了军营的温暖。|图为连长谭刚伦正在和新战士一起举行娱乐活动。刘卫东侯国忠摄" SentencePosition="1…46|47…75" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="使" RelationType="因果关系" ConnectivePosition="33…33" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="北京军区某部“钢八连”积极组织新战士开展丰富多采的文化娱乐活动，|使战士们感受到了军营的温暖。" SentencePosition="1…32|33…46" Center="1" ChildList="" ParentId="1" UseTime="13"/>
+  </P> 
+</DOC>

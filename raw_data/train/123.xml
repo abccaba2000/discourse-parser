@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="4"> 
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="顺承关系" ConnectivePosition="60…60" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他说，去年又有一批外国银行和保险公司在中国开设了分支机构，到年底，外资在中国开设的营业性金融机构已达一百七十多家。|今后还将适当增加外国银行和保险公司在中国的分支机构，同时还准备扩大外国银行办理人民币业务的试点。" SentencePosition="1…57|58…105" Center="3" ChildList="3|4" ParentId="-1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，去年又有一批外国银行和保险公司在中国开设了分支机构，|到年底，外资在中国开设的营业性金融机构已达一百七十多家。" SentencePosition="1…29|30…57" Center="3" ChildList="" ParentId="2" UseTime="7"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="同时还" RelationType="并列关系" ConnectivePosition="84…86" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="今后还将适当增加外国银行和保险公司在中国的分支机构，|同时还准备扩大外国银行办理人民币业务的试点。" SentencePosition="58…83|84…105" Center="3" ChildList="" ParentId="2" UseTime="10"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="51…51" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他说，由于人民币资本项目下的可兑换本来就没有时间表，所以不存在因东南亚金融危机而延长这一过程的问题。|但在资本项目的开放方面，将吸取东南亚金融危机的教训，采取更加审慎的态度。" SentencePosition="1…50|51…86" Center="2" ChildList="2|3" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="由于…所以" RelationType="因果关系" ConnectivePosition="4…5&amp;&amp;27…28" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他说，由于人民币资本项目下的可兑换本来就没有时间表，|所以不存在因东南亚金融危机而延长这一过程的问题。" SentencePosition="1…26|27…50" Center="2" ChildList="" ParentId="1" UseTime="14"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="79-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="但在资本项目的开放方面，将吸取东南亚金融危机的教训，|采取更加审慎的态度。" SentencePosition="51…76|77…86" Center="3" ChildList="" ParentId="1" UseTime="13"/>
+  </P> 
+</DOC>

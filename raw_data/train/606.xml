@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="并列关系" ConnectivePosition="42-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="这位发言人是针对美国一参议员所谓中国证券“欺骗的可能性很大”的言论发表上述谈话的。|他认为，这位美国参议员所谓“欺骗”之说是毫无根据的，并对其发表不负责任的言论表示遗憾。" SentencePosition="1…41|42…84" Center="3" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="68…68" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他认为，这位美国参议员所谓“欺骗”之说是毫无根据的，|并对其发表不负责任的言论表示遗憾。" SentencePosition="42…67|68…84" Center="3" ChildList="" ParentId="1" UseTime="10"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="43…44" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="这位发言人说，到目前为止，中国的有关部门和机构在美国市场共发行债券四十七点二亿美元，|其中三分之二是财政部和国家开发银行发行的具有国家主权信誉和准主权信誉的债券，其余的商业性发行主体皆为中国实力较强的银行和非银行金融机构，具有良好的信誉。" SentencePosition="1…42|43…118" Center="1" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="82-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="其中三分之二是财政部和国家开发银行发行的具有国家主权信誉和准主权信誉的债券，|其余的商业性发行主体皆为中国实力较强的银行和非银行金融机构，具有良好的信誉。" SentencePosition="43…80|81…118" Center="3" ChildList="3" ParentId="1" UseTime="15"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其余的商业性发行主体皆为中国实力较强的银行和非银行金融机构，|具有良好的信誉。" SentencePosition="81…110|111…118" Center="1" ChildList="" ParentId="2" UseTime="10"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="73-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="发言人说，这些债券均按美国有关债券管理条款充分披露信息，在美国证券委登记发行，并且被美国知名评级公司穆迪公司和标准普尔公司给予投资级以上的评级。|发债资金的使用均按中国的产业政策投资到基础设施、高新技术、出口创汇等民用项目，对市场充分公开。" SentencePosition="1…72|73…119" Center="3" ChildList="2|3" ParentId="-1" UseTime="19"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="40…41" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人说，这些债券均按美国有关债券管理条款充分披露信息，|在美国证券委登记发行，|并且被美国知名评级公司穆迪公司和标准普尔公司给予投资级以上的评级。" SentencePosition="1…28|29…39|40…72" Center="3" ChildList="" ParentId="1" UseTime="19"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="115-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="发债资金的使用均按中国的产业政策投资到基础设施、高新技术、出口创汇等民用项目，|对市场充分公开。" SentencePosition="73…111|112…119" Center="3" ChildList="" ParentId="1" UseTime="18"/>
+  </P> 
+</DOC>

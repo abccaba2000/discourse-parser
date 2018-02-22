@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="新华社堪培拉８月３１日电中国政府和澳大利亚政府今天签署了一项协议，|澳方将向中国提供１．５亿澳元优惠财政贷款。" SentencePosition="1…33|34…54" Center="1" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="为期两天的中国政府同澳大利亚政府１９９４年发展援助合作年会今天在墨尔本结束。以外经贸部部长助理龙永图为团长的中国代表团与以澳大利亚国际发展局援助局总局长弗拉德为团长的澳大利亚代表团出席了年会。|会谈结束后，双方签署了会谈纪要。" SentencePosition="1…96|97…112" Center="1" ChildList="2" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="为期两天的中国政府同澳大利亚政府１９９４年发展援助合作年会今天在墨尔本结束。|以外经贸部部长助理龙永图为团长的中国代表团与以澳大利亚国际发展局援助局总局长弗拉德为团长的澳大利亚代表团出席了年会。" SentencePosition="1…38|39…96" Center="1" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="5">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="与此同时，澳方还将向中国提供２０００万澳元的技术合作赠款，|主要用于人员培训、扶贫及医疗卫生等项目。" SentencePosition="1…29|30…49" Center="1" ChildList="" ParentId="-1" UseTime="6"/>
+  </P>
+</DOC>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="财政司司长是土地基金谘询委员会主席，|两个副主席职位则由香港金融管理局总裁任志刚与土地基金前任行政总裁锺瑞明担任。" SentencePosition="1…18|19…56" Center="3" ChildList="" ParentId="-1" UseTime="6"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="48-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="财政司司长曾荫权表示：「能获得这几位香港金融界的显赫人士接受邀请，担任土地基金谘询委员会成员，|本人深感高兴。」" SentencePosition="1…47|48…55" Center="1" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="财政司司长曾荫权表示：「能获得这几位香港金融界的显赫人士接受邀请，|担任土地基金谘询委员会成员，" SentencePosition="1…33|34…47" Center="3" ChildList="" ParentId="1" UseTime="12"/>
+  </P> 
+</DOC>

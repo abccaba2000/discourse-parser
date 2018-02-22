@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="1"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="花节盛会暖意融，乐手一曲迎春风。在荷兰一年一度的花节盛会上，人们用万朵鲜花扎成各式彩车，欢聚街头。|这是花节上的乐手在彩车上演奏“迎春曲”。" SentencePosition="1…49|50…69" Center="1" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="46-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="花节盛会暖意融，乐手一曲迎春风。在荷兰一年一度的花节盛会上，人们用万朵鲜花扎成各式彩车，|欢聚街头。" SentencePosition="1…44|45…49" Center="3" ChildList="" ParentId="1" UseTime="13"/>
+  </P> 
+</DOC>

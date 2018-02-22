@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="45…45" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="香港特别行政区政府发言人宣布《中国国籍（杂项规定）条例草案》今日（星期二）已在宪报刊登，|并将於明日（星期三）提交临时立法会审议。" SentencePosition="1…44|45…64" Center="3" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="16-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="「当局需要制订有关的本地法例，|订定处理有关中国国籍申请时的细则，例如费用及有关的罪行等。」" SentencePosition="1…15|16…45" Center="3" ChildList="2" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="33…34" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="订定处理有关中国国籍申请时的细则，|例如费用及有关的罪行等。」" SentencePosition="16…32|33…45" Center="1" ChildList="" ParentId="1" UseTime="14"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="由於…因此" RelationType="因果关系" ConnectivePosition="6…7&amp;&amp;51…52" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人指出由於中国国籍法已於七月一日起在香港特别行政区生效，而人大常委授予入境处的权力亦在同日生效，|因此政府建议这条条例草案，亦应追溯自一九九七年七月一日起生效，但并不包括有关刑事罪行的条款。" SentencePosition="1…50|51…96" Center="2" ChildList="2|3" ParentId="-1" UseTime="30"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="31…31" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人指出由於中国国籍法已於七月一日起在香港特别行政区生效，|而人大常委授予入境处的权力亦在同日生效，" SentencePosition="1…30|31…50" Center="3" ChildList="" ParentId="1" UseTime="17"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="82…82" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="因此政府建议这条条例草案，亦应追溯自一九九七年七月一日起生效，|但并不包括有关刑事罪行的条款。" SentencePosition="51…81|82…96" Center="1" ChildList="" ParentId="1" UseTime="16"/>
+  </P> 
+</DOC>

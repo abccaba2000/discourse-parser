@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="四月二十一日至二十三日，中印外交和军事专家小组第二次会议在京举行。|双方继续就贯彻实施两国政府于去年签署的保持边境实际控制线地区和平与安宁的协定进行了磋商，并签署了《中印外交和军事专家小组工作条例》。" SentencePosition="1…33|34…99" Center="1" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="顺承关系" ConnectivePosition="78…78" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="双方继续就贯彻实施两国政府于去年签署的保持边境实际控制线地区和平与安宁的协定进行了磋商，|并签署了《中印外交和军事专家小组工作条例》。" SentencePosition="34…77|78…99" Center="3" ChildList="" ParentId="1" UseTime="18"/>
+  </P> 
+</DOC>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="20-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="蒙特利尔银行北京分行现有职员二十五名，|拥有投资金额一千二百三十万美元。" SentencePosition="1…19|20…35" Center="3" ChildList="" ParentId="-1" UseTime="18"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="蒙特利尔银行董事会全体成员参加了今天的开业庆典。|董事长兼首席行政长官马修?巴雷特说：“在北京成立分行，将为我行继续致力于促进加拿大乃至北美与中国的重要贸易和投资关系提供重要机遇。”" SentencePosition="1…24|25…90" Center="1" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="abnormal" LanguageSense="true" Sentence="据透露，蒙特利尔银行已申请在上海设立代表处，|在此之前，它已在广州和香港设立分行。" SentencePosition="1…22|23…40" Center="1" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="蒙特利尔银行与中国工商银行今天还签署了一份合作备忘录，|宣布两家金融机构将增进合作、共同寻求互利互惠业务机会。" SentencePosition="1…27|28…54" Center="1" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="7">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="17-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="蒙特利尔银行是北美十大银行之一，|现拥有资产两千零三十亿加元。" SentencePosition="1…16|17…30" Center="3" ChildList="" ParentId="-1" UseTime="19"/>
+  </P>
+</DOC>

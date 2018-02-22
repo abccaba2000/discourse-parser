@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="八月三十日，外交部副部长唐家璇在北京同朝鲜政府特使、外交部副部长宋浩京举行会谈，|就有关在朝鲜半岛建立巩固的和平保障机制问题交换了意见。" SentencePosition="1…40|41…67" Center="1" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="会谈中，双方对朝中两国作为朝鲜停战协定签字一方，在过去四十多年间为在朝鲜半岛维持停战、保障和平与安全所作出的共同努力表示满意。|双方认为，从目前国际关系的变化和朝鲜半岛形势出发，需要在半岛建立新的和平保障机制。" SentencePosition="1…63|64…104" Center="3" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="朝方通报了关于在朝鲜半岛建立新的和平保障机制的协商方案以及朝方已经采取的召回朝鲜军事停战委员会朝方代表团以及设立朝鲜人民军板门店代表处作为协商机构等具体措施。|朝方强调，上述措施是一种善意的行动，是为建立和平保障机制创造现实条件。" SentencePosition="1…79|80…114" Center="1" ChildList="2" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="99-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="朝方强调，上述措施是一种善意的行动，|是为建立和平保障机制创造现实条件。" SentencePosition="80…97|98…114" Center="3" ChildList="" ParentId="1" UseTime="16"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="中方表示关注朝鲜半岛局势的发展并真诚希望朝鲜半岛局势缓和、稳定。维护朝鲜半岛的和平与稳定符合本地区所有国家的利益，也有利于亚洲和世界的和平与安全。|中方主张应通过有关各方的协商和对话解决朝鲜半岛的有关问题。考虑到朝鲜方面的要求，根据朝鲜方面已召回军停会中的朝方代表团以及军停会事实上已停止运转的现状，中国政府决定调回军停会中的中国人民志愿军代表团。|中方希望有关各方为缓和朝鲜半岛局势继续做出建设性努力。" SentencePosition="1…73|74…173|174…200" Center="3" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="34-" ConnectiveAttribute="可添加" RoleLocation="abnormal" LanguageSense="false" Sentence="中方表示关注朝鲜半岛局势的发展并真诚希望朝鲜半岛局势缓和、稳定。|维护朝鲜半岛的和平与稳定符合本地区所有国家的利益，也有利于亚洲和世界的和平与安全。" SentencePosition="1…32|33…73" Center="1" ChildList="3" ParentId="1" UseTime="27"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="58…58" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="维护朝鲜半岛的和平与稳定符合本地区所有国家的利益，|也有利于亚洲和世界的和平与安全。" SentencePosition="33…57|58…73" Center="3" ChildList="" ParentId="2" UseTime="12"/>
+  </P> 
+</DOC>

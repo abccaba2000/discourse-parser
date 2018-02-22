@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="为" RelationType="目的关系" ConnectivePosition="18…18" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="新华社北京九月一日电（记者高建新）为加强海内外炎黄子孙的文化交流和联系，|中国将于今年十二月八日到十八日在北京和深圳两地同时举办“华夏艺术节”。" SentencePosition="1…36|37…71" Center="2" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这是一次由人民团体、政府文化部门和企业联手举办的艺术盛会。|其宗旨是，以中华民族传统文化为纽带，联系和团结海内外同胞，弘扬民族文化，展示祖国优秀艺术的魅力，展示华侨、华人艺术家在艺术领域和世界文化交流中的成就和风采。" SentencePosition="1…29|30…107" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="其宗旨是，以中华民族传统文化为纽带，联系和团结海内外同胞，|弘扬民族文化，|展示祖国优秀艺术的魅力，|展示华侨、华人艺术家在艺术领域和世界文化交流中的成就和风采。" SentencePosition="30…58|59…65|66…77|78…107" Center="3" ChildList="" ParentId="1" UseTime="26"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，十二月八日在深圳体育馆开幕的艺术节，将集中展示二十世纪广为流传的中华民族艺术精品。|从十二月九日开始，每晚都将在深圳大剧院或深圳体育馆演出一台高水平的节目，分别上演芭蕾舞、相声小品、京剧折子戏和海外华人艺术家、艺术团表演的节目等。" SentencePosition="1…45|46…118" Center="1" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="从十二月九日开始，每晚都将在深圳大剧院或深圳体育馆演出一台高水平的节目，|分别上演芭蕾舞、相声小品、京剧折子戏和海外华人艺术家、艺术团表演的节目等。" SentencePosition="46…81|82…118" Center="1" ChildList="" ParentId="1" UseTime="6"/>
+  </P> 
+</DOC>

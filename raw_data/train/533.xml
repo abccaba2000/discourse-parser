@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="後" RelationType="顺承关系" ConnectivePosition="41…41" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="土木工程署辖下土力工程处的紧急控制中心自七月二日上午六时二十五分发出山泥倾泻警告後，|共接获逾一百四十宗山泥倾泻报告。" SentencePosition="1…42|43…58" Center="2" ChildList="" ParentId="-1" UseTime="16"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="40…40" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="在该等报告中，三十七宗发生於路旁的山坡、|三十二宗涉及寮屋、|三十三宗接近建筑物、|而两宗则影响九广铁路路轨。" SentencePosition="1…20|21…29|30…39|40…52" Center="3" ChildList="" ParentId="-1" UseTime="17"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="27-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="大部份山泥倾泻发生在受大雨影响较严重的沙田及荃湾区。|沙田中文大学地区在二十四小时内共录得约八百毫米的雨量。" SentencePosition="1…26|27…53" Center="1" ChildList="" ParentId="-1" UseTime="17"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说：「截至目前为止，土力工程处共调派了五十名土力工程人员前往处理山泥倾泻事件。|不论塌下的斜坡业权谁属，他们均向紧急救援队伍即场提供土力工程的专业意见和指导。他们就所需的紧急行动及修葺工程提供意见，以消除斜坡对市民所构成的即时危险，而拥有该等斜坡的业主，私人或政府部门，则需要负责进行上述斜坡维修工程。」" SentencePosition="1…40|41…152" Center="3" ChildList="2" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="81-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="不论塌下的斜坡业权谁属，他们均向紧急救援队伍即场提供土力工程的专业意见和指导。|他们就所需的紧急行动及修葺工程提供意见，以消除斜坡对市民所构成的即时危险，而拥有该等斜坡的业主，私人或政府部门，则需要负责进行上述斜坡维修工程。」" SentencePosition="41…79|80…152" Center="3" ChildList="3|4" ParentId="1" UseTime="16"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="不论" RelationType="条件关系" ConnectivePosition="41…42" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="不论塌下的斜坡业权谁属，|他们均向紧急救援队伍即场提供土力工程的专业意见和指导。" SentencePosition="41…52|53…79" Center="2" ChildList="" ParentId="2" UseTime="19"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="117…117" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他们就所需的紧急行动及修葺工程提供意见，以消除斜坡对市民所构成的即时危险，|而拥有该等斜坡的业主，私人或政府部门，则需要负责进行上述斜坡维修工程。」" SentencePosition="80…116|117…152" Center="3" ChildList="5" ParentId="2" UseTime="11"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="100…100" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="他们就所需的紧急行动及修葺工程提供意见，|以消除斜坡对市民所构成的即时危险，" SentencePosition="80…99|100…116" Center="1" ChildList="" ParentId="4" UseTime="17"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="37…37" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="麦隆礼说：「『岩土指南第五册』内已列出有关修葺斜坡工程的技术标准，|该指南并已分发各有关人士。」" SentencePosition="1…33|34…47" Center="3" ChildList="" ParentId="-1" UseTime="17"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="41…41" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="他劝喻说：「私人斜坡业主可遵照『斜坡维修简易指南』内所厘订的标准，进行维修工程，|以确保斜坡安全。」" SentencePosition="1…40|41…49" Center="1" ChildList="" ParentId="-1" UseTime="14"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="56-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="麦隆礼补充：「土力工程处已向地政总署寻求协助，以确定在九广铁路路轨近沙田中文大学和火炭所塌下的斜坡负责的人士。|土力工程处现正就上述两宗山泥倾泻事件进行详细研究。」" SentencePosition="1…55|56…81" Center="3" ChildList="2" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="24…24" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="麦隆礼补充：「土力工程处已向地政总署寻求协助，|以确定在九广铁路路轨近沙田中文大学和火炭所塌下的斜坡负责的人士。" SentencePosition="1…23|24…55" Center="1" ChildList="" ParentId="1" UseTime="21"/>
+  </P> 
+</DOC>

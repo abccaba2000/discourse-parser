@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据威海市副市长张璞介绍，一九九六年，威海市批准韩国直接投资项目一百一十三项，合同利用外资额三亿美元，分别占当年全市引进外资项目和合同利用外资额百分之五十八和百分之六十九。|全市韩国投资企业累计达五百六十六家，去年对韩国进出口总额十二点三亿美元，占当年全市进出口总额的近六成。" SentencePosition="1…85|86…136" Center="3" ChildList="2|4" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据威海市副市长张璞介绍，一九九六年，威海市批准韩国直接投资项目一百一十三项，合同利用外资额三亿美元，|分别占当年全市引进外资项目和合同利用外资额百分之五十八和百分之六十九。" SentencePosition="1…50|51…85" Center="1" ChildList="3" ParentId="1" UseTime="5"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据威海市副市长张璞介绍，一九九六年，威海市批准韩国直接投资项目一百一十三项，|合同利用外资额三亿美元，" SentencePosition="1…38|39…50" Center="3" ChildList="" ParentId="2" UseTime="5"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="全市韩国投资企业累计达五百六十六家，|去年对韩国进出口总额十二点三亿美元，占当年全市进出口总额的近六成。" SentencePosition="86…103|104…136" Center="3" ChildList="5" ParentId="1" UseTime="5"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="去年对韩国进出口总额十二点三亿美元，|占当年全市进出口总额的近六成。" SentencePosition="104…121|122…136" Center="1" ChildList="" ParentId="4" UseTime="5"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="威海是中国大陆最早与韩国进行经贸合作的地区之一。|近年来，一批规模较大的韩国投资工业项目纷纷落户威海。一九九六年，威海经济技术开发区投资总额逾二千万美元的四个工业项目，有三项为韩国投资。" SentencePosition="1…24|25…92" Center="2" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="52-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="近年来，一批规模较大的韩国投资工业项目纷纷落户威海。|一九九六年，威海经济技术开发区投资总额逾二千万美元的四个工业项目，有三项为韩国投资。" SentencePosition="25…50|51…92" Center="1" ChildList="" ParentId="1" UseTime="16"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="韩国大宇集团参与投资的山东大宇汽车零部件有限公司项目，总投资逾二十亿元人民币，|年产汽车零部件可为二十万到三十万辆轿车配套。" SentencePosition="1…39|40…61" Center="3" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="韩国世运工业株式会社与威海经济技术开发区共同出资二千九百八十万美元兴办的“黑豹”农用车项目，总设计能力达年产六十万辆，|目前年产十万辆农用车的一期工程已建成投产。" SentencePosition="1…59|60…80" Center="3" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="此外，威海经济技术开发区还与韩国有关地区合作，设立了迄今山东省最大的韩商投资专用工业园地－－庆南工团，|目前，庆南工团已确定入驻项目十二项，项目总投资七千三百一十万美元，初步形成了以汽车及汽车零部件加工为主导的三大产业。" SentencePosition="1…51|52…109" Center="3" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前，庆南工团已确定入驻项目十二项，|项目总投资七千三百一十万美元，|初步形成了以汽车及汽车零部件加工为主导的三大产业。" SentencePosition="52…69|70…84|85…109" Center="3" ChildList="" ParentId="1" UseTime="8"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="张璞预计，一九九七年，威海市实际利用韩资可望突破一亿美元，对韩国进出口贸易额十五亿美元，对韩国加工贸易额十四亿美元。|威海市将成为韩国境外重要的加工装配基地。" SentencePosition="1…58|59…78" Center="3" ChildList="2" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="张璞预计，一九九七年，威海市实际利用韩资可望突破一亿美元，|对韩国进出口贸易额十五亿美元，|对韩国加工贸易额十四亿美元。" SentencePosition="1…29|30…44|45…58" Center="3" ChildList="" ParentId="1" UseTime="8"/>
+  </P> 
+</DOC>

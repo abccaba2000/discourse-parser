@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="21-" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="十月一日国庆日将为本年度新增的法定假日。|根据《雇佣条例》，雇主必须在法定假日给予雇员一天假期。" SentencePosition="1…20|21…47" Center="3" ChildList="" ParentId="-1" UseTime="20"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="不论" RelationType="条件关系" ConnectivePosition="31…32" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="劳工处发言人今日（星期一）说：「根据《雇佣条例》，所有雇员，不论入息多少，|均有权享有法定假日。」" SentencePosition="1…37|38…48" Center="2" ChildList="" ParentId="-1" UseTime="19"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="如…便" RelationType="条件关系" ConnectivePosition="26…26&amp;&amp;42…42" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="「按连续性雇佣合约受雇的雇员，在任何法定假日之前，如已连续为雇主工作三个月或以上，|便可享有该假日的工资。」" SentencePosition="1…41|42…53" Center="2" ChildList="" ParentId="-1" UseTime="17"/> 
+  </P>  
+  <P ID="6">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="解说关系" ConnectivePosition="23…23" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="假日工资应相等於雇员在一个完整工作日的收入，|并包括底薪及以现金支付的津贴，如生活、膳食、交通及勤工津贴、勤工奖、佣金以及超时工作工资。" SentencePosition="1…22|23…67" Center="1" ChildList="" ParentId="-1" UseTime="22"/>
+  </P>
+</DOC>

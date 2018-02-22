@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="鉴於" RelationType="因果关系" ConnectivePosition="43…44" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="在政府公布有关合资格儿童根据居留权证明书计划来港的安排後，教育统筹局局长王永平表示，鉴於将有更多合资格儿童来港，|政府会在无损整体教育质素的情况下，推行适当的措施应付这些儿童在教育方面的需求。" SentencePosition="1…56|57…95" Center="2" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="如果…便" RelationType="假设关系" ConnectivePosition="1…2&amp;&amp;29…29" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="如果在短期内有六万六千名合资格的儿童抵港，|本港的教育制度便须照顾较原先预期为多的合资格儿童。" SentencePosition="1…21|22…46" Center="2" ChildList="" ParentId="-1" UseTime="25"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="15-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="王永平说：「我们已作好准备，|推出一系列措施来应付这些额外需求。」" SentencePosition="1…14|15…32" Center="3" ChildList="" ParentId="-1" UseTime="22"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="26…26" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="「我们将尽可能安排合资格的儿童填补现有的学额空缺，|并会加设新班、聘请额外教师、加开适应课程、英语课程和短期预备课程。」" SentencePosition="1…25|26…59" Center="3" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="亦" RelationType="并列关系" ConnectivePosition="36…36" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="「此外，教育署亦会设立中央统筹小组，监察辅助服务及加强入学安排。|教育署亦会加强招聘教师资讯服务。」" SentencePosition="1…32|33…49" Center="3" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="20-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="「此外，教育署亦会设立中央统筹小组，|监察辅助服务及加强入学安排。" SentencePosition="1…18|19…32" Center="3" ChildList="" ParentId="1" UseTime="17"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="17-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="「政府会与师资培训机构紧密联系，|为未经专业训练的教师提供更多在职师资培训学位。」" SentencePosition="1…16|17…40" Center="2" ChildList="" ParentId="-1" UseTime="21"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="27-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="「我们需要额外学额以照顾更多合资格来港的儿童，|建校计划会相应扩大。」" SentencePosition="1…23|24…34" Center="3" ChildList="" ParentId="-1" UseTime="16"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="63-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="王永平表示，他打算向政府申请约十二亿二千万元拨款，作为全年的额外经常开支，以及约十亿七千五百万元，作为未来五年的非经常开支，|为六万六千名合资格儿童提供学额、辅助服务和财政援助。" SentencePosition="1…62|63…88" Center="2" ChildList="2" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="以及" RelationType="并列关系" ConnectivePosition="38…39" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="王永平表示，他打算向政府申请约十二亿二千万元拨款，作为全年的额外经常开支，|以及约十亿七千五百万元，作为未来五年的非经常开支，" SentencePosition="1…37|38…62" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="32…32" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他补充：「有更多合资格儿童来港难免会对教育制度造成短暂的影响，|但我们有信心在多项额外措施的配合下，整体教育质素不会因而受损。」" SentencePosition="1…31|32…63" Center="2" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="47…47" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="「较具体来说，改善教育的措施，例如缩减每班学生人数、取消中学浮动班等安排，亦会如期进行。|我们并会继续寻求方法加速落实小学全日制。」" SentencePosition="1…44|45…65" Center="3" ChildList="2" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="16…17" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="「较具体来说，改善教育的措施，|例如缩减每班学生人数、取消中学浮动班等安排，亦会如期进行。" SentencePosition="1…15|16…44" Center="1" ChildList="" ParentId="1" UseTime="14"/>
+  </P> 
+</DOC>

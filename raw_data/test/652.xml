@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="盛华仁说，要切实把脱困任务和责任分解落实到每个企业、行业及各级政府。|决不能搞虚盈实亏。|不能如期实现扭亏的企业，要坚决撤换负责人。|要加快行业调整与改组步伐，努力提高经济运行的质量和效益。" SentencePosition="1…34|35…43|44…64|65…92" Center="3" ChildList="2" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="79-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="要加快行业调整与改组步伐，|努力提高经济运行的质量和效益。" SentencePosition="65…77|78…92" Center="3" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="盛华仁指出，加大兼并破产、下岗分流和再就业工作力度。|继续推进现代企业制度建设。|要把国有经济的战略性改组与企业脱困结合起来，通过壮大优势企业带动困难企业摆脱困境。|加强对中小企业发展的引导，使其成为新的经济增长点。|推动企业技术进步，提高企业技术的创新能力。" SentencePosition="1…26|27…39|40…80|81…105|106…126" Center="3" ChildList="2|3|4" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="要把国有经济的战略性改组与企业脱困结合起来，|通过壮大优势企业带动困难企业摆脱困境。" SentencePosition="40…61|62…80" Center="3" ChildList="" ParentId="1" UseTime="10"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="使" RelationType="目的关系" ConnectivePosition="94…94" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="加强对中小企业发展的引导，|使其成为新的经济增长点。" SentencePosition="81…93|94…105" Center="1" ChildList="" ParentId="1" UseTime="19"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="118-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="推动企业技术进步，|提高企业技术的创新能力。" SentencePosition="106…114|115…126" Center="1" ChildList="" ParentId="1" UseTime="13"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="5" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="盛华仁说，整顿和规范市场秩序，鼓励企业积极开拓海内外市场。|要继续坚持和完善行业价格自律工作，引导企业把竞争转到提高产品质量，改善售后服务上来。|加快市场立法步伐，要继续协调制定扩大出口的政策措施，做好进出口管理工作。" SentencePosition="1…29|30…71|72…107" Center="3" ChildList="6|7|8" ParentId="-1" UseTime="18"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="17-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="盛华仁说，整顿和规范市场秩序，|鼓励企业积极开拓海内外市场。" SentencePosition="1…15|16…29" Center="3" ChildList="" ParentId="5" UseTime="11"/>  
+    <R ID="7" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="要继续坚持和完善行业价格自律工作，|引导企业把竞争转到提高产品质量，|改善售后服务上来。" SentencePosition="30…46|47…62|63…71" Center="3" ChildList="" ParentId="5" UseTime="12"/>  
+    <R ID="8" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="加快市场立法步伐，|要继续协调制定扩大出口的政策措施，|做好进出口管理工作。" SentencePosition="72…80|81…97|98…107" Center="3" ChildList="" ParentId="5" UseTime="11"/>
+  </P> 
+</DOC>

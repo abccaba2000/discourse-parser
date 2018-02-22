@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="65-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="钱其琛对法国客人说，法国是第一个同中国建交的西方大国，中法建交三十年来，尽管有一些曲折，但总的来说，双边关系的发展是令人满意的。|他指出，不管国际形势发生什么大的变化，中法两国保持友好关系对世界的和平、稳定与发展始终是重要的。" SentencePosition="1…64|65…112" Center="3" ChildList="2|4" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="钱其琛对法国客人说，法国是第一个同中国建交的西方大国，|中法建交三十年来，尽管有一些曲折，但总的来说，双边关系的发展是令人满意的。" SentencePosition="1…27|28…64" Center="2" ChildList="3" ParentId="1" UseTime="10"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="尽管…但" RelationType="让步关系" ConnectivePosition="37…38&amp;&amp;45…45" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="中法建交三十年来，尽管有一些曲折，|但总的来说，双边关系的发展是令人满意的。" SentencePosition="28…44|45…64" Center="2" ChildList="" ParentId="2" UseTime="18"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="不管" RelationType="条件关系" ConnectivePosition="69…70" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="他指出，不管国际形势发生什么大的变化，|中法两国保持友好关系对世界的和平、稳定与发展始终是重要的。" SentencePosition="65…83|84…112" Center="2" ChildList="" ParentId="1" UseTime="16"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="22…22" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="巴尔希望法中关系能够得到进一步发展和加强，|并表示法国愿以自己的优势更加积极地参与中国的经济建设。" SentencePosition="1…21|22…48" Center="3" ChildList="" ParentId="-1" UseTime="17"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="外交学会会长刘述卿会见时在座。|巴尔一行应外交学会邀请于三十日抵京，他们还将前往上海访问。" SentencePosition="1…15|16…44" Center="3" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="还" RelationType="顺承关系" ConnectivePosition="36…36" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="巴尔一行应外交学会邀请于三十日抵京，|他们还将前往上海访问。" SentencePosition="16…33|34…44" Center="3" ChildList="" ParentId="1" UseTime="14"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在会见乌拉圭客人时，钱其琛对加米奥副外长来访和进行政治磋商表示欢迎。|他说，中乌建交六年多来，两国友好合作关系持续稳步发展。乌拉圭是拉美地区同中国开展贸易最早的国家之一，双边贸易发展较快。目前，中国是乌拉圭羊毛的最大买主。|他希望今后两国的经贸科技合作与交流进一步扩大和发展。" SentencePosition="1…34|35…110|111…136" Center="3" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，中乌建交六年多来，两国友好合作关系持续稳步发展。|乌拉圭是拉美地区同中国开展贸易最早的国家之一，双边贸易发展较快。目前，中国是乌拉圭羊毛的最大买主。" SentencePosition="35…61|62…110" Center="1" ChildList="3" ParentId="1" UseTime="10"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="例证关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="乌拉圭是拉美地区同中国开展贸易最早的国家之一，双边贸易发展较快。|目前，中国是乌拉圭羊毛的最大买主。" SentencePosition="62…93|94…110" Center="1" ChildList="4" ParentId="2" UseTime="37"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="乌拉圭是拉美地区同中国开展贸易最早的国家之一，|双边贸易发展较快。" SentencePosition="62…84|85…93" Center="2" ChildList="" ParentId="3" UseTime="12"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="钱其琛对乌拉圭在国际事务中给予中国的支持表示感谢，对乌拉圭政府坚持一个中国的立场表示赞赏。|他说，拉美是一个充满希望的大陆，具有巨大的发展潜力。近几年来，拉美经济稳定增长，这为进一步加强中拉经贸合作提供了良好的条件。" SentencePosition="1…45|46…107" Center="3" ChildList="2|3" ParentId="-1" UseTime="12"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="27-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="钱其琛对乌拉圭在国际事务中给予中国的支持表示感谢，|对乌拉圭政府坚持一个中国的立场表示赞赏。" SentencePosition="1…25|26…45" Center="3" ChildList="" ParentId="1" UseTime="12"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，拉美是一个充满希望的大陆，具有巨大的发展潜力。|近几年来，拉美经济稳定增长，这为进一步加强中拉经贸合作提供了良好的条件。" SentencePosition="46…71|72…107" Center="3" ChildList="4|5" ParentId="1" UseTime="5"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="66-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="他说，拉美是一个充满希望的大陆，|具有巨大的发展潜力。" SentencePosition="46…61|62…71" Center="3" ChildList="" ParentId="3" UseTime="26"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="93-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="近几年来，拉美经济稳定增长，|这为进一步加强中拉经贸合作提供了良好的条件。" SentencePosition="72…85|86…107" Center="2" ChildList="" ParentId="3" UseTime="27"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="加米奥表示，乌拉圭重视同中国发展经济贸易、科学技术和文化等各个领域的关系。|他说，七十年代初中国恢复了在联合国的合法席位，这是联合国事务中的一个重大进展。|乌拉圭高度赞赏中国在国际事务中发挥越来越重要的作用，特别是在建立国际政治经济新秩序中所起的积极作用。|乌拉圭坚决支持恢复中国在关贸总协定中的缔约国地位，并相信它在未来的世界贸易组织中作出积极的贡献。" SentencePosition="1…37|38…76|77…126|127…174" Center="3" ChildList="2|3" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，七十年代初中国恢复了在联合国的合法席位，|这是联合国事务中的一个重大进展。" SentencePosition="38…60|61…76" Center="1" ChildList="" ParentId="1" UseTime="10"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="152…152" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="乌拉圭坚决支持恢复中国在关贸总协定中的缔约国地位，|并相信它在未来的世界贸易组织中作出积极的贡献。" SentencePosition="127…151|152…174" Center="3" ChildList="" ParentId="1" UseTime="17"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="解说关系" ConnectivePosition="32-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="今天上午，加米奥代表乌拉圭政府向中国纺织总会赠送了十七吨羊毛，|供中国有关部门、科研机构和高等院校作为科研所用。" SentencePosition="1…31|32…55" Center="1" ChildList="" ParentId="-1" UseTime="53"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="外交部副部长刘华秋二十九日在这里同加米奥举行了工作会谈，|双方就进一步发展双边关系和共同关心的国际、地区问题深入地交换了意见，取得了广泛的一致。" SentencePosition="1…28|29…71" Center="1" ChildList="2" ParentId="-1" UseTime="13"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="顺承关系" ConnectivePosition="64-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="双方就进一步发展双边关系和共同关心的国际、地区问题深入地交换了意见，|取得了广泛的一致。" SentencePosition="29…62|63…71" Center="3" ChildList="" ParentId="1" UseTime="23"/> 
+  </P>  
+  <P ID="13">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="顺承关系" ConnectivePosition="41…41" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="加米奥一行是应外交部邀请于八月二十九日来华访问和进行两国外交部间政治磋商的。|他们还将赴杭州访问。" SentencePosition="1…38|39…48" Center="1" ChildList="" ParentId="-1" UseTime="20"/>
+  </P>
+</DOC>

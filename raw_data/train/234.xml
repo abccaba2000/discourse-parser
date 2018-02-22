@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="从而" RelationType="因果关系" ConnectivePosition="39…40" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据称，《仲裁法》的制定将保证公正、及时地仲裁经济纠纷，保护当事人的合法权益，|从而保障社会主义市场经济的健康发展。" SentencePosition="1…38|39…56" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="29-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="据称，《仲裁法》的制定将保证公正、及时地仲裁经济纠纷，|保护当事人的合法权益，" SentencePosition="1…27|28…38" Center="1" ChildList="" ParentId="1" UseTime="18"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="《审计法》在总则中强调其立法目的是加强国家的审计监督，|维护国家财政经济秩序，|促进廉政建设，|保障国民经济的健康发展。" SentencePosition="1…27|28…38|39…45|46…57" Center="3" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="37…37" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="《审计法》强化了审计机关对政府各级财政收支、预算执行情况的审计监督职能，|并赋与了审计机关制止被审计机关的违法行为的权力。" SentencePosition="1…36|37…60" Center="3" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="14-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="《审计法》分七章五十一条，|将于一九九五年一月一日起施行。" SentencePosition="1…13|14…28" Center="3" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="32-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="会议通过了《关于郑耀棠等三十二名全国人大代表所提议案的决定》，|从法律上确定了中国在一九九七年七月一日恢复对香港行使主权时，将重组香港特别行政区立法机关和区域组织。" SentencePosition="1…31|32…81" Center="1" ChildList="" ParentId="-1" UseTime="16"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="会议还通过了关于选举、补选全国人大代表的代表资格审查报告，补选了三名全国人大代表。|罢免了原辽宁省丹东市市长常义的全国人大代表资格。他在两起汽车走私案中触犯刑律，构成走私罪。" SentencePosition="1…41|42…86" Center="3" ChildList="2|3" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="会议还通过了关于选举、补选全国人大代表的代表资格审查报告，|补选了三名全国人大代表。" SentencePosition="1…29|30…41" Center="3" ChildList="" ParentId="1" UseTime="5"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="68-" ConnectiveAttribute="可添加" RoleLocation="abnormal" LanguageSense="false" Sentence="罢免了原辽宁省丹东市市长常义的全国人大代表资格。|他在两起汽车走私案中触犯刑律，构成走私罪。" SentencePosition="42…65|66…86" Center="1" ChildList="4" ParentId="1" UseTime="19"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="86-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="他在两起汽车走私案中触犯刑律，|构成走私罪。" SentencePosition="66…80|81…86" Center="3" ChildList="" ParentId="3" UseTime="13"/>
+  </P> 
+</DOC>

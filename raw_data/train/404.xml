@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="河北万吨级生物钾肥工业性示范生产线，最近投入试运行，|其生产的“巨微”牌生物钾肥深受农民欢迎，并开始批量走向国际市场。" SentencePosition="1…26|27…58" Center="2" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="47…47" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="其生产的“巨微”牌生物钾肥深受农民欢迎，|并开始批量走向国际市场。" SentencePosition="27…46|47…58" Center="3" ChildList="" ParentId="1" UseTime="15"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这个项目为弥补中国钾肥资源缺乏，|由河北省科学院微生物研究所承担实施，|生产线建在保定国家高新技术产业开发区内，|总投资三千一百八十五万元，|于一九九六年开始兴建。" SentencePosition="1…16|17…34|35…54|55…67|68…78" Center="3" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="69-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="八十年代以来，随着中国各地高产优质高效农作物品种的推广，土地复种指数的提高，农民注重向土地增施氮肥和磷肥，加之中国生产化学钾肥资源不足，|大量土地缺乏有效钾现象日趋严重，现已有三亿亩严重缺钾农田。" SentencePosition="1…68|69…97" Center="2" ChildList="2|3" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="加之" RelationType="并列关系" ConnectivePosition="54…55" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="八十年代以来，随着中国各地高产优质高效农作物品种的推广，土地复种指数的提高，农民注重向土地增施氮肥和磷肥，|加之中国生产化学钾肥资源不足，" SentencePosition="1…53|54…68" Center="3" ChildList="" ParentId="1" UseTime="13"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="大量土地缺乏有效钾现象日趋严重，|现已有三亿亩严重缺钾农田。" SentencePosition="69…84|85…97" Center="1" ChildList="" ParentId="1" UseTime="6"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="河北省科学院微生物研究所所长刘荣昌研究员，从一九八四年开始与科研人员苦心钻研，|筛选出两株分解土壤矿物钾能力很强的硅酸盐菌株，|采用当代最新发酵工艺，|于一九八八年在国内率先生产出首批硅酸盐菌剂生物钾肥。" SentencePosition="1…39|40…62|63…73|74…99" Center="3" ChildList="" ParentId="-1" UseTime="17"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="由于" RelationType="因果关系" ConnectivePosition="1…2" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="由于这种生物钾肥价格便宜，增产增收效果显著，使用方便，没有污染，同时可以培肥地力，|深受农民欢迎。" SentencePosition="1…41|42…48" Center="2" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="同时" RelationType="并列关系" ConnectivePosition="33…34" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="由于这种生物钾肥价格便宜，|增产增收效果显著，|使用方便，|没有污染，|同时可以培肥地力，" SentencePosition="1…13|14…22|23…27|28…32|33…41" Center="3" ChildList="" ParentId="1" UseTime="19"/> 
+  </P>  
+  <P ID="7">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="35-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="据称，这个厂目前的生产规模是亚洲乃至世界最大规模的微生物钾肥生产厂，|产品已经出口到印度、泰国、马来西亚和越南等国家。" SentencePosition="1…34|35…58" Center="3" ChildList="" ParentId="-1" UseTime="13"/>
+  </P>
+</DOC>

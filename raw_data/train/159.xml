@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="阿根廷拉里奥哈省利用中国银行提供贷款购买的中国机械产品的交接仪式今天在该省查米卡尔市举行。|这是中国机械产品第一次大批量进入阿根廷。" SentencePosition="1…45|46…65" Center="1" ChildList="" ParentId="-1" UseTime="6"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="专程前来参加交接仪式的中国机械工业部部长包叙定将这批总价值为５５０万美元的机械产品交给了拉里奥哈省长马萨，|这些产品包括１８００多台拖拉机和筑路工程机械。" SentencePosition="1…53|54…76" Center="1" ChildList="" ParentId="-1" UseTime="4"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="46…46" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="包叙定部长和马萨省长在仪式上发表了热情洋溢的讲话，双方都希望以此为开端扩大两国之间的贸易，|并促进两国其它领域关系的发展。" SentencePosition="1…45|46…60" Center="3" ChildList="" ParentId="-1" UseTime="24"/> 
+  </P>  
+  <P ID="5">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="最近，中国银行向阿根廷提供了２０００万美元的贷款。|拉里奥哈省是首先利用这笔贷款进口中国产品的。" SentencePosition="1…25|26…47" Center="3" ChildList="" ParentId="-1" UseTime="8"/>
+  </P>
+</DOC>

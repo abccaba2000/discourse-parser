@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="今次参展的学校约八十间，|展出的美术作品近千件。" SentencePosition="1…12|13…23" Center="3" ChildList="" ParentId="-1" UseTime="5"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="作品的种类繁多，包括绘画、素描、版画、设计、雕塑及工艺等，|全是过去一年来香港小学生在美劳课堂内学习的成果。" SentencePosition="1…29|30…53" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="10-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="作品的种类繁多，|包括绘画、素描、版画、设计、雕塑及工艺等，" SentencePosition="1…8|9…29" Center="1" ChildList="" ParentId="1" UseTime="12"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="85-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="小学生创作展在北角百福道四号四楼及五楼教育署辅导视学处美工教育资源中心展出，开放时间为星期一至五，上午九时至下午五时，星期六上午九时至中午十二时，星期日及公众假期休息，|欢迎市民参观。" SentencePosition="1…84|85…91" Center="3" ChildList="2" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="小学生创作展在北角百福道四号四楼及五楼教育署辅导视学处美工教育资源中心展出，|开放时间为星期一至五，上午九时至下午五时，星期六上午九时至中午十二时，星期日及公众假期休息，" SentencePosition="1…38|39…84" Center="3" ChildList="" ParentId="1" UseTime="6"/>
+  </P> 
+</DOC>

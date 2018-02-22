@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC>
+  <P ID="2">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="来" RelationType="目的关系" ConnectivePosition="26-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="葵青及九龙城临时区议会今日（星期六）分别举行会议，|选出主席。" SentencePosition="1…25|26…30" Center="2" ChildList="" ParentId="-1" UseTime="14"/>
+  </P>
+</DOC>

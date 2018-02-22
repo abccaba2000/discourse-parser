@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="淄博市去年国内生产总值达四百一十五亿元人民币，是中国城市经济五十强之一。|目前已累计批准三资企业一千四百三十二家，利用外资十四点七亿美元。|十四平方公里的国家级高新技术产业开发区已形成规模，进区企业达八百二十八家。" SentencePosition="1…36|37…68|69…105" Center="3" ChildList="2|3|4" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="25-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="淄博市去年国内生产总值达四百一十五亿元人民币，|是中国城市经济五十强之一。" SentencePosition="1…23|24…36" Center="3" ChildList="" ParentId="1" UseTime="18"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前已累计批准三资企业一千四百三十二家，|利用外资十四点七亿美元。" SentencePosition="37…56|57…68" Center="3" ChildList="" ParentId="1" UseTime="4"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="十四平方公里的国家级高新技术产业开发区已形成规模，|进区企业达八百二十八家。" SentencePosition="69…93|94…105" Center="3" ChildList="" ParentId="1" UseTime="4"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="同时" RelationType="并列关系" ConnectivePosition="42…43" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="北京淄博工业产品展示暨投资贸易洽谈会规模较大，共有三十五个行业的六百多家企业参加；|同时将推出二百二十个重点项目对外招商，主要涉及化工、医药、纺织、建材、机械、电子、陶瓷等行业。" SentencePosition="1…41|42…88" Center="3" ChildList="2|3" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="北京淄博工业产品展示暨投资贸易洽谈会规模较大，|共有三十五个行业的六百多家企业参加；" SentencePosition="1…23|24…41" Center="1" ChildList="" ParentId="1" UseTime="8"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="同时将推出二百二十个重点项目对外招商，|主要涉及化工、医药、纺织、建材、机械、电子、陶瓷等行业。" SentencePosition="42…60|61…88" Center="1" ChildList="" ParentId="1" UseTime="9"/>
+  </P> 
+</DOC>

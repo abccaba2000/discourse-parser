@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="46-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="中国纺织工业对外经济技术合作公司击败来自日本、法国、德国、意大利、西班牙等９家国际大公司，|中标承建总投资为１.８２5亿的叙利亚杰布莱棉纺厂工程。" SentencePosition="1…45|46…72" Center="2" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="承建项目合同签字仪式当天在这里举行。|中纺公司总裁贝聿泷和叙纺织工业总公司总经理祖阿比分别在合同书上签字。叙工业部长尼兹姆丁和中国驻叙大使吴珉珉参加了签字仪式。" SentencePosition="1…18|19…79" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中纺公司总裁贝聿泷和叙纺织工业总公司总经理祖阿比分别在合同书上签字。|叙工业部长尼兹姆丁和中国驻叙大使吴珉珉参加了签字仪式。" SentencePosition="19…52|53…79" Center="3" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="贝聿泷总裁对本社记者说，这是一项包括设计、土建施工、成套设备供应、安装调试直至正常生产的“交钥匙”工程。|杰布莱棉纺厂为２.４万锭的特大型棉纺成套项目，其设计能力将占叙全国棉纺总产量的２５％，是目前为止中国纺织工业对外承建的最大项目。" SentencePosition="1…52|53…116" Center="3" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="杰布莱棉纺厂为２.４万锭的特大型棉纺成套项目，其设计能力将占叙全国棉纺总产量的２５％，|是目前为止中国纺织工业对外承建的最大项目。" SentencePosition="53…95|96…116" Center="1" ChildList="3" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="79-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="杰布莱棉纺厂为２.４万锭的特大型棉纺成套项目，|其设计能力将占叙全国棉纺总产量的２５％，" SentencePosition="53…75|76…95" Center="3" ChildList="" ParentId="2" UseTime="16"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，该项目的实施将推动中叙两国经贸关系进一步发展，|标志着中国纺织机械成套设备制造水平已提高到一个新的水平，具备了参与国际竞争的能力。" SentencePosition="1…26|27…67" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="56-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="标志着中国纺织机械成套设备制造水平已提高到一个新的水平，|具备了参与国际竞争的能力。" SentencePosition="27…54|55…67" Center="3" ChildList="" ParentId="1" UseTime="13"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="并列关系" ConnectivePosition="28-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="尼兹姆丁部长指出，杰布莱棉纺厂是叙最大的一个棉纺项目。|他希望该厂年产棉纱２.４万吨用以出口。他说，“叙去年棉花产量达６４万吨，我们希望把大量的棉花加工棉纱后对外出口。”" SentencePosition="1…27|28…84" Center="3" ChildList="2" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他希望该厂年产棉纱２.４万吨用以出口。|他说，“叙去年棉花产量达６４万吨，我们希望把大量的棉花加工棉纱后对外出口。”" SentencePosition="28…46|47…84" Center="1" ChildList="3" ParentId="1" UseTime="6"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，“叙去年棉花产量达６４万吨，|我们希望把大量的棉花加工棉纱后对外出口。”" SentencePosition="47…63|64…84" Center="2" ChildList="" ParentId="2" UseTime="10"/>
+  </P> 
+</DOC>

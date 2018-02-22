@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="条件关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在这庄严的时刻，我代表中华人民共和国中央人民政府，|对香港特别行政区政府的成立，表示热烈的祝贺！" SentencePosition="1…25|26…47" Center="2" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="24-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="借此机会，我向出席今天仪式的各位嘉宾表示感谢！|向香港特别行政区筹备委员会委员，向香港特别行政区第一届政府推选委员会委员，向一切关心和支持香港回归的人们，表示衷心的感谢！" SentencePosition="1…23|24…84" Center="3" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="从今天起，《中华人民共和国香港特别行政区基本法》开始实施。|香港特别行政区第一任行政长官、特别行政区政府主要官员、行政会议成员、临时立法会议员、终审法院和高等法院法官，已经宣誓就职。|历史赋予你们重任，香港人民对你们寄予厚望。|希望你们本着爱国爱港的精神，认真贯彻执行基本法，恪尽职守，不负众望。|中央人民政府将全力支持行政长官董建华先生和特别行政区政府的工作。|我相信，在祖国大家庭中，香港同胞一定会以自己的勤劳和智慧，为保持香港长期繁荣稳定做出积极的贡献。" SentencePosition="1…29|30…90|91…111|112…145|146…177|178…225" Center="3" ChildList="2|3" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="104-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="历史赋予你们重任，|香港人民对你们寄予厚望。" SentencePosition="91…99|100…111" Center="3" ChildList="" ParentId="1" UseTime="24"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="希望你们本着爱国爱港的精神，认真贯彻执行基本法，|恪尽职守，|不负众望。" SentencePosition="112…135|136…140|141…145" Center="3" ChildList="" ParentId="1" UseTime="17"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="香港回归祖国，香港特别行政区政府成立，标志着邓小平先生「一国两制」伟大构想在解决香港问题上获得了成功，标志着中国人民为实现祖国完全统一而进行的努力取得重大的成果，也是对世界和平与进步事业的重要贡献。|香港历史从此进入了一个新的纪元。香港的未来一定会更加美好。" SentencePosition="1…99|100…128" Center="1" ChildList="2|5" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="香港回归祖国，香港特别行政区政府成立，|标志着邓小平先生「一国两制」伟大构想在解决香港问题上获得了成功，标志着中国人民为实现祖国完全统一而进行的努力取得重大的成果，也是对世界和平与进步事业的重要贡献。" SentencePosition="1…19|20…99" Center="1" ChildList="3|4" ParentId="1" UseTime="11"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="香港回归祖国，|香港特别行政区政府成立，" SentencePosition="1…7|8…19" Center="3" ChildList="" ParentId="2" UseTime="10"/>  
+    <R ID="4" StructureType="并列切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="82…82" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="标志着邓小平先生「一国两制」伟大构想在解决香港问题上获得了成功，|标志着中国人民为实现祖国完全统一而进行的努力取得重大的成果，|也是对世界和平与进步事业的重要贡献。" SentencePosition="20…51|52…81|82…99" Center="3" ChildList="" ParentId="2" UseTime="55"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="128-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="香港历史从此进入了一个新的纪元。|香港的未来一定会更加美好。" SentencePosition="100…115|116…128" Center="3" ChildList="" ParentId="1" UseTime="18"/>
+  </P> 
+</DOC>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="现有企业利用外资进行改造，是中国利用外资主要形式。|近二十年来。通过举办中外合资、合作企业，带动了十二万多家国有企业、集体企业的技术改造，培养了一大批技术人才和新型经营管理人才，加速了企业经营机制的转换和资产的重组，形成了上海贝尔、上海大众、康佳、TCL等大批现代名牌。" SentencePosition="1…25|26…134" Center="3" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="近二十年来。通过举办中外合资、合作企业，带动了十二万多家国有企业、集体企业的技术改造，|培养了一大批技术人才和新型经营管理人才，|加速了企业经营机制的转换和资产的重组，|形成了上海贝尔、上海大众、康佳、TCL等大批现代名牌。" SentencePosition="26…68|69…88|89…107|108…134" Center="3" ChildList="" ParentId="1" UseTime="15"/> 
+  </P>  
+  <P ID="4">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="41-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="据了解，在这三十万家外商投资企业中，其产权中的国有和集体成分占据了百分之五十七。|这种混合所有制经济中的国有和集体成分，在混合经济的迅速发展中得到了保值和增值。" SentencePosition="1…40|41…79" Center="3" ChildList="" ParentId="-1" UseTime="13"/>
+  </P>
+</DOC>

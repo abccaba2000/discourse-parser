@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="记者从广州市人大十届五次会议上获悉，今年广州市国民经济社会发展的主要目标是，稳中求快，|紧中搞活，|加强管理，|有效增长。" SentencePosition="1…43|44…48|49…53|54…58" Center="3" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="因果关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="今年，中国的宏观经济政策将保持连续性、稳定性和必要的灵活性。|据此，广州市要求，今年全市国内生产总值较上一年增长百分之十三；工业增加值增长百分之十三点五（工业总产值增长百分之十五）；农业增加值增长百分之五点五（农业总产值增长百分之六点五）；第三产业增加值增长百分之十三点五；市属全社会固定资产投资增长百分之十一；社会消费品零售总额增长百分之十五；外贸出口增长百分之五；进口增长百分之十；实际利用外资增长百分之八；零售物价总水平控制在百分之六以内；预算内财政收入增长百分之十；科技进步对工业经济增长贡献率在去年基础上再提高一点八个百分点；城镇登记失业率控制在百分之三以下；人口自然增长率控制在百分之八点二以下。" SentencePosition="1…30|31…303" Center="2" ChildList="3" ParentId="-1" UseTime="17"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据此，广州市要求，今年全市国内生产总值较上一年增长百分之十三；|工业增加值增长百分之十三点五（工业总产值增长百分之十五）；|农业增加值增长百分之五点五（农业总产值增长百分之六点五）；|第三产业增加值增长百分之十三点五；|市属全社会固定资产投资增长百分之十一；|社会消费品零售总额增长百分之十五；|外贸出口增长百分之五；|进口增长百分之十；|实际利用外资增长百分之八；|零售物价总水平控制在百分之六以内；|预算内财政收入增长百分之十；|科技进步对工业经济增长贡献率在去年基础上再提高一点八个百分点；|城镇登记失业率控制在百分之三以下；|人口自然增长率控制在百分之八点二以下。" SentencePosition="31…61|62…90|91…119|120…136|137…155|156…172|173…183|184…192|193…205|206…222|223…236|237…267|268…284|285…303" Center="3" ChildList="" ParentId="1" UseTime="29"/> 
+  </P>  
+  <P ID="4">
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据广州市统计局提供的数据，去年广州市完成国内生产总值一千四百四十五点八四亿元；|完成工业增加值五百七十三点四八亿元；|农业增加值八十点七五亿元；|固定资产投资六百五十五点四五亿元；|社会消费品零售总额六百四十四点三二亿元；|外贸出口总值六十五点一三亿美元；|实际利用外资二十六亿美元；|零售物价指数上涨百分之四点三。" SentencePosition="1…39|40…57|58…70|71…87|88…107|108…123|124…136|137…151" Center="3" ChildList="" ParentId="-1" UseTime="17"/>
+  </P>
+</DOC>

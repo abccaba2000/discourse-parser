@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据江苏省计划与经济委员会介绍，这批项目共八十个，|投资规模都在一千万美元以上，|总投资额达六十九点六亿美元。" SentencePosition="1…24|25…38|39…52" Center="3" ChildList="" ParentId="-1" UseTime="15"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其中，基础设施项目有十四个，总投资额为四十点零九亿美元。|具体项目有：常州城市中心热电厂（投资额二千零五十万美元）、常州电厂２×６０万千瓦燃煤机组工程（投资额十四亿五千万美元）、常州地区供水一期工程（投资额一亿四千万美元）、同三国道主干线汾水－灌云段（投资额四亿一千四百二十万美元）、无锡至宜兴段高速公路项目（投资额三亿九千万美元）、江苏滨海港万吨级码头（投资额四千万美元）、苏北水污染治理工程（投资额五亿美元）等。" SentencePosition="1…28|29…207" Center="1" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其中，基础设施项目有十四个，|总投资额为四十点零九亿美元。" SentencePosition="1…14|15…28" Center="3" ChildList="" ParentId="1" UseTime="8"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="另外" RelationType="并列关系" ConnectivePosition="29…30" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="工业生产类项目有四十八个，总投资额为二十二点三三亿美元。|另外，农业项目五个，总投资额约二亿美元，以养殖、滩涂开发和贸工农一体项目为主；社会事业及三产项目十三个，总投资额约五点二亿美元，以特殊观光景点、旅游设施和市场建设项目为主。" SentencePosition="1…28|29…114" Center="3" ChildList="2|3" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="工业生产类项目有四十八个，|总投资额为二十二点三三亿美元。" SentencePosition="1…13|14…28" Center="3" ChildList="" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="另外，农业项目五个，总投资额约二亿美元，以养殖、滩涂开发和贸工农一体项目为主；|社会事业及三产项目十三个，总投资额约五点二亿美元，以特殊观光景点、旅游设施和市场建设项目为主。" SentencePosition="29…67|68…114" Center="3" ChildList="4|5" ParentId="1" UseTime="8"/>  
+    <R ID="4" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="另外，农业项目五个，|总投资额约二亿美元，|以养殖、滩涂开发和贸工农一体项目为主；" SentencePosition="29…38|39…48|49…67" Center="3" ChildList="" ParentId="3" UseTime="9"/>  
+    <R ID="5" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="社会事业及三产项目十三个，|总投资额约五点二亿美元，|以特殊观光景点、旅游设施和市场建设项目为主。" SentencePosition="68…80|81…92|93…114" Center="3" ChildList="" ParentId="3" UseTime="10"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="28…29" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据介绍，江苏省去年公布了“九五”期间首批重点招商项目，|其中二十个项目已寻求到合作伙伴，另外三十个项目继续对外招商。" SentencePosition="1…27|28…57" Center="1" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="另外" RelationType="并列关系" ConnectivePosition="44…45" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="其中二十个项目已寻求到合作伙伴，|另外三十个项目继续对外招商。" SentencePosition="28…43|44…57" Center="3" ChildList="" ParentId="1" UseTime="22"/>
+  </P> 
+</DOC>

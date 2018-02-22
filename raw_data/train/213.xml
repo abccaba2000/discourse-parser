@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="38…38" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="德国政府发言人福格尔３１日表示，德国和俄罗斯准备加强反国际核材料走私行动，|并主张两国情报部门在这方面加强信息交流。" SentencePosition="1…37|38…57" Center="3" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="39…39" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="福格尔说，德国总理科尔和俄罗斯总统叶利钦希望“能顺利查清已发现的核材料走私，|并及时阻止新的核材料走私活动”。" SentencePosition="1…38|39…54" Center="3" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="科尔和叶利钦在出席最后一批俄罗斯军队撤离德国的仪式后，还讨论了波黑问题。|双方表示希望在和平计划的基础上“能和平地解决波黑问题”。双方还打算进一步加强两国在外交和安全政策方面的合作，加强两国在俄罗斯和北约合作范围内的联合军事演习。" SentencePosition="1…36|37…114" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="还" RelationType="并列关系" ConnectivePosition="67…67" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="双方表示希望在和平计划的基础上“能和平地解决波黑问题”。|双方还打算进一步加强两国在外交和安全政策方面的合作，加强两国在俄罗斯和北约合作范围内的联合军事演习。" SentencePosition="37…64|65…114" Center="3" ChildList="3" ParentId="1" UseTime="11"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="95-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="双方还打算进一步加强两国在外交和安全政策方面的合作，|加强两国在俄罗斯和北约合作范围内的联合军事演习。" SentencePosition="65…90|91…114" Center="3" ChildList="" ParentId="2" UseTime="10"/>
+  </P> 
+</DOC>

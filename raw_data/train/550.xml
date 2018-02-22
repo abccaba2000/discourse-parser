@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="地方法院於昨日（星期一）及今日（星期二）发出封闭令，|封闭沙田万佛寺所有建筑物。" SentencePosition="1…26|27…39" Center="1" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="6">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="28-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="「今日发出的封闭令则封闭三百一十八号地段的多间建筑物，|包括通往万佛寺的主要梯级。」" SentencePosition="1…27|28…41" Center="1" ChildList="" ParentId="-1" UseTime="16"/>
+  </P>
+</DOC>

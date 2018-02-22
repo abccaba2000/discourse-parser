@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="130…131" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="房屋局局长黄星华今日（星期五）在回应新闻界查询时说：「虽然在过去五年，房屋委员会有大规模的清拆计划，以新型高质素的单位取代破旧而只有基本设施的单位，但房屋委员会在该段期间内所兴建的出租公屋数量（九万六千三百六十九个）仍多於所拆卸的单位数量（七万五千四百个）。|因此，今日一份报章所载的数字并不准确。」" SentencePosition="1…129|130…149" Center="2" ChildList="2" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="虽然…但" RelationType="转折关系" ConnectivePosition="28…29&amp;&amp;75…75" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="房屋局局长黄星华今日（星期五）在回应新闻界查询时说：「虽然在过去五年，房屋委员会有大规模的清拆计划，以新型高质素的单位取代破旧而只有基本设施的单位，|但房屋委员会在该段期间内所兴建的出租公屋数量（九万六千三百六十九个）仍多於所拆卸的单位数量（七万五千四百个）。" SentencePosition="1…74|75…129" Center="2" ChildList="3" ParentId="1" UseTime="25"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="房屋局局长黄星华今日（星期五）在回应新闻界查询时说：「虽然在过去五年，房屋委员会有大规模的清拆计划，|以新型高质素的单位取代破旧而只有基本设施的单位，" SentencePosition="1…50|51…74" Center="1" ChildList="" ParentId="2" UseTime="10"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="此外" RelationType="并列关系" ConnectivePosition="57…58" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="「在过去五年，房屋委员会亦兴建了大量的资助自置居所（八万零二百七十五个），其中很多是被居於拆卸单位的住户所购买。|此外，因向房屋委员会或私人机构购买自置居所的住户所腾空的出租单位亦已再分配予公共房屋轮候册上的申请人。平均来说，每年约有一万四千个在轮候册上的家庭获编配到租住单位。」" SentencePosition="1…56|57…139" Center="3" ChildList="2|3" ParentId="-1" UseTime="19"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="38…39" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="「在过去五年，房屋委员会亦兴建了大量的资助自置居所（八万零二百七十五个），|其中很多是被居於拆卸单位的住户所购买。" SentencePosition="1…37|38…56" Center="1" ChildList="" ParentId="1" UseTime="18"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="abnormal" LanguageSense="true" Sentence="此外，因向房屋委员会或私人机构购买自置居所的住户所腾空的出租单位亦已再分配予公共房屋轮候册上的申请人。|平均来说，每年约有一万四千个在轮候册上的家庭获编配到租住单位。」" SentencePosition="57…107|108…139" Center="1" ChildList="" ParentId="1" UseTime="14"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="亦" RelationType="并列关系" ConnectivePosition="43…43" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="「由於推行多项措施的成果，轮候出租公屋的平均时间已逐渐由九年缩短至现时的六年半。|我们亦已承诺会在未来的日子再进一步缩短这时间。」" SentencePosition="1…40|41…64" Center="3" ChildList="2" ParentId="-1" UseTime="24"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="由於" RelationType="因果关系" ConnectivePosition="2…3" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="「由於推行多项措施的成果，|轮候出租公屋的平均时间已逐渐由九年缩短至现时的六年半。" SentencePosition="1…13|14…40" Center="2" ChildList="" ParentId="1" UseTime="19"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="房屋科（现已改名为房屋局）於一九九四年十一月成立，其中一项职能是制定公共房屋政策。|房屋委员会是直接负责公屋的兴建及拆卸。|黄星华说：「有关对房屋科／局的批评是不当的。」" SentencePosition="1…41|42…60|61…83" Center="3" ChildList="2" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="27-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="房屋科（现已改名为房屋局）於一九九四年十一月成立，|其中一项职能是制定公共房屋政策。" SentencePosition="1…25|26…41" Center="3" ChildList="" ParentId="1" UseTime="12"/>
+  </P> 
+</DOC>

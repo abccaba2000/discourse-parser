@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="政府统计处今日（星期四）公布建造工程完成量按季统计调查的初步结果显示，主要承建商於九七年第一季所完成的工程名义总值为三百一十五亿元，|与九六年同季比较，上升百分之十四点五。" SentencePosition="1…66|67…85" Center="1" ChildList="" ParentId="-1" UseTime="6"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="公营地盘完成工程名义总值为一百二十亿元，较九六年同季上升百分之八点三。|以固定（一九九零年）市价计算，其升幅为百分之一点九。" SentencePosition="1…35|36…61" Center="1" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="公营地盘完成工程名义总值为一百二十亿元，|较九六年同季上升百分之八点三。" SentencePosition="1…20|21…35" Center="1" ChildList="" ParentId="1" UseTime="5"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="私人地盘完成工程名义总值为一百一十七亿元，较九六年同季上升百分之二十八。|以固定（一九九零年）市价计算，其升幅为百分之十六。" SentencePosition="1…36|37…61" Center="1" ChildList="2" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="私人地盘完成工程名义总值为一百一十七亿元，|较九六年同季上升百分之二十八。" SentencePosition="1…21|22…36" Center="1" ChildList="" ParentId="1" UseTime="3"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="承建商所完成的非地盘工程名义总值为七十八亿元，较九六年第一季上升百分之七点二。以固定（一九九零年）市价计算的工程总值，则轻微下跌百分之一点三。|此类工程包括小规模新建工程及在现有楼宇及建筑物内进行的装修及保养工程，和电器及机械装设工程。" SentencePosition="1…71|72…117" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="承建商所完成的非地盘工程名义总值为七十八亿元，较九六年第一季上升百分之七点二。|以固定（一九九零年）市价计算的工程总值，则轻微下跌百分之一点三。" SentencePosition="1…39|40…71" Center="1" ChildList="3" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="承建商所完成的非地盘工程名义总值为七十八亿元，|较九六年第一季上升百分之七点二。" SentencePosition="1…23|24…39" Center="1" ChildList="" ParentId="2" UseTime="4"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="按建筑物落成後用途分析，住宅楼宇（包括商住两用楼宇）工程，占地盘完成工程名义总值最大比例，|其完成工程总值为七十七亿元，与九六年第一季比较，上升百分之二十九。" SentencePosition="1…45|46…78" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其完成工程总值为七十七亿元，|与九六年第一季比较，上升百分之二十九。" SentencePosition="46…59|60…78" Center="1" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="包括机场建造工程在内的运输设施工程类别为第二大类地盘工程，|其完成工程总值为六十八亿元，较九六年第一季，上升百分之二点九。" SentencePosition="1…29|30…60" Center="3" ChildList="2" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其完成工程总值为六十八亿元，|较九六年第一季，上升百分之二点九。" SentencePosition="30…43|44…60" Center="1" ChildList="" ParentId="1" UseTime="5"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="商业楼宇工程为第三大类地盘工程，|其完成工程总值达三十九亿元，较九六年第一季，大幅上升百分之五十四。" SentencePosition="1…16|17…49" Center="3" ChildList="2" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="其完成工程总值达三十九亿元，|较九六年第一季，大幅上升百分之五十四。" SentencePosition="17…30|31…49" Center="1" ChildList="" ParentId="1" UseTime="5"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="不过" RelationType="转折关系" ConnectivePosition="113…114" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="由於分判工程在建造业内十分普遍，一间建筑机构可以是某一合约的主要承建商，同时亦可以是另一合约的分判承建商，主要承建商所完成的工程总值，只包括该等建造机构作为主要承建商合约中所完成的工程，而不包括其作为分判承建商所完成的工程。|不过，分判承建商所完成的工程总值应已包括在其受聘的主要承建商所完成的工程总值之内。" SentencePosition="1…112|113…153" Center="1" ChildList="3" ParentId="-1" UseTime="18"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="由於分判工程在建造业内十分普遍，一间建筑机构可以是某一合约的主要承建商，同时亦可以是另一合约的分判承建商，|主要承建商所完成的工程总值，只包括该等建造机构作为主要承建商合约中所完成的工程，而不包括其作为分判承建商所完成的工程。" SentencePosition="1…53|54…112" Center="2" ChildList="4|6" ParentId="1" UseTime="11"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="由於" RelationType="因果关系" ConnectivePosition="1…2" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="由於分判工程在建造业内十分普遍，|一间建筑机构可以是某一合约的主要承建商，同时亦可以是另一合约的分判承建商，" SentencePosition="1…16|17…53" Center="2" ChildList="5" ParentId="3" UseTime="9"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="同时亦" RelationType="并列关系" ConnectivePosition="37…39" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="一间建筑机构可以是某一合约的主要承建商，|同时亦可以是另一合约的分判承建商，" SentencePosition="17…36|37…53" Center="3" ChildList="" ParentId="4" UseTime="15"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="94…94" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="主要承建商所完成的工程总值，只包括该等建造机构作为主要承建商合约中所完成的工程，|而不包括其作为分判承建商所完成的工程。" SentencePosition="54…93|94…112" Center="3" ChildList="" ParentId="3" UseTime="10"/> 
+  </P>  
+  <P ID="13"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="有关建造工程完成量的详细资料刊载於政府统计处出版的「一九九七年第一季建造工程完成量统计调查报告」内，|每本定价为十四元，|现已在金钟道政府合署低座地下政府刊物销售处发售，亦可向湾仔港湾道十二号湾仔政府大楼十九楼政府统计处刊物出版组购买，或按期订购。" SentencePosition="1…50|51…59|60…122" Center="3" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="亦…或" RelationType="选择关系" ConnectivePosition="84…84&amp;&amp;117…117" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="现已在金钟道政府合署低座地下政府刊物销售处发售，|亦可向湾仔港湾道十二号湾仔政府大楼十九楼政府统计处刊物出版组购买，|或按期订购。" SentencePosition="60…83|84…116|117…122" Center="3" ChildList="" ParentId="1" UseTime="48"/> 
+  </P>  
+  <P ID="14">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="有关以上统计的查询，可与政府统计处屋宇建筑、建造及地产业统计组联络，|电话：二八零五六四二六。" SentencePosition="1…34|35…46" Center="3" ChildList="" ParentId="-1" UseTime="6"/>
+  </P>
+</DOC>

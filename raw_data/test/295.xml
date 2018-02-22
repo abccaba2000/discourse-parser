@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="在…后" RelationType="顺承关系" ConnectivePosition="14…14&amp;&amp;29…29" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="伊朗第一副总统哈桑?哈比比在结束对中国为期３天的友好访问后，|今天回到德黑兰时说，他对访华成果表示满意。" SentencePosition="1…30|31…51" Center="2" ChildList="" ParentId="-1" UseTime="20"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="并列关系" ConnectivePosition="49…49" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他说，伊中两国的经济合作项目正在展开，两国将在中亚地区联合投资，进行经济合作。|中国、伊朗和第三国还将联合投资，改造中国的炼油厂设备，扩大提炼伊朗石油的能力。" SentencePosition="1…39|40…78" Center="3" ChildList="2|4" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，伊中两国的经济合作项目正在展开，|两国将在中亚地区联合投资，进行经济合作。" SentencePosition="1…19|20…39" Center="2" ChildList="3" ParentId="1" UseTime="7"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="37-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="两国将在中亚地区联合投资，|进行经济合作。" SentencePosition="20…32|33…39" Center="3" ChildList="" ParentId="2" UseTime="22"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="60-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="true" Sentence="中国、伊朗和第三国还将联合投资，|改造中国的炼油厂设备，扩大提炼伊朗石油的能力。" SentencePosition="40…55|56…78" Center="1" ChildList="5" ParentId="1" UseTime="23"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="74-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="改造中国的炼油厂设备，|扩大提炼伊朗石油的能力。" SentencePosition="56…66|67…78" Center="3" ChildList="" ParentId="4" UseTime="19"/> 
+  </P> 
+</DOC>

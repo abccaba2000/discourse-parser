@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="“一国两制”与香港经济高级论坛今天在北京人民大会堂举行。|来自内地和香港、澳门、台湾的近百名知名企业界代表与国家有关部门负责人、专家，围绕“加强合作、促进发展、共创繁荣”这一主题，进行了内容丰富的研讨和交流。" SentencePosition="1…28|29…103" Center="1" ChildList="" ParentId="-1" UseTime="5"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="交通部副部长刘金松、对外贸易经济合作部部长助理安民、国务院港澳办经济司司长张良栋、中国银行副行长蒋祖祺及香港知名人士黄保欣、邵友保等发表了专题演讲，展望内地与香港在经贸、金融、航运等经济领域合作前景，评估下一世纪香港经济发展的地位和对内地、台湾、澳门经济发展的影响，探讨全球经济发展趋势及中国企业投资的新策略。|他们指出，香港回归后，内地与香港的经贸合作必将上升到新的水平，拓展到新的领域，也必将为中国明天的富强、统一和文明缔造坚实的基础。" SentencePosition="1…155|156…219" Center="3" ChildList="2|4" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="交通部副部长刘金松、对外贸易经济合作部部长助理安民、国务院港澳办经济司司长张良栋、中国银行副行长蒋祖祺及香港知名人士黄保欣、邵友保等发表了专题演讲，|展望内地与香港在经贸、金融、航运等经济领域合作前景，评估下一世纪香港经济发展的地位和对内地、台湾、澳门经济发展的影响，探讨全球经济发展趋势及中国企业投资的新策略。" SentencePosition="1…74|75…155" Center="1" ChildList="3" ParentId="1" UseTime="14"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="展望内地与香港在经贸、金融、航运等经济领域合作前景，|评估下一世纪香港经济发展的地位和对内地、台湾、澳门经济发展的影响，|探讨全球经济发展趋势及中国企业投资的新策略。" SentencePosition="75…100|101…133|134…155" Center="3" ChildList="" ParentId="2" UseTime="15"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="后" RelationType="顺承关系" ConnectivePosition="165…165" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他们指出，香港回归后，|内地与香港的经贸合作必将上升到新的水平，拓展到新的领域，也必将为中国明天的富强、统一和文明缔造坚实的基础。" SentencePosition="156…166|167…219" Center="2" ChildList="5" ParentId="1" UseTime="16"/>  
+    <R ID="5" StructureType="并列切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="195…195" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="内地与香港的经贸合作必将上升到新的水平，|拓展到新的领域，|也必将为中国明天的富强、统一和文明缔造坚实的基础。" SentencePosition="167…186|187…194|195…219" Center="3" ChildList="" ParentId="4" UseTime="15"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="十位内地和香港、澳门、台湾的企业代表还就进一步加强合作，共同繁荣民族经济畅谈了自己的感受。|他们认为，这么多的海内外华人企业家们面对面的交流与对话，有利于企业界的共同发展，有利于香港的繁荣稳定，有利于共创中华民族美好未来。" SentencePosition="1…45|46…110" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他们认为，这么多的海内外华人企业家们面对面的交流与对话，有利于企业界的共同发展，|有利于香港的繁荣稳定，|有利于共创中华民族美好未来。" SentencePosition="46…85|86…96|97…110" Center="3" ChildList="" ParentId="1" UseTime="11"/> 
+  </P>  
+  <P ID="5">
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="全国人大常委会副委员长王光英出席了论坛。|程思远、雷洁琼副委员长专为论坛发来了贺词。|本次论坛由中国企业投资协会、经济日报、香港一国两制经济研究中心共同主办。" SentencePosition="1…20|21…41|42…77" Center="3" ChildList="" ParentId="-1" UseTime="10"/>
+  </P>
+</DOC>

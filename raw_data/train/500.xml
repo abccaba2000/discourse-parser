@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="53…53" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="英国皇储威尔斯亲王与中华人民共和国国家主席江泽民均在仪式上致辞，|仪式於六月三十日午夜至七月一日凌晨举行，|并向全世界直播。" SentencePosition="1…32|33…52|53…60" Center="3" ChildList="" ParentId="-1" UseTime="23"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="仪式在香港会议展览中心新翼大厅举行，|约四千名嘉宾出席，包括来自四十多个国家和国际性组织的外交部长和知名人士，以及约四百名各国传媒代表。" SentencePosition="1…18|19…67" Center="3" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="29-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="约四千名嘉宾出席，|包括来自四十多个国家和国际性组织的外交部长和知名人士，以及约四百名各国传媒代表。" SentencePosition="19…27|28…67" Center="1" ChildList="" ParentId="1" UseTime="20"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="亦" RelationType="并列关系" ConnectivePosition="47…47" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="昨日（星期一）午夜前，英国国歌奏起、英国国旗和香港旗徐徐降下，|英国对香港超过一百五十年的管治亦从此结束。" SentencePosition="1…31|32…52" Center="3" ChildList="" ParentId="-1" UseTime="19"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="亦" RelationType="顺承关系" ConnectivePosition="34…34" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="踏入星期二零时，会场内便奏起中国国歌，|中国国旗及香港特别行政区区旗亦冉冉升起。" SentencePosition="1…19|20…39" Center="3" ChildList="" ParentId="-1" UseTime="9"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="中英两国各派出三十六人的仪仗队及军乐团参加典礼，|仪式约於晚上十一时四十分开始，|凌晨十二时十分结束。" SentencePosition="1…24|25…39|40…49" Center="3" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="而" RelationType="并列关系" ConnectivePosition="19…19" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="三名皇家香港警务处人员将香港旗降下，|而三名香港警务处人员则负责升起特区区旗。" SentencePosition="1…18|19…38" Center="3" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="13"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="後" RelationType="顺承关系" ConnectivePosition="5…5" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="典礼完成後，|钱其琛在香港会议展览中心新翼向威尔斯亲王和彭定康道别，其後两人登上皇家游艇「不列颠尼亚号」，离开香港。" SentencePosition="1…6|7…57" Center="2" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="34-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="钱其琛在香港会议展览中心新翼向威尔斯亲王和彭定康道别，|其後两人登上皇家游艇「不列颠尼亚号」，离开香港。" SentencePosition="7…33|34…57" Center="3" ChildList="3" ParentId="1" UseTime="15"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其後两人登上皇家游艇「不列颠尼亚号」，|离开香港。" SentencePosition="34…52|53…57" Center="3" ChildList="" ParentId="2" UseTime="7"/>
+  </P> 
+</DOC>

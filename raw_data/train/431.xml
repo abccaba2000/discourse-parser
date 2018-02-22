@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="董建华在香港－欧盟和欧盟－香港经济合作委员会成立暨首次全体会议上说，欧盟和香港之间商务和旅游往来人数逐年增加，|这表明双方在商业、贸易、投资和文化方面的合作正在逐渐加强。" SentencePosition="1…55|56…84" Center="1" ChildList="" ParentId="-1" UseTime="6"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="董建华说，香港人感到自豪和自信，|自豪是由于回到祖国怀抱后他们成为自己命运的主人，自信是因为他们能够把香港建设得更好。" SentencePosition="1…16|17…58" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="自豪是由于回到祖国怀抱后他们成为自己命运的主人，|自信是因为他们能够把香港建设得更好。" SentencePosition="17…40|41…58" Center="3" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="而…更" RelationType="递进关系" ConnectivePosition="44…44&amp;&amp;71…71" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="布里坦也在会上说，过去几个月来香港的平稳过渡是欧盟对双方合作前景持乐观态度的充分保证，|而日前香港成功举办世界银行和国际货币基金组织年会的事实更成为国际社会对“一国两制”方针认识转变的分水岭。" SentencePosition="1…43|44…95" Center="3" ChildList="" ParentId="-1" UseTime="33"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="他说，尽管欧盟和香港都在经历史无前例的变迁，但是欧盟和香港之间已经存在的合作关系为双边合作的原则、政策和方式的连续性提供了保证。|他说，香港仍将是欧洲通往中国大市场的门户。" SentencePosition="1…64|65…85" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="尽管…但是" RelationType="让步关系" ConnectivePosition="4…5&amp;&amp;23…24" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="他说，尽管欧盟和香港都在经历史无前例的变迁，|但是欧盟和香港之间已经存在的合作关系为双边合作的原则、政策和方式的连续性提供了保证。" SentencePosition="1…22|23…64" Center="2" ChildList="" ParentId="1" UseTime="19"/> 
+  </P>  
+  <P ID="7">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="76-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="参加今天会议的欧盟国家和香港经济界代表一致认为，在欧盟和香港刚刚步入各自新的经济发展时期之际，欧盟－香港和香港－欧盟经济合作委员会的成立是非常及时的，|将为香港和欧盟商界保持长期对话提供方便。" SentencePosition="1…75|76…95" Center="3" ChildList="" ParentId="-1" UseTime="14"/>
+  </P>
+</DOC>

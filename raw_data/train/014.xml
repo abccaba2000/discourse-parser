@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="正值中国与韩国双边贸易额大幅增长之际，一项大型的中韩经贸研讨会将于今年四月十八日至十九日在北京举行。|这是中韩双方首次举办的专门讨论两国经贸交流与合作的大型研讨会。业内人士认为，它将为中韩两国经贸界提供一次扩大交流与合作的良机。" SentencePosition="1…50|51…113" Center="2" ChildList="3|2" ParentId="-1" UseTime="29"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="推断关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这是中韩双方首次举办的专门讨论两国经贸交流与合作的大型研讨会。|业内人士认为，它将为中韩两国经贸界提供一次扩大交流与合作的良机。" SentencePosition="51…81|82…113" Center="2" ChildList="" ParentId="1" UseTime="12"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="正值中国与韩国双边贸易额大幅增长之际，|一项大型的中韩经贸研讨会将于今年四月十八日至十九日在北京举行。" SentencePosition="1…19|20…50" Center="3" ChildList="" ParentId="1" UseTime="17"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="近年来，中韩两国之间的经贸往来发展迅速。|截止去年九月，韩国在华投资企业总数为五千八百八十三家，中国已成为韩国最大的投资对象国。据中国海关统计，一九九五年两国贸易额已达一百六十九点八亿美元，比前年增长百分之四十四点八。经济专家预计，今年中韩两国贸易额将增至二百五十亿美元。" SentencePosition="1…20|21…135" Center="2" ChildList="5" ParentId="-1" UseTime="153"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="推断关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="截止去年九月，韩国在华投资企业总数为五千八百八十三家，中国已成为韩国最大的投资对象国。据中国海关统计，一九九五年两国贸易额已达一百六十九点八亿美元，比前年增长百分之四十四点八。|经济专家预计，今年中韩两国贸易额将增至二百五十亿美元。" SentencePosition="21…108|109…135" Center="2" ChildList="6" ParentId="4" UseTime="21"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="截止去年九月，韩国在华投资企业总数为五千八百八十三家，中国已成为韩国最大的投资对象国。|据中国海关统计，一九九五年两国贸易额已达一百六十九点八亿美元，比前年增长百分之四十四点八。" SentencePosition="21…63|64…108" Center="3" ChildList="7|8" ParentId="5" UseTime="15"/>  
+    <R ID="7" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="因果关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="截止去年九月，韩国在华投资企业总数为五千八百八十三家，|中国已成为韩国最大的投资对象国。" SentencePosition="21…47|48…63" Center="2" ChildList="" ParentId="6" UseTime="18"/>  
+    <R ID="8" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据中国海关统计，一九九五年两国贸易额已达一百六十九点八亿美元，|比前年增长百分之四十四点八。" SentencePosition="64…94|95…108" Center="1" ChildList="" ParentId="6" UseTime="20"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="9" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="74…75" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据悉，在中韩首次举办的专门讨论两国经贸交流与合作的大型研讨会上，中国有关部委的权威人士将在会上着重介绍中国即将公布的一系列对外贸易及合作的新政策，|其中包括有关降低进口产品关税、外资企业出口产品退税、外资企业进口设备取消减免税以及加工贸易保证金台帐制度等海外投资者十分关注的问题。" SentencePosition="1…73|74…139" Center="2" ChildList="" ParentId="-1" UseTime="25"/> 
+  </P>  
+  <P ID="6">
+    <R ID="10" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这次中韩经贸研讨会由中国新华通讯社对外部、对外贸易经济合作部亚洲司与韩国驻华使馆、大韩贸易振兴公社联合举办。|据称，研讨会上还将介绍韩国中小企业家们尤为关注的中国国内流通领域的对外开放问题。" SentencePosition="1…54|55…94" Center="3" ChildList="" ParentId="-1" UseTime="64"/>
+  </P>
+</DOC>

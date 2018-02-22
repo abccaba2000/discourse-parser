@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="18-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="中仪国际招标公司经过激烈竞争中标，|将与中国电气进出口联营公司一同为铁道部提供总量为二十二万线的程控交换机设备，合同金额近二千万美元。" SentencePosition="1…17|18…66" Center="2" ChildList="2" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="将与中国电气进出口联营公司一同为铁道部提供总量为二十二万线的程控交换机设备，|合同金额近二千万美元。" SentencePosition="18…55|56…66" Center="3" ChildList="" ParentId="1" UseTime="5"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="铁道部人士介绍，此次网络建设是全国铁路枢纽通讯改造工程的一部分。|建成投入使用后，将有利于包括港澳地区在内的中国各地乘客和货主通过该网查询铁路运行情况，提前预订客票或货位，以及跟踪货物发、到站位置。" SentencePosition="1…32|33…98" Center="3" ChildList="2" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="后" RelationType="顺承关系" ConnectivePosition="39…39" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="建成投入使用后，|将有利于包括港澳地区在内的中国各地乘客和货主通过该网查询铁路运行情况，提前预订客票或货位，以及跟踪货物发、到站位置。" SentencePosition="33…40|41…98" Center="2" ChildList="3" ParentId="1" UseTime="13"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="以及" RelationType="并列关系" ConnectivePosition="86…87" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="将有利于包括港澳地区在内的中国各地乘客和货主通过该网查询铁路运行情况，|提前预订客票或货位，|以及跟踪货物发、到站位置。" SentencePosition="41…75|76…85|86…98" Center="3" ChildList="" ParentId="2" UseTime="20"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="如" RelationType="例证关系" ConnectivePosition="41-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="近年来，中国在基本建设方面，开始利用国际金融组织的贷款进行国际性竞争性招标采购。|此次采购即遵循国际惯例进行，最终确定中国电气进出口联营公司代理的上海贝尔生产的程控交换机产品中标。这也是中国国内生产的程控交换机产品赢得的重要订单之一。" SentencePosition="1…40|41…116" Center="1" ChildList="2" ParentId="-1" UseTime="13"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="此次采购即遵循国际惯例进行，最终确定中国电气进出口联营公司代理的上海贝尔生产的程控交换机产品中标。|这也是中国国内生产的程控交换机产品赢得的重要订单之一。" SentencePosition="41…89|90…116" Center="1" ChildList="3" ParentId="1" UseTime="8"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="58-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="此次采购即遵循国际惯例进行，|最终确定中国电气进出口联营公司代理的上海贝尔生产的程控交换机产品中标。" SentencePosition="41…54|55…89" Center="3" ChildList="" ParentId="2" UseTime="17"/> 
+  </P>  
+  <P ID="6">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据悉，合同各方已于昨日在北京钓鱼台国宾馆举行了签字仪式。|全部设备将于今年年内生产、安装完毕。" SentencePosition="1…28|29…46" Center="3" ChildList="" ParentId="-1" UseTime="4"/>
+  </P>
+</DOC>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="28…29" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="六千五百名获身分鉴定证件采访交接仪式及有关活动的传媒，|其中大部分均有使用新闻及广播中心内的各项设施。" SentencePosition="1…27|28…50" Center="1" ChildList="" ParentId="-1" UseTime="11"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="一百一十六个传媒机构（包括六十二间电视及电台机构和五十四间文字传媒机构）在新闻及广播中心租用共二百二十五个专用工作间，|占地逾三千平方米。" SentencePosition="1…59|60…68" Center="3" ChildList="" ParentId="-1" UseTime="6"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="但" RelationType="转折关系" ConnectivePosition="22…22" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="发言人说，新闻及广播中心原定七月十日关闭，|但由於所有租用工作间的传媒机构已离开中心或在七月九日前已做好船运安排，故中心可较原定时间略为提早关闭。" SentencePosition="1…21|22…72" Center="2" ChildList="2" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="由於…故" RelationType="因果关系" ConnectivePosition="23…24&amp;&amp;57…57" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="但由於所有租用工作间的传媒机构已离开中心或在七月九日前已做好船运安排，|故中心可较原定时间略为提早关闭。" SentencePosition="22…56|57…72" Center="2" ChildList="" ParentId="1" UseTime="46"/>
+  </P> 
+</DOC>

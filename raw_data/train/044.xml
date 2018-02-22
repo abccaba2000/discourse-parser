@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="香港特区行政长官董建华今天对美国传统基金会发表的《一九九八年经济自由指数报告》表示欢迎，|该报告认为香港继续是全球最自由的经济体系。" SentencePosition="1…44|45…65" Center="2" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="顺承关系" ConnectivePosition="58-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="美国传统基金会副总裁霍姆斯博士和道琼斯公司副总裁克罗维茨今天早晨率领由传统基金会及《华尔街日报》组成的高层代表团，|向董建华递交了报告结果。" SentencePosition="1…57|58…69" Center="3" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="传统基金会和《华尔街日报》的报告确认了香港的经济结构在回归中国后仍维持不变。|传统基金会表示，该指数也有被投资者用作投资指南。" SentencePosition="1…38|39…62" Center="3" ChildList="" ParentId="-1" UseTime="4"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="董建华在评论该指数时表示，香港已连续四年成为全球最自由的经济体系。|他强调，香港会致力维持自由贸易，并加强香港经济上的竞争力。" SentencePosition="1…33|34…62" Center="3" ChildList="2" ParentId="-1" UseTime="5"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="50…50" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="他强调，香港会致力维持自由贸易，|并加强香港经济上的竞争力。" SentencePosition="34…49|50…62" Center="3" ChildList="" ParentId="1" UseTime="7"/>
+  </P> 
+</DOC>

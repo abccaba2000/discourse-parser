@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="波黑“塞尔维亚共和国”总统卡拉季奇和联合国秘书长特使明石康经过９个小时的谈判之后，于２３日凌晨就戈拉日代实现停火达成协议，|停火于２３日中午当地时间１２时生效。" SentencePosition="1…61|62…79" Center="1" ChildList="" ParentId="-1" UseTime="5"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这次停火协议是在联合国安理会作出要求在戈拉日代立即停火的决议以及北约向波黑塞族发出最后通牒后达成的。|波黑塞族主要领导人和联合国驻波黑维和部队的主要领导人参加了这次会谈。塞尔维亚共和国总统米洛舍维奇主持了这次谈判。" SentencePosition="1…50|51…106" Center="3" ChildList="2" ParentId="-1" UseTime="6"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="波黑塞族主要领导人和联合国驻波黑维和部队的主要领导人参加了这次会谈。|塞尔维亚共和国总统米洛舍维奇主持了这次谈判。" SentencePosition="51…84|85…106" Center="3" ChildList="" ParentId="1" UseTime="4"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="２３日凌晨发表的协议书规定：在戈拉日代及其周围立即全面停火；|作为第一步，在距戈拉日代市中心３公里地区紧急部署一个营的联合国维和部队，以监督交战双方停火情况；|塞方将重武器直接交给联合国维和部队保管或撤到不能威胁戈拉日代安全区的地区；|为紧急撤出市内伤员提供安全并保证所有维和部队人员和人道主义援助人员完全自由通行。" SentencePosition="1…30|31…78|79…115|116…155" Center="3" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="67…67" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="作为第一步，在距戈拉日代市中心３公里地区紧急部署一个营的联合国维和部队，|以监督交战双方停火情况；" SentencePosition="31…66|67…78" Center="1" ChildList="" ParentId="1" UseTime="16"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="参加谈判的双方领导人对会谈结果均表满意。明石康认为，这次会谈是“十分积极的”。卡拉季奇也表示，这次会谈是“非常成功的”和“十分重要的”。|米洛舍维奇说，双方达成的协议是“向和平迈出了一大步”，“我希望这一步取得圆满成功”。" SentencePosition="1…68|69…110" Center="1" ChildList="2|4" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="参加谈判的双方领导人对会谈结果均表满意。|明石康认为，这次会谈是“十分积极的”。卡拉季奇也表示，这次会谈是“非常成功的”和“十分重要的”。" SentencePosition="1…20|21…68" Center="1" ChildList="3" ParentId="1" UseTime="6"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="44…44" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="明石康认为，这次会谈是“十分积极的”。|卡拉季奇也表示，这次会谈是“非常成功的”和“十分重要的”。" SentencePosition="21…39|40…68" Center="3" ChildList="" ParentId="2" UseTime="11"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="100-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="米洛舍维奇说，双方达成的协议是“向和平迈出了一大步”，|“我希望这一步取得圆满成功”。" SentencePosition="69…95|96…110" Center="1" ChildList="" ParentId="1" UseTime="10"/>
+  </P> 
+</DOC>

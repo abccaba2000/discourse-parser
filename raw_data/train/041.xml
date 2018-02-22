@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这个采用差别化氨伦丝生产技术改造的项目，总投资七千万元，|累计年产氨纶丝一千五百吨。" SentencePosition="1…28|29…41" Center="3" ChildList="" ParentId="-1" UseTime="8"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="连云港钟山氨纶丝有限公司是九十年代初引进日本东洋纺织技术和设备的一家苏港合资企业，前两期工程建成并投产以来，已累计实现利润一点四七亿元，跻身于国家二类大型企业行列。|这次新投产的生产线，由该公司自行设计，自行开发，自行调试。设备从安装到投产只用了三个月时间，开发了企业自己的专利技术，为公司下一步对外输出氨伦丝生产技术奠定了基础。" SentencePosition="1…82|83…164" Center="3" ChildList="2|4" ParentId="-1" UseTime="4"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="连云港钟山氨纶丝有限公司是九十年代初引进日本东洋纺织技术和设备的一家苏港合资企业，|前两期工程建成并投产以来，已累计实现利润一点四七亿元，跻身于国家二类大型企业行列。" SentencePosition="1…41|42…82" Center="3" ChildList="3" ParentId="1" UseTime="5"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="73-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="前两期工程建成并投产以来，已累计实现利润一点四七亿元，|跻身于国家二类大型企业行列。" SentencePosition="42…68|69…82" Center="3" ChildList="" ParentId="2" UseTime="16"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="116-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="这次新投产的生产线，由该公司自行设计，自行开发，自行调试。|设备从安装到投产只用了三个月时间，开发了企业自己的专利技术，为公司下一步对外输出氨伦丝生产技术奠定了基础。" SentencePosition="83…111|112…164" Center="2" ChildList="5|6" ParentId="1" UseTime="17"/>  
+    <R ID="5" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这次新投产的生产线，由该公司自行设计，|自行开发，|自行调试。" SentencePosition="83…101|102…106|107…111" Center="3" ChildList="" ParentId="4" UseTime="10"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="设备从安装到投产只用了三个月时间，|开发了企业自己的专利技术，为公司下一步对外输出氨伦丝生产技术奠定了基础。" SentencePosition="112…128|129…164" Center="3" ChildList="7" ParentId="4" UseTime="7"/>  
+    <R ID="7" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="156-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="开发了企业自己的专利技术，|为公司下一步对外输出氨伦丝生产技术奠定了基础。" SentencePosition="129…141|142…164" Center="1" ChildList="" ParentId="6" UseTime="14"/> 
+  </P> 
+</DOC>

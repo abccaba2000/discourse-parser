@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="“宁波我是第三次来，作为一个历史名城和通商口岸，它发展得很快，这十分令人高兴。”|全国政协常委、香港特区全国政协赴浙江视察团团长庄世平在宁波考察时对记者说。" SentencePosition="1…40|41…77" Center="1" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="“宁波我是第三次来，|作为一个历史名城和通商口岸，它发展得很快，这十分令人高兴。”" SentencePosition="1…10|11…40" Center="2" ChildList="3" ParentId="1" UseTime="12"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="作为一个历史名城和通商口岸，它发展得很快，|这十分令人高兴。”" SentencePosition="11…31|32…40" Center="1" ChildList="" ParentId="2" UseTime="11"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="宁波位于浙江省东部沿海，隔杭州湾与上海相望，|一九八四年被中国政府列为进一步对外开放城市。" SentencePosition="1…22|23…44" Center="3" ChildList="2" ParentId="-1" UseTime="10"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="14-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="宁波位于浙江省东部沿海，|隔杭州湾与上海相望，" SentencePosition="1…12|13…22" Center="3" ChildList="" ParentId="1" UseTime="20"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="推断关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="庄世平说，宁波的港口条件十分优越，其地利位置与香港可以媲美。|路通财就通，宁波的腾飞之日为时不远。" SentencePosition="1…30|31…48" Center="3" ChildList="2|3" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="庄世平说，宁波的港口条件十分优越，|其地利位置与香港可以媲美。" SentencePosition="1…17|18…30" Center="1" ChildList="" ParentId="1" UseTime="10"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="推断关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="false" Sentence="路通财就通，|宁波的腾飞之日为时不远。" SentencePosition="31…36|37…48" Center="2" ChildList="" ParentId="1" UseTime="14"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="宁波港由北仑港区、镇海港区和宁波港区组成，集内河港、河口港和海港于一体，港阔水深，不冻不淤。|一九九六年完成港口货物吞吐量七千六百三十八万吨，居内地港口第三位。" SentencePosition="1…46|47…79" Center="2" ChildList="2|5" ParentId="-1" UseTime="21"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="38-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="宁波港由北仑港区、镇海港区和宁波港区组成，集内河港、河口港和海港于一体，|港阔水深，不冻不淤。" SentencePosition="1…36|37…46" Center="3" ChildList="3|4" ParentId="1" UseTime="25"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="25-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="宁波港由北仑港区、镇海港区和宁波港区组成，|集内河港、河口港和海港于一体，" SentencePosition="1…21|22…36" Center="3" ChildList="" ParentId="2" UseTime="12"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="港阔水深，|不冻不淤。" SentencePosition="37…41|42…46" Center="3" ChildList="" ParentId="2" UseTime="5"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="一九九六年完成港口货物吞吐量七千六百三十八万吨，|居内地港口第三位。" SentencePosition="47…70|71…79" Center="1" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="委员们一致高度评价宁波的城市建设。|香港特区全国政协委员、香江国际集团董事长杨孙西说，十年前我到过宁波，十年后城市的街道、建筑变化很大，但是城市里那些象征宁波历史及传统的文化设施基本保留了下来，这很可贵。" SentencePosition="1…17|18…101" Center="1" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="对比关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="香港特区全国政协委员、香江国际集团董事长杨孙西说，十年前我到过宁波，|十年后城市的街道、建筑变化很大，但是城市里那些象征宁波历史及传统的文化设施基本保留了下来，这很可贵。" SentencePosition="18…51|52…101" Center="2" ChildList="3" ParentId="1" UseTime="8"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="但是" RelationType="转折关系" ConnectivePosition="68…69" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="十年后城市的街道、建筑变化很大，|但是城市里那些象征宁波历史及传统的文化设施基本保留了下来，这很可贵。" SentencePosition="52…67|68…101" Center="2" ChildList="4" ParentId="2" UseTime="22"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="但是城市里那些象征宁波历史及传统的文化设施基本保留了下来，|这很可贵。" SentencePosition="68…96|97…101" Center="1" ChildList="" ParentId="3" UseTime="8"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="在宁波期间，委员们还参观了香港特区全国政协委员、恒兴基立集团（国际）有限公司董事长施祥鹏与当地合资的繁景花园。|施祥鹏说，一九八九年我在这里投资了一千多万美元，现在资产已发展到七亿元人民币，所有的收益我都没有收回去，我要继续投资在这里。" SentencePosition="1…55|56…117" Center="3" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="并列切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="施祥鹏说，一九八九年我在这里投资了一千多万美元，|现在资产已发展到七亿元人民币，|所有的收益我都没有收回去，|我要继续投资在这里。" SentencePosition="56…79|80…94|95…107|108…117" Center="3" ChildList="" ParentId="1" UseTime="17"/> 
+  </P>  
+  <P ID="9">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="然后" RelationType="顺承关系" ConnectivePosition="38-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="今昨两天，香港特区全国政协委员还视察了宁波开发区、宁波西田信染织有限公司，|游览了天一阁、蒋氏祖居。" SentencePosition="1…37|38…49" Center="3" ChildList="" ParentId="-1" UseTime="19"/>
+  </P>
+</DOC>

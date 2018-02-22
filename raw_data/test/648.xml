@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="并列切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="74…74" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="报告指出，１９９８年警方还擒获北海岸和东部平原等地贩毒集团毒枭１２人，|焚毁毒品作物６?３万公顷，|没收载毒飞机７９架、快艇３００艘和机动车２９０辆，|并捣毁了３８条秘密飞机跑道和１８５个地下毒品加厂。" SentencePosition="1…35|36…48|49…73|74…98" Center="3" ChildList="" ParentId="-1" UseTime="17"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="哥伦比亚是世界上生产和贩运毒品的主要国家之一。|日益猖獗的贩毒活动使哥伦比亚暴力活动明显增多，成为拉美地区暴力犯罪率最高的国家。" SentencePosition="1…23|24…63" Center="2" ChildList="2" ParentId="-1" UseTime="20"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="48-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="日益猖獗的贩毒活动使哥伦比亚暴力活动明显增多，|成为拉美地区暴力犯罪率最高的国家。" SentencePosition="24…46|47…63" Center="2" ChildList="" ParentId="1" UseTime="15"/>
+  </P> 
+</DOC>

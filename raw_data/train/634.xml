@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据了解，这条铁路将跨越中国华北地区的海河、京津塘高速公路、津滨高速公路和京山线，全长二百公里，其中包括改造现有铁路四十四公里。此项目还包括在天津港南疆建设一个煤炭专用码头。|全部工程总投资近十亿元人民币，预计明年底完工。" SentencePosition="1…86|87…109" Center="3" ChildList="2|6" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="还" RelationType="并列关系" ConnectivePosition="67…67" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="据了解，这条铁路将跨越中国华北地区的海河、京津塘高速公路、津滨高速公路和京山线，全长二百公里，其中包括改造现有铁路四十四公里。|此项目还包括在天津港南疆建设一个煤炭专用码头。" SentencePosition="1…63|64…86" Center="3" ChildList="4" ParentId="1" UseTime="10"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据了解，这条铁路将跨越中国华北地区的海河、京津塘高速公路、津滨高速公路和京山线，|全长二百公里，其中包括改造现有铁路四十四公里。" SentencePosition="1…40|41…63" Center="3" ChildList="5" ParentId="2" UseTime="8"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="显式关系" Layer="4" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="48…49" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="全长二百公里，|其中包括改造现有铁路四十四公里。" SentencePosition="41…47|48…63" Center="1" ChildList="" ParentId="4" UseTime="10"/>  
+    <R ID="6" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="全部工程总投资近十亿元人民币，|预计明年底完工。" SentencePosition="87…101|102…109" Center="3" ChildList="" ParentId="1" UseTime="7"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="后" RelationType="顺承关系" ConnectivePosition="7…7" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="这条铁路建成后，|每年将有一千万吨“三西”（山西、陕西、蒙西）优质煤经此从天津港下海出口或运往中国南方，可缓解中国北路煤炭因外运量不断增长而沿海港口煤炭运力不足的矛盾，并改变目前煤炭运输开放式作业、污染严重的状况，改善当地的投资环境。" SentencePosition="1…8|9…116" Center="2" ChildList="2" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="53-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="每年将有一千万吨“三西”（山西、陕西、蒙西）优质煤经此从天津港下海出口或运往中国南方，|可缓解中国北路煤炭因外运量不断增长而沿海港口煤炭运力不足的矛盾，并改变目前煤炭运输开放式作业、污染严重的状况，改善当地的投资环境。" SentencePosition="9…51|52…116" Center="2" ChildList="3" ParentId="1" UseTime="13"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="84…84" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="可缓解中国北路煤炭因外运量不断增长而沿海港口煤炭运力不足的矛盾，|并改变目前煤炭运输开放式作业、污染严重的状况，|改善当地的投资环境。" SentencePosition="52…83|84…106|107…116" Center="3" ChildList="" ParentId="2" UseTime="19"/>
+  </P> 
+</DOC>

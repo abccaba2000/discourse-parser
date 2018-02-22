@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据新华社联合国２月１３日电联合国安理会１３日决定在１４日举行一次秘密会议，|对海湾冲突进行磋商。" SentencePosition="1…37|38…47" Center="1" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="但是" RelationType="转折关系" ConnectivePosition="60…61" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="几个星期以来，古巴和也门等国要求安理会举行正式会议。它们认为，美国为首的多国部队对伊拉克的空袭超越了安理会的授权范围。|但是美国和英国等国反对召开正式会议。" SentencePosition="1…59|60…77" Center="2" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因为" RelationType="因果关系" ConnectivePosition="28-" ConnectiveAttribute="可添加" RoleLocation="abnormal" LanguageSense="false" Sentence="几个星期以来，古巴和也门等国要求安理会举行正式会议。|它们认为，美国为首的多国部队对伊拉克的空袭超越了安理会的授权范围。" SentencePosition="1…26|27…59" Center="1" ChildList="" ParentId="1" UseTime="17"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="举行秘密会议的提案是由英国提出的。|１５个安理会成员国的投票结果是：９票赞成，２票反对，４票弃权。美、英、法、苏投了赞成票，中国弃权。" SentencePosition="1…17|18…66" Center="3" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="50-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="１５个安理会成员国的投票结果是：９票赞成，２票反对，４票弃权。|美、英、法、苏投了赞成票，中国弃权。" SentencePosition="18…48|49…66" Center="1" ChildList="3" ParentId="1" UseTime="13"/>  
+    <R ID="3" StructureType="并列切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="１５个安理会成员国的投票结果是：９票赞成，|２票反对，|４票弃权。" SentencePosition="18…38|39…43|44…48" Center="3" ChildList="" ParentId="2" UseTime="9"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="由于" RelationType="因果关系" ConnectivePosition="21…22" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="英国驻联合国大使汉内在提出这一议案时说，由于当前情况“特殊”，|安理会应该秘密举行，安理会必须在没有记者和其他公众参加的情况下仔细考虑所有的事态发展。" SentencePosition="1…31|32…74" Center="2" ChildList="2" ParentId="-1" UseTime="13"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="安理会应该秘密举行，|安理会必须在没有记者和其他公众参加的情况下仔细考虑所有的事态发展。" SentencePosition="32…41|42…74" Center="3" ChildList="" ParentId="1" UseTime="6"/>
+  </P> 
+</DOC>

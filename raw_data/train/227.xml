@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="波罗的海３国总统８月３１日发表联合声明指出，俄从波罗的海３国撤军将“巩固欧洲的安全”。|声明强调俄罗斯完成撤军应促进俄同波罗的海国家关系的发展。" SentencePosition="1…43|44…71" Center="3" ChildList="" ParentId="-1" UseTime="5"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这项联合声明是在俄罗斯全部完成了从波罗的海三国的撤军之际发表的。|俄驻立陶宛的军队早在一年前撤回了俄罗斯。今年８月３１日俄驻拉脱维亚的军队全部撤离，驻爱沙尼亚的俄军也于今年８月２９日完成了撤军工作。" SentencePosition="1…32|33…98" Center="3" ChildList="2" ParentId="-1" UseTime="18"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="俄驻立陶宛的军队早在一年前撤回了俄罗斯。|今年８月３１日俄驻拉脱维亚的军队全部撤离，驻爱沙尼亚的俄军也于今年８月２９日完成了撤军工作。" SentencePosition="33…52|53…98" Center="3" ChildList="3" ParentId="1" UseTime="9"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="也" RelationType="并列关系" ConnectivePosition="82…82" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="今年８月３１日俄驻拉脱维亚的军队全部撤离，|驻爱沙尼亚的俄军也于今年８月２９日完成了撤军工作。" SentencePosition="53…73|74…98" Center="3" ChildList="" ParentId="2" UseTime="11"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="虽然…但是" RelationType="转折关系" ConnectivePosition="34…35&amp;&amp;48…49" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="俄罗斯外交部副部长克雷洛夫３１日在接受国际文传电讯社的采访时指出，虽然俄已从波罗的海国家撤军，|但是如果波罗的海国家侵犯当地讲俄语居民的权力，俄政府仍然还有对这些国家施加影响的措施，其中包括政治、经济和道义上的措施。" SentencePosition="1…47|48…107" Center="2" ChildList="2" ParentId="-1" UseTime="14"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="如果" RelationType="假设关系" ConnectivePosition="50…51" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="但是如果波罗的海国家侵犯当地讲俄语居民的权力，|俄政府仍然还有对这些国家施加影响的措施，其中包括政治、经济和道义上的措施。" SentencePosition="48…70|71…107" Center="2" ChildList="3" ParentId="1" UseTime="12"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="91…92" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="俄政府仍然还有对这些国家施加影响的措施，|其中包括政治、经济和道义上的措施。" SentencePosition="71…90|91…107" Center="1" ChildList="" ParentId="2" UseTime="12"/>
+  </P> 
+</DOC>

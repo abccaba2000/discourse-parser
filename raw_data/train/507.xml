@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="後" RelationType="顺承关系" ConnectivePosition="36…36" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="总额约一千七百亿港元的土地基金资产今日（星期二）移交香港特别行政区政府後，|特区的财政储备已增至约三千五百亿港元。" SentencePosition="1…37|38…56" Center="2" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="33…34" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="连此在内，外汇基金和土地基金的资产总值约达七千一百七十六亿港元，|其中超过八百一十亿美元（六千三百一十八亿港元）是外币资产，是世界上最庞大的外汇资产之一。" SentencePosition="1…32|33…76" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其中超过八百一十亿美元（六千三百一十八亿港元）是外币资产，|是世界上最庞大的外汇资产之一。" SentencePosition="33…61|62…76" Center="1" ChildList="" ParentId="1" UseTime="6"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="土地基金现将由特区政府自行管理，并成为特区财政储备的一部分。|特区行政长官董建华委任财政司司长曾荫权为接收基金的公职人员。" SentencePosition="1…30|31…60" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="17…17" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="土地基金现将由特区政府自行管理，|并成为特区财政储备的一部分。" SentencePosition="1…16|17…30" Center="3" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="17-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="土地基金将独立於与外汇基金之外，|由香港金融管理局在财政司司长的指导下运作。" SentencePosition="1…16|17…37" Center="3" ChildList="" ParentId="-1" UseTime="10"/> 
+  </P>  
+  <P ID="7"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="以" RelationType="目的关系" ConnectivePosition="17-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="财政司司长将成立一个谘询委员会，|就土地基金的管理及投资策略向他提供意见。" SentencePosition="1…16|17…36" Center="1" ChildList="" ParentId="-1" UseTime="16"/> 
+  </P>  
+  <P ID="8"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="25-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="土地基金於一九八六年根据中英联合声明的规定成立，|订明由联合声明於一九八五年五月二十七日生效当天起至一九九七年六月三十日止，香港政府的卖地收益，在扣除开发土地的成本後，与日後的特区政府均分。" SentencePosition="1…24|25…94" Center="3" ChildList="" ParentId="-1" UseTime="16"/> 
+  </P>  
+  <P ID="9"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="在…後" RelationType="顺承关系" ConnectivePosition="15…15&amp;&amp;25…25" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="中英土地委员会中方代表办事处在徵得土委会英方同意後，|在一九八六年八月十三日正式成立「香港特别行政区土地基金」（土地基金）。" SentencePosition="1…26|27…61" Center="2" ChildList="" ParentId="-1" UseTime="18"/> 
+  </P>  
+  <P ID="10"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="评价关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="同时，并公布《香港特别行政区政府土地基金信托声明书》（简称《信托声明书》），|作为土地基金的管理及移交特区政府的法律依据。" SentencePosition="1…38|39…60" Center="1" ChildList="" ParentId="-1" UseTime="7"/> 
+  </P>  
+  <P ID="11"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="38-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="《信托声明书》规定中英土地委员会的三名中方代表，获中华人民共和国政府授权，|以受托的方式，为特区政府管理这项基金，并保存其价值。" SentencePosition="1…37|38…63" Center="3" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="57…57" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="以受托的方式，为特区政府管理这项基金，|并保存其价值。" SentencePosition="38…56|57…63" Center="3" ChildList="" ParentId="1" UseTime="9"/> 
+  </P>  
+  <P ID="12"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="虽…但" RelationType="转折关系" ConnectivePosition="13…13&amp;&amp;23…23" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="土地基金成立十一年以来，虽经历过市场的波动，|但仍能确保各项投资业务的安全及正常运作，并取得可观的回报。" SentencePosition="1…22|23…51" Center="2" ChildList="2" ParentId="-1" UseTime="16"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="43…43" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="但仍能确保各项投资业务的安全及正常运作，|并取得可观的回报。" SentencePosition="23…42|43…51" Center="3" ChildList="" ParentId="1" UseTime="11"/> 
+  </P>  
+  <P ID="13"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="土地基金在成立时的资产净值为七亿七千二百万港元，|中央政府今日将土地基金移交特区政府後，其资产净值将超过一千七百亿港元，其中包括四百亿港元累积盈利。" SentencePosition="1…24|25…73" Center="3" ChildList="2" ParentId="-1" UseTime="8"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="後" RelationType="顺承关系" ConnectivePosition="42…42" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="中央政府今日将土地基金移交特区政府後，|其资产净值将超过一千七百亿港元，其中包括四百亿港元累积盈利。" SentencePosition="25…43|44…73" Center="2" ChildList="3" ParentId="1" UseTime="14"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="显式关系" Layer="3" RelationNumber="单个关系" Connective="其中" RelationType="总分关系" ConnectivePosition="60…61" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="其资产净值将超过一千七百亿港元，|其中包括四百亿港元累积盈利。" SentencePosition="44…59|60…73" Center="1" ChildList="" ParentId="2" UseTime="15"/>
+  </P> 
+</DOC>

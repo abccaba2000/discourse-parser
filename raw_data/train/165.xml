@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="日前，香港上海汇丰银行已将其上海分行迁至浦东陆家嘴金融贸易区的中国船舶大厦，|成为获准经营人民币业务、迁址浦东的第三家外资银行。" SentencePosition="1…38|39…63" Center="2" ChildList="" ParentId="-1" UseTime="12"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前上海已有八家外资银行被批准可经营人民币业务，他们分别是，美国花旗银行、香港汇丰银行、日本东京三菱银行、日本兴业银行、渣打银行上海分行、上海巴黎国际银行、日本第一劝业银行上海分行和日本三和银行上海分行。|按照规定，这八家银行都将在近期迁址浦东。" SentencePosition="1…102|103…122" Center="3" ChildList="2" ParentId="-1" UseTime="15"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="目前上海已有八家外资银行被批准可经营人民币业务，|他们分别是，美国花旗银行、香港汇丰银行、日本东京三菱银行、日本兴业银行、渣打银行上海分行、上海巴黎国际银行、日本第一劝业银行上海分行和日本三和银行上海分行。" SentencePosition="1…24|25…102" Center="1" ChildList="" ParentId="1" UseTime="6"/> 
+  </P>  
+  <P ID="4"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="后" RelationType="顺承关系" ConnectivePosition="31…31" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="浦东陆家嘴金融贸易区允许外资银行经营人民币业务的政策正式颁布后，|先后有四十多家外资银行、金融机构提出申请在浦东设立分支机构。" SentencePosition="1…32|33…62" Center="2" ChildList="" ParentId="-1" UseTime="14"/> 
+  </P>  
+  <P ID="5"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="例如" RelationType="例证关系" ConnectivePosition="46-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="一些外国金融机构在陆家嘴选址时，并不在乎楼盘的价格，而更注重大楼的档次与本公司的身价相符。|总部设在美国加州、在全球拥有一千三百亿美元注册资金的富兰克林?邓普顿公司，决定将其中国地区的总部设在浦东。经公司总裁和亚洲地区总裁亲自到浦东考察确定，把办公地点选在楼价每平米超过二千七百美元的上海证券大厦。现在邓普顿公司已正式签约，买下了证券大厦整个十八层楼面。" SentencePosition="1…45|46…176" Center="1" ChildList="2|3" ParentId="-1" UseTime="17"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="显式关系" Layer="2" RelationNumber="单个关系" Connective="并不…而更" RelationType="递进关系" ConnectivePosition="17…18&amp;&amp;27…28" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="一些外国金融机构在陆家嘴选址时，并不在乎楼盘的价格，|而更注重大楼的档次与本公司的身价相符。" SentencePosition="1…26|27…45" Center="2" ChildList="" ParentId="1" UseTime="15"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="总部设在美国加州、在全球拥有一千三百亿美元注册资金的富兰克林?邓普顿公司，决定将其中国地区的总部设在浦东。|经公司总裁和亚洲地区总裁亲自到浦东考察确定，把办公地点选在楼价每平米超过二千七百美元的上海证券大厦。现在邓普顿公司已正式签约，买下了证券大厦整个十八层楼面。" SentencePosition="46…98|99…176" Center="3" ChildList="4" ParentId="1" UseTime="6"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="经公司总裁和亚洲地区总裁亲自到浦东考察确定，把办公地点选在楼价每平米超过二千七百美元的上海证券大厦。|现在邓普顿公司已正式签约，买下了证券大厦整个十八层楼面。" SentencePosition="99…148|149…176" Center="3" ChildList="5" ParentId="3" UseTime="5"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="现在邓普顿公司已正式签约，|买下了证券大厦整个十八层楼面。" SentencePosition="149…161|162…176" Center="2" ChildList="" ParentId="4" UseTime="8"/> 
+  </P>  
+  <P ID="6"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="还" RelationType="顺承关系" ConnectivePosition="84…84" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="目前，香港上海汇丰银行、日本兴业银行上海分行、荷兰合作银行、比利时信贷银行上海分行等外资银行和金融机构，已先后落户陆家嘴金融贸易区。|不久，一大批海内外金融机构、大公司还会陆续进驻，连同外滩地区已形成的金融街，一个上海中央商务区框架正在形成。" SentencePosition="1…66|67…120" Center="3" ChildList="2" ParentId="-1" UseTime="7"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="92-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="不久，一大批海内外金融机构、大公司还会陆续进驻，|连同外滩地区已形成的金融街，一个上海中央商务区框架正在形成。" SentencePosition="67…90|91…120" Center="1" ChildList="" ParentId="1" UseTime="18"/>
+  </P> 
+</DOC>

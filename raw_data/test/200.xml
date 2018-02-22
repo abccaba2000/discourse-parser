@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC>
+  <P ID="1">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="后" RelationType="顺承关系" ConnectivePosition="14…14" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="伏明霞获得女子跳台跳水冠军后，|苏联队教练热情向她祝贺。新华社记者程至善摄" SentencePosition="1…15|16…36" Center="3" ChildList="" ParentId="-1" UseTime="10"/>
+  </P>
+</DOC>

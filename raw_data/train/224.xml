@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DOC> 
+  <P ID="2"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="39-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="哈尔滨市中龙肝病医药研究所所长焦柏忠潜心十数载研制出纯中药制剂??治肝胶囊，|为万余名患者解除了痛苦。" SentencePosition="1…38|39…50" Center="1" ChildList="" ParentId="-1" UseTime="13"/> 
+  </P>  
+  <P ID="3"> 
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="背景关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="肝病系病毒感染，目前采用的保肝疗法普遍不理想，而昂贵的干扰素大多数患者难以承受。|针对医疗界这一现实，近年来，焦柏忠与他的研究所决定从中医药宝库中寻求科学良方。经过多年探索，在反复试验中终于研制出“治肝胶囊”。临床验证表明，这种药对各种肝病均有较好的疗效。目前这种药已批量生产，并大范围用于临床。" SentencePosition="1…40|41…147" Center="2" ChildList="2" ParentId="-1" UseTime="9"/>  
+    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="针对医疗界这一现实，近年来，焦柏忠与他的研究所决定从中医药宝库中寻求科学良方。|经过多年探索，在反复试验中终于研制出“治肝胶囊”。临床验证表明，这种药对各种肝病均有较好的疗效。目前这种药已批量生产，并大范围用于临床。" SentencePosition="41…79|80…147" Center="3" ChildList="3" ParentId="1" UseTime="9"/>  
+    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="3" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="经过多年探索，在反复试验中终于研制出“治肝胶囊”。|临床验证表明，这种药对各种肝病均有较好的疗效。目前这种药已批量生产，并大范围用于临床。" SentencePosition="80…104|105…147" Center="3" ChildList="4" ParentId="2" UseTime="6"/>  
+    <R ID="4" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="4" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="135-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="临床验证表明，这种药对各种肝病均有较好的疗效。|目前这种药已批量生产，并大范围用于临床。" SentencePosition="105…127|128…147" Center="1" ChildList="5" ParentId="3" UseTime="16"/>  
+    <R ID="5" StructureType="逐层切分" ConnectiveType="显式关系" Layer="5" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="139…139" ConnectiveAttribute="可删除" RoleLocation="normal" LanguageSense="true" Sentence="目前这种药已批量生产，|并大范围用于临床。" SentencePosition="128…138|139…147" Center="3" ChildList="" ParentId="4" UseTime="12"/> 
+  </P>  
+  <P ID="4">
+    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="据悉，“治肝胶囊”在一九九二年获黑龙江省中医药管理局科技成果奖后，还曾在马来西亚国际新技术、新产品展览会上获特等奖，|今年五月，在全国第三届医疗保健品博览会上获得金奖。" SentencePosition="1…58|59…83" Center="3" ChildList="" ParentId="-1" UseTime="5"/>
+  </P>
+</DOC>
