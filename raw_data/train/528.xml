@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC>
-  <P ID="2">
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="邮政署署长霍文今日（星期四）宣布，由於塞拉利昂目前的政局，所有空邮、平邮服务，包括信件和包裹，由即时起，暂停服务。|当服务恢复时将另行宣布。" SentencePosition="1…57|58…69" Center="3" ChildList="" ParentId="-1" UseTime="9"/>
-  </P>
-</DOC>

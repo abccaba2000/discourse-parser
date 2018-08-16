@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC>
-  <P ID="2">
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="54-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="据新华社巴黎２月１３日电据法国《政治周刊》今天公布的一项民意测验表明，５６％的法国人主张立即停止海湾战争，|开始谋求和平解决海湾危机的谈判。" SentencePosition="1…53|54…69" Center="3" ChildList="" ParentId="-1" UseTime="17"/>
-  </P>
-</DOC>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC>
-  <P ID="1">
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="应马来西亚总理马哈蒂尔的邀请，|１９９０年１２月１０日下午，李鹏总理抵达马来西亚进行正式友好访问。图为１２日李鹏总理在马六甲州参观。" SentencePosition="1…15|16…65" Center="3" ChildList="" ParentId="-1" UseTime="7"/>
-  </P>
-</DOC>

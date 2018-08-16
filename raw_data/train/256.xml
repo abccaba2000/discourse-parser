@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC> 
-  <P ID="3"> 
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="这位发言人在回答记者提问时说，美国前总统尼克松先生患病期间，中国领导人曾通过中国驻美大使转达慰问。|对他的逝世，我们深表哀悼。中国国家主要领导人已发唁电致悼。" SentencePosition="1…49|50…78" Center="1" ChildList="2" ParentId="-1" UseTime="11"/>  
-    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="而且" RelationType="并列关系" ConnectivePosition="64-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="对他的逝世，我们深表哀悼。|中国国家主要领导人已发唁电致悼。" SentencePosition="50…62|63…78" Center="3" ChildList="" ParentId="1" UseTime="29"/>
-  </P> 
-</DOC>

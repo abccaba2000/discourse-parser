@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC>
-  <P ID="2">
-    <R ID="1" StructureType="逐层切分" ConnectiveType="显式关系" Layer="1" RelationNumber="单个关系" Connective="以便" RelationType="目的关系" ConnectivePosition="106…107" ConnectiveAttribute="不可删除" RoleLocation="normal" LanguageSense="true" Sentence="本报莫斯科２月１３日电记者周象光报道：苏联总统新闻发言人伊格纳坚科今天下午在新闻发布会上说，根据正在伊拉克访问的总统特使普里马科夫的报告，伊拉克外交部长阿齐兹受伊拉克总统萨达姆的委托，将于２月１７日前来莫斯科，|以便同苏联继续举行会谈。" SentencePosition="1…105|106…117" Center="1" ChildList="" ParentId="-1" UseTime="14"/>
-  </P>
-</DOC>

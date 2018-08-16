@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC>
-  <P ID="2">
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="国家医药管理局办公室主任白惠良说，中国鼓励外商在医药行业投资的领域包括：能适应国内外市场需求，提高产品档次，扩大外销，增加出口创汇的；能生产中国不能生产而又很需要的药品的企业；能引进国内需要的先进技术改造老企业的；能引进高新技术、专利技术和产品的；能引进先进管理经验的。|他表示，除了投资以外，中国政府也欢迎国外医药企业以补偿贸易、许可证贸易、委托加工、技术转让以及联合开发新产品的方式与中国合作。" SentencePosition="1…135|136…198" Center="3" ChildList="" ParentId="-1" UseTime="6"/>
-  </P>
-</DOC>

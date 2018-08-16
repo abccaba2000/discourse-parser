@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC>
-  <P ID="1">
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="因此" RelationType="因果关系" ConnectivePosition="50-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="自１９８８年赣南老区创办经济体制改革试验区以来，江西赣州市交通、能源、通讯等基础设施得到很大改善，|为发展外向型经济创造了条件。图为赣州市新区面貌。" SentencePosition="1…49|50…73" Center="1" ChildList="" ParentId="-1" UseTime="17"/>
-  </P>
-</DOC>

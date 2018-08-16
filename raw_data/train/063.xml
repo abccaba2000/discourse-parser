@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC>
-  <P ID="2">
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="来自外经贸部的消息：经国务院同意，中国对一九九六年三月三十一日前批准的外商投资企业投资总额内进口的设备和原材料，仍沿用一九九六年三月三十一日前的进口税收政策，|直至进口完毕。" SentencePosition="1…79|80…86" Center="3" ChildList="" ParentId="-1" UseTime="12"/>
-  </P>
-</DOC>

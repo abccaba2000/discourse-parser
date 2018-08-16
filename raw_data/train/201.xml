@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC>
-  <P ID="1">
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="无锡市于１９９０年１２月中旬起开展公民义务献血活动，|至１２月２８日，已有５００名公民无偿献血。" SentencePosition="1…26|27…47" Center="3" ChildList="" ParentId="-1" UseTime="4"/>
-  </P>
-</DOC>

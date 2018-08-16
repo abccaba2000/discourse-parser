@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC> 
-  <P ID="3"> 
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="由国务院发展研究中心名誉主任马洪、主任孙尚清主编的经济白皮书，曾获“中国十佳经济读物”称号，它在海内外拥有一大批知名机构和专家学者层的读者。|其主要作者是国家计委、外经贸委、国家体改委、国家统计局、国务院特区办公室、中国社会科学院和国务院发展研究中心的专家与研究人员。他们在以往几年的白皮书中对中国经济发展轨迹的准确描述与预言，受到学术界与实业界好评。" SentencePosition="1…70|71…175" Center="1" ChildList="2|3" ParentId="-1" UseTime="12"/>  
-    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并且" RelationType="并列关系" ConnectivePosition="48-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="由国务院发展研究中心名誉主任马洪、主任孙尚清主编的经济白皮书，曾获“中国十佳经济读物”称号，|它在海内外拥有一大批知名机构和专家学者层的读者。" SentencePosition="1…46|47…70" Center="3" ChildList="" ParentId="1" UseTime="25"/>  
-    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="解说关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="其主要作者是国家计委、外经贸委、国家体改委、国家统计局、国务院特区办公室、中国社会科学院和国务院发展研究中心的专家与研究人员。|他们在以往几年的白皮书中对中国经济发展轨迹的准确描述与预言，受到学术界与实业界好评。" SentencePosition="71…133|134…175" Center="1" ChildList="" ParentId="1" UseTime="12"/>
-  </P> 
-</DOC>

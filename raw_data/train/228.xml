@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC>
-  <P ID="2">
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="顺承关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="埃及总统穆罕默德·胡斯尼·穆巴拉克今天上午结束对中国为时三天的国事访问，|离开北京回国。" SentencePosition="1…36|37…43" Center="3" ChildList="" ParentId="-1" UseTime="6"/>
-  </P>
-</DOC>

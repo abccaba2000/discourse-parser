@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<DOC> 
-  <P ID="2"> 
-    <R ID="1" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="1" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="该剧将一个较为常见的悲欢离合的题材，开创出全新的艺术情境，显示了悲剧的艺术魅力。|上图为女奴妹妹找皇帝哥哥的一个镜头；下图为母子相认的一个镜头。罗明扬摄" SentencePosition="1…40|41…75" Center="3" ChildList="2|3" ParentId="-1" UseTime="6"/>  
-    <R ID="2" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="并" RelationType="并列关系" ConnectivePosition="31-" ConnectiveAttribute="可添加" RoleLocation="normal" LanguageSense="false" Sentence="该剧将一个较为常见的悲欢离合的题材，开创出全新的艺术情境，|显示了悲剧的艺术魅力。" SentencePosition="1…29|30…40" Center="3" ChildList="" ParentId="1" UseTime="15"/>  
-    <R ID="3" StructureType="逐层切分" ConnectiveType="隐式关系" Layer="2" RelationNumber="单个关系" Connective="" RelationType="并列关系" ConnectivePosition="" ConnectiveAttribute="不可添加" RoleLocation="normal" LanguageSense="true" Sentence="上图为女奴妹妹找皇帝哥哥的一个镜头；|下图为母子相认的一个镜头。罗明扬摄" SentencePosition="41…58|59…75" Center="3" ChildList="" ParentId="1" UseTime="4"/>
-  </P> 
-</DOC>

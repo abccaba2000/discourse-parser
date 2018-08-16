@@ -2,7 +2,7 @@
 '''
 define the Corpus class which contains information of a paragraph: text, segments index, relations and the merge structure
 
-merge structure: segments merge to EDU, EDUS merge to bigger discourse unit 
+merge structure: words merge to segments, segments merge to EDU, EDUS merge to bigger discourse unit 
 
 '''
 #to get arguments from shell 
@@ -12,13 +12,27 @@ import args
 import report
 
 #these punctuation divide text to segments
-_ENDs = (u'?', u'”', u'…', u'──', u'、', u'。', u'」', u'！', u'，', u'：', u'；', u'？')
+_ENDs = (u'?', u'”', u'…', u'—', u'、', u'。', u'」', u'！', u'，', u'：', u'；', u'？')
 
-#every time a Corpus is initialized, we assign it an id, using global variable corpus_id_count to count the id
-corpus_id_count = 0
 
 word_to_ix = {}
 oov = 0
+
+#to judge the '——', '。」' condition
+def is_punc_in_text(text, idx):	
+	if text[idx] in _ENDs:
+		if idx+1 < len(text):
+			if text[idx+1] in _ENDs:
+				if text[idx] == u'—' or text[idx+1] != u'—':
+					return False
+		if text[idx] == u'—' and idx > 1:
+			if text[idx-1] != u'—':
+				return False
+		return True
+	else:
+		return False
+	
+
 
 def build_word_to_ix(corpus_list):	
 	
@@ -40,11 +54,8 @@ class Corpus():
 		self.edus_span = []
 		#top-down, pre order
 		self.relations = []
-		
-		#every time a Corpus is initialized, we assign it an id, using global variable corpus_id_count to count the id
-		global corpus_id_count
-		self.id = corpus_id_count
-		corpus_id_count += 1
+		#filename+'-'+paragraph_count ex: 001.xml-1
+		self.id = ''
 	
 	#get a Corpus object from xml rows. The span index is start from 0, not 1, different with the xml format
 	#in xml rows,  the relations are in top down, pre order. This style remains the same
@@ -69,7 +80,35 @@ class Corpus():
 		#get the EDU index by just checking the kinds of the boundary in the relations
 		self.edus_span = self.find_edus_span_from_relations(self.relations)
 		
+	#check whether the edu span and segment span are coodinated
+	def span_certification(self):
+		seg_idx = 0
+		passed = True
+		ends = []
+		for e_span in self.edus_span:
+			start = e_span[0]
+			end = e_span[-1]
+			while start != self.segments_span[seg_idx][0]:
+				ends.append(self.segments_span[seg_idx][-1])
+				seg_idx += 1
+				if seg_idx == len(self.segments_span):
+					print 'certification not passed:', self.id, start
+					passed = False
+					break
+			
+			while end != self.segments_span[seg_idx][-1]:
+				ends.append(self.segments_span[seg_idx][-1])
+				seg_idx += 1
 
+				if seg_idx == len(self.segments_span):
+					print 'certification not passed:', self.id, end
+					print ends
+					passed = False
+					break
+			if not passed:
+				break
+		return 
+			
 	#get segments idx, using the global _EDU tuple to split the text to segments		
 	def text_to_segments_span(self, text):
 		start = 0
@@ -195,4 +234,4 @@ class Relation():
 		# 1, 2, or 3
 		self.center = center
 		return
-		
+#end
