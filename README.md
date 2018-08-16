@@ -10,7 +10,7 @@ Chinese raw text (utf-8) (simplified)
 output_file  
 json format:  
   {  
-    'EDUs':[<edu1>, <edu2>...<edun>]  
-    'tree':{'args':[<subtree>], 'sense':<sense>, 'center':<center>}  
-    'relations':[{'arg1':<arg1>,'arg2':<arg2>,'sense':<sense>,'center':<center>},{...},{...}]  
+    'EDUs':[(edu1), (edu2)...(edun)]  
+    'tree':{'args':[(subtree)], 'sense':(sense), 'center':(center)}  
+    'relations':[{'arg1':(arg1),'arg2':(arg2),'sense':(sense),'center':(center)},{...},{...}]  
   }
